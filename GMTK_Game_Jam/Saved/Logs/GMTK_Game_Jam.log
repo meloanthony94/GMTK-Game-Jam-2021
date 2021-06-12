@@ -1495,3 +1495,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.12-08.19.10:231][ 74]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/GoatD89772FC40CB14B094696A901305A661.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/Goat.uasset'
 [2021.06.12-08.19.10:250][ 74]AssetCheck: New page: Asset Save: Goat
 [2021.06.12-08.19.10:250][ 74]LogContentValidation: Display: Validating Blueprint /Game/Goat.Goat
+[2021.06.12-08.20.41:139][158]BlueprintLog: New page: Compile Goat
+[2021.06.12-08.20.41:249][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.06.12-08.21.13:895][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.06.12-08.21.13:919][ 66]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMapF28D428446CB8498CB2E8383C40361CC.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.12-08.21.14:083][ 66]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMap_BuiltDataD52301C94BBA4A6822F099BB027B8262.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.12-08.21.14:102][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.12-08.21.14:102][ 66]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.12-08.21.14:102][ 66]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.12-08.21.16:759][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.06.12-08.21.16:794][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Goat" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/Goat.uasset" SILENT=true
+[2021.06.12-08.21.16:815][208]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/GoatDE0167BD495ACBFDF49F02BD574E122C.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/Goat.uasset'
+[2021.06.12-08.21.16:833][208]AssetCheck: New page: Asset Save: Goat
+[2021.06.12-08.21.16:833][208]LogContentValidation: Display: Validating Blueprint /Game/Goat.Goat
