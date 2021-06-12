@@ -1668,3 +1668,825 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.12-13.49.43:814][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.12-13.49.43:852][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2021.06.12-13.49.43:901][618]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.12-13.52.09:412][311]BlueprintLog: New page: Compile GigaGoatCharacter
+[2021.06.12-13.52.09:520][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.12-13.52.09:883][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GigaGoatCharacter" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/GigaGoatCharacter.uasset" SILENT=true
+[2021.06.12-13.52.09:901][328]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/GigaGoatCharacterF463B43F4ED799CA2AB2E0BC82043841.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/GigaGoatCharacter.uasset'
+[2021.06.12-13.52.09:920][328]AssetCheck: New page: Asset Save: GigaGoatCharacter
+[2021.06.12-13.52.09:920][328]LogContentValidation: Display: Validating Blueprint /Game/GigaGoatCharacter.GigaGoatCharacter
+[2021.06.12-13.55.07:100][114]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-13.55.07:110][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-13.55.07:110][114]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 5:55:07 AM)
+[2021.06.12-13.55.07:110][114]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-13.55.07:122][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011291s)
+[2021.06.12-13.55.07:123][114]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-13.55.07:123][114]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2021.06.12-13.55.07:123][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012625s)
+[2021.06.12-13.55.07:150][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.12-13.55.07:152][114]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-13.55.07:153][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-13.55.07:153][114]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-13.55.07:153][114]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-13.55.07:161][114]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-13.55.07:161][114]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-13.55.07:196][114]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-13.55.07:196][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-13.55.07:196][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-13.55.07:196][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-13.55.07:197][114]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-13.55.07:197][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-13.55.07:197][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-13.55.07:211][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-13.55.07:211][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-13.55.07:211][114]LogInit: FAudioDevice initialized.
+[2021.06.12-13.55.07:211][114]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-13.55.07:216][114]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-13.55.07:218][114]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-09.55.07
+[2021.06.12-13.55.07:218][114]LogWorld: Bringing up level for play took: 0.001195
+[2021.06.12-13.55.07:218][114]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.12-13.55.07:220][114]PIE: Server logged in
+[2021.06.12-13.55.07:222][114]PIE: Play in editor total start time 0.115 seconds.
+[2021.06.12-13.55.07:222][114]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-13.55.07:222][114]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-14.00.06:597][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.12-14.00.06:615][837]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMapE27BAB124954051DF30AF08113696638.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.12-14.00.06:755][837]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMap_BuiltData81220D5849417AB056CB14A04F06F0D1.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.12-14.00.06:763][837]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.12-14.00.06:763][837]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.12-14.00.06:763][837]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.12-14.00.08:329][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.06.12-14.11.18:070][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.12-14.11.31:957][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.11.31:957][877]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.11.31:958][877]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-14.11.31:958][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.11.31:975][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-14.11.32:010][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.11.32:032][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-14.11.32:032][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.11.32:033][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.11.32:079][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.11.32:082][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.06.12-14.11.32:098][878]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.12-14.11.57:108][349]LogSlate: Took 0.006990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.12-14.12.23:206][901]BlueprintLog: New page: Compile MainCamera
+[2021.06.12-14.12.23:256][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.12-14.12.23:706][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MainCamera" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Blueprints/MainCamera.uasset" SILENT=true
+[2021.06.12-14.12.23:729][924]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera941EC438489D3CB9B68D3FBAD933B1AD.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.12-14.12.23:741][924]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.12-14.12.23:742][924]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.12-14.13.29:385][830]EditorErrors: New page: Actor attachment
+[2021.06.12-14.13.33:877][ 83]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2021.06.12-14.13.33:877][ 83]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2021.06.12-14.13.34:073][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.06.12-14.14.29:021][335]LogEditorViewport: Clicking on Actor (LMB): GigaGoatCharacter_C (GigaGoatCharacter)
+[2021.06.12-14.16.11:743][174]BlueprintLog: New page: Compile MainCamera
+[2021.06.12-14.16.11:801][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.12-14.16.39:581][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.06.12-14.16.44:946][124]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.06.12-14.16.50:269][424]LogEditorViewport: Clicking on Actor (LMB): GigaGoatCharacter_C (GigaGoatCharacter)
+[2021.06.12-14.18.24:911][ 40]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.18.24:960][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.06.12-14.18.25:618][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.06.12-14.18.25:638][ 77]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMap565D81814253C02C266773847CE86EDB.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.12-14.18.25:648][ 77]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.059
+[2021.06.12-14.18.25:670][ 77]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.06.12-14.18.25:670][ 77]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.12-14.18.45:407][257]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.18.45:453][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.06.12-14.19.29:311][764]LogSlate: Window 'Delete Variable' being destroyed
+[2021.06.12-14.19.35:628][140]BlueprintLog: New page: Compile MainCamera
+[2021.06.12-14.19.35:691][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.06.12-14.30.06:811][572]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.30.06:868][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.06.12-14.31.40:216][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.06.12-14.31.40:251][819]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMap_Auto647649DD348B27D2270D83C954F23B9B0.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.06.12-14.31.40:254][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.085
+[2021.06.12-14.31.40:254][819]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2021.06.12-14.31.40:255][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainCamera] ([1] browsable assets)...
+[2021.06.12-14.31.40:255][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainCamera]
+[2021.06.12-14.31.40:279][819]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera_Auto6FE224E144A17637470B9FD9378013B79.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainCamera_Auto6.uasset'
+[2021.06.12-14.31.40:280][819]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.06.12-14.36.52:375][316]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.36.52:427][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.06.12-14.37.28:355][249]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.37.28:399][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.12-14.37.51:574][639]BlueprintLog: New page: Compile GoatCharacter
+[2021.06.12-14.37.51:627][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.12-14.37.52:156][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoatCharacter" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/GoatCharacter.uasset" SILENT=true
+[2021.06.12-14.37.52:181][667]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/GoatCharacterD2834C924F351366A1B02580A1B11B47.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/GoatCharacter.uasset'
+[2021.06.12-14.37.52:195][667]AssetCheck: New page: Asset Save: GoatCharacter
+[2021.06.12-14.37.52:195][667]LogContentValidation: Display: Validating Blueprint /Game/GoatCharacter.GoatCharacter
+[2021.06.12-14.39.56:298][ 69]BlueprintLog: New page: Compile MainCamera
+[2021.06.12-14.39.56:369][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.06.12-14.41.54:496][136]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.41.54:547][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.06.12-14.45.25:642][597]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.45.25:644][597]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: [Compiler] This blueprint (self) is not a MainCamera_C, therefore ' Target ' must have a connection.
+[2021.06.12-14.45.25:703][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.06.12-14.45.48:041][925]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.45.48:088][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.06.12-14.45.48:537][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.06.12-14.45.48:561][948]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMap2F04E1434E473405B954EA8627FC1A42.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.12-14.45.48:571][948]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.064
+[2021.06.12-14.45.48:588][948]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.06.12-14.45.48:588][948]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.12-14.45.58:823][559]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-14.45.58:834][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-14.45.58:835][559]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 6:45:58 AM)
+[2021.06.12-14.45.58:835][559]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.45.58:850][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015313s)
+[2021.06.12-14.45.58:852][559]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-14.45.58:852][559]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2021.06.12-14.45.58:852][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017728s)
+[2021.06.12-14.45.58:892][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.06.12-14.45.58:894][559]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-14.45.58:894][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-14.45.58:894][559]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-14.45.58:894][559]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-14.45.58:904][559]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-14.45.58:904][559]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-14.45.58:938][559]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-14.45.58:938][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-14.45.58:938][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-14.45.58:938][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-14.45.58:939][559]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-14.45.58:939][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-14.45.58:939][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-14.45.58:953][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-14.45.58:953][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-14.45.58:953][559]LogInit: FAudioDevice initialized.
+[2021.06.12-14.45.58:953][559]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-14.45.58:965][559]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-14.45.58:967][559]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-10.45.58
+[2021.06.12-14.45.58:967][559]LogWorld: Bringing up level for play took: 0.001467
+[2021.06.12-14.45.58:967][559]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.06.12-14.45.58:970][559]PIE: Server logged in
+[2021.06.12-14.45.58:970][559]PIE: Play in editor total start time 0.141 seconds.
+[2021.06.12-14.45.58:971][559]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-14.45.58:971][559]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-14.46.07:791][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.46.07:791][ 85]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.46.07:791][ 85]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-14.46.07:791][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.46.07:812][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-14.46.07:846][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.46.07:874][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-14.46.07:874][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.46.07:875][ 85]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.46.07:921][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.46.07:924][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.06.12-14.46.07:957][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.06.12-14.46.33:290][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-14.46.33:300][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-14.46.33:300][989]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 6:46:33 AM)
+[2021.06.12-14.46.33:300][989]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.46.33:310][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011215s)
+[2021.06.12-14.46.33:311][989]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-14.46.33:311][989]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2021.06.12-14.46.33:311][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012738s)
+[2021.06.12-14.46.33:349][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.06.12-14.46.33:351][989]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-14.46.33:351][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-14.46.33:351][989]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-14.46.33:351][989]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-14.46.33:358][989]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-14.46.33:358][989]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-14.46.33:387][989]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-14.46.33:387][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-14.46.33:387][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-14.46.33:388][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-14.46.33:388][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-14.46.33:388][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-14.46.33:388][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-14.46.33:402][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-14.46.33:402][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-14.46.33:402][989]LogInit: FAudioDevice initialized.
+[2021.06.12-14.46.33:402][989]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-14.46.33:427][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.46.33:427][989]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-14.46.33:429][989]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-10.46.33
+[2021.06.12-14.46.33:430][989]LogWorld: Bringing up level for play took: 0.001538
+[2021.06.12-14.46.33:430][989]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.06.12-14.46.33:433][989]PIE: Server logged in
+[2021.06.12-14.46.33:434][989]PIE: Play in editor total start time 0.139 seconds.
+[2021.06.12-14.46.33:436][989]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-14.46.33:436][989]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-14.46.33:481][990]LogRenderer: Reallocating scene render targets to support 1088x832 Format 10 NumSamples 1 (Frame:1).
+[2021.06.12-14.46.34:828][ 70]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_CallDelegate', from offset 10
+[2021.06.12-14.46.34:828][ 70]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/MainCamera.MainCamera_C:InpActEvt_Fuse_K2Node_InputActionEvent_0
+	Function /Game/ThirdPersonBP/Blueprints/MainCamera.MainCamera_C:ExecuteUbergraph_MainCamera
+
+[2021.06.12-14.46.54:505][ 70]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 361
+[2021.06.12-14.46.54:505][ 70]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:RequestFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:GigaGoatFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+
+[2021.06.12-14.47.20:811][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.47.20:811][310]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.47.20:811][310]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.12-14.47.20:815][310]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-14.47.20:815][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.47.20:830][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-14.47.20:875][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.47.20:916][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-14.47.20:916][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.47.20:917][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.47.20:946][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.06.12-14.47.20:966][311]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.06.12-14.47.21:666][353]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-14.47.21:675][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-14.47.21:675][353]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 6:47:21 AM)
+[2021.06.12-14.47.21:675][353]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.47.21:686][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010571s)
+[2021.06.12-14.47.21:687][353]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-14.47.21:687][353]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2021.06.12-14.47.21:687][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011872s)
+[2021.06.12-14.47.21:718][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.06.12-14.47.21:719][353]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-14.47.21:719][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-14.47.21:719][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-14.47.21:720][353]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-14.47.21:720][353]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-14.47.21:726][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-14.47.21:726][353]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-14.47.21:756][353]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-14.47.21:756][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-14.47.21:756][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-14.47.21:756][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-14.47.21:756][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-14.47.21:756][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-14.47.21:756][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-14.47.21:770][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-14.47.21:770][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-14.47.21:770][353]LogInit: FAudioDevice initialized.
+[2021.06.12-14.47.21:770][353]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-14.47.21:800][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.47.21:801][353]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-14.47.21:802][353]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-10.47.21
+[2021.06.12-14.47.21:803][353]LogWorld: Bringing up level for play took: 0.001339
+[2021.06.12-14.47.21:803][353]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.06.12-14.47.21:806][353]PIE: Server logged in
+[2021.06.12-14.47.21:806][353]PIE: Play in editor total start time 0.133 seconds.
+[2021.06.12-14.47.21:807][353]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-14.47.21:807][353]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-14.47.21:858][354]LogRenderer: Reallocating scene render targets to support 1092x840 Format 10 NumSamples 1 (Frame:1).
+[2021.06.12-14.47.22:977][419]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetActorHiddenInGame', from offset 241
+[2021.06.12-14.47.22:977][419]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:RequestFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:GigaGoatFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+
+[2021.06.12-14.47.32:623][529]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetActorHiddenInGame', from offset 241
+[2021.06.12-14.47.32:623][529]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:RequestFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:GigaGoatFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+
+[2021.06.12-14.47.35:071][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.47.35:071][529]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.47.35:071][529]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.12-14.47.35:075][529]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-14.47.35:075][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.47.35:088][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-14.47.35:136][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.47.35:177][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.47.35:178][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.47.35:212][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.06.12-14.47.35:233][530]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.06.12-14.48.58:460][408]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-14.48.58:510][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.12-14.48.58:958][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.06.12-14.48.58:981][431]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMapF7CBD48B4D59320EADD00FAF657FB76F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.12-14.48.58:991][431]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.062
+[2021.06.12-14.48.59:009][431]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.06.12-14.48.59:009][431]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.12-14.49.02:485][640]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-14.49.02:494][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-14.49.02:494][640]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 6:49:02 AM)
+[2021.06.12-14.49.02:494][640]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.49.02:504][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010399s)
+[2021.06.12-14.49.02:505][640]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-14.49.02:505][640]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2021.06.12-14.49.02:506][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011732s)
+[2021.06.12-14.49.02:539][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.06.12-14.49.02:540][640]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.06.12-14.49.02:540][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-14.49.02:540][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-14.49.02:540][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-14.49.02:540][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-14.49.02:541][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-14.49.02:541][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-14.49.02:541][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-14.49.02:541][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-14.49.02:541][640]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-14.49.02:541][640]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-14.49.02:548][640]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-14.49.02:548][640]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-14.49.02:579][640]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-14.49.02:579][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-14.49.02:579][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-14.49.02:579][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-14.49.02:579][640]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-14.49.02:580][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-14.49.02:580][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-14.49.02:593][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-14.49.02:593][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-14.49.02:593][640]LogInit: FAudioDevice initialized.
+[2021.06.12-14.49.02:593][640]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-14.49.02:621][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.49.02:621][640]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-14.49.02:623][640]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-10.49.02
+[2021.06.12-14.49.02:624][640]LogWorld: Bringing up level for play took: 0.001436
+[2021.06.12-14.49.02:624][640]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.06.12-14.49.02:627][640]PIE: Server logged in
+[2021.06.12-14.49.02:628][640]PIE: Play in editor total start time 0.137 seconds.
+[2021.06.12-14.49.02:630][640]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-14.49.02:631][640]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-14.49.02:696][641]LogRenderer: Reallocating scene render targets to support 1092x848 Format 10 NumSamples 1 (Frame:1).
+[2021.06.12-14.49.04:231][728]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetActorHiddenInGame', from offset 291
+[2021.06.12-14.49.04:231][728]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:RequestFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:GigaGoatFusion
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+
+[2021.06.12-14.49.31:930][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-14.49.31:930][806]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-14.49.31:931][806]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.12-14.49.31:941][806]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-14.49.31:942][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.49.31:954][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-14.49.32:000][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-14.49.32:044][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.49.32:045][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-14.49.32:076][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.06.12-14.49.32:100][807]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.06.12-14.50.34:570][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.06.12-14.51.15:529][895]LogEditorViewport: Clicking on Actor (LMB): GoatCharacter_C (GoatCharacter)
+[2021.06.12-14.51.34:164][981]LogEditorViewport: Clicking on Actor (LMB): GoatCharacter_C (GoatCharacter2)
+[2021.06.12-14.51.47:525][764]LogEditorTransaction: Undo Create Pin Link
+[2021.06.12-14.54.32:667][652]LogEditorTransaction: Undo Move Nodes
+[2021.06.12-14.54.33:652][702]LogEditorTransaction: Undo Paste clipboard contents
+[2021.06.12-14.55.51:742][341]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.06.12-14.55.51:742][341]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  GigaGoatFusion  and was replaced as a Custom Event!
+[2021.06.12-14.58.21:325][257]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.12-14.58.22:362][257]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.038 s
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: 
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: Stack: 
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffca6bbd149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffca6a62141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffca6a60db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffca6a6e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffca6ae6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffca6ae4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfe4fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfe4faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfe51ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfe51ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfe4faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfe51ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d64a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:363][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d63dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d66d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0c9252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffcd0d67aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfc1977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfc4b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfc1a0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfc71e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffccfc71659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ff77337ae49 UE4Editor.exe!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ff77339117c UE4Editor.exe!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ff77339125a UE4Editor.exe!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ff7733a52bd UE4Editor.exe!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ff7733a7fea UE4Editor.exe!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffd3f497034 KERNEL32.DLL!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: [Callstack] 0x00007ffd40182651 ntdll.dll!UnknownFunction []
+[2021.06.12-14.58.22:364][257]LogOutputDevice: Error: 
+[2021.06.12-14.58.22:368][257]LogStats:                SubmitErrorReport -  0.000 s
+[2021.06.12-14.58.24:327][257]LogStats:                    SendNewReport -  1.960 s
+[2021.06.12-14.58.24:327][257]LogStats:             FDebug::EnsureFailed -  3.002 s
+[2021.06.12-15.00.55:001][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.12-15.00.55:031][242]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/ThirdPersonExampleMapDCEACA8C42951AB00FDCA8A804D95667.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.12-15.00.55:042][242]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.078
+[2021.06.12-15.00.55:057][242]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.06.12-15.00.55:057][242]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.12-15.01.55:269][828]LogEditorTransaction: Undo Move Node
+[2021.06.12-15.02.34:668][170]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.06.12-15.02.34:716][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.06.12-15.02.44:012][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.02.44:023][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.02.44:023][723]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 7:02:44 AM)
+[2021.06.12-15.02.44:023][723]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.02.44:035][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012055s)
+[2021.06.12-15.02.44:036][723]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-15.02.44:037][723]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2021.06.12-15.02.44:037][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013713s)
+[2021.06.12-15.02.44:070][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.12-15.02.44:071][723]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-15.02.44:071][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-15.02.44:071][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-15.02.44:072][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-15.02.44:072][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-15.02.44:080][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-15.02.44:080][723]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-15.02.44:110][723]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-15.02.44:110][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-15.02.44:110][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-15.02.44:110][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-15.02.44:110][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-15.02.44:110][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-15.02.44:110][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-15.02.44:123][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-15.02.44:123][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-15.02.44:123][723]LogInit: FAudioDevice initialized.
+[2021.06.12-15.02.44:123][723]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-15.02.44:132][723]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-15.02.44:133][723]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-11.02.44
+[2021.06.12-15.02.44:134][723]LogWorld: Bringing up level for play took: 0.001176
+[2021.06.12-15.02.44:134][723]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.06.12-15.02.44:136][723]PIE: Server logged in
+[2021.06.12-15.02.44:137][723]PIE: Play in editor total start time 0.118 seconds.
+[2021.06.12-15.02.44:137][723]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-15.02.44:137][723]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-15.04.59:547][ 38]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:01B4
+[2021.06.12-15.04.59:547][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.04.59:547][ 38]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:021F
+[2021.06.12-15.04.59:547][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.04.59:547][ 38]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0059
+[2021.06.12-15.04.59:547][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.04.59:762][ 51]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0293
+[2021.06.12-15.04.59:763][ 51]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.04.59:763][ 51]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:02FE
+[2021.06.12-15.04.59:763][ 51]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.04.59:763][ 51]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00F7
+[2021.06.12-15.04.59:763][ 51]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.04.59:946][ 62]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:01B4
+[2021.06.12-15.04.59:946][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.04.59:946][ 62]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:021F
+[2021.06.12-15.04.59:946][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.04.59:947][ 62]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0059
+[2021.06.12-15.04.59:947][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.05.00:113][ 72]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0293
+[2021.06.12-15.05.00:113][ 72]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.05.00:113][ 72]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:02FE
+[2021.06.12-15.05.00:113][ 72]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.05.00:113][ 72]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00F7
+[2021.06.12-15.05.00:113][ 72]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.05.00:296][ 83]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:01B4
+[2021.06.12-15.05.00:296][ 83]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.05.00:297][ 83]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:021F
+[2021.06.12-15.05.00:297][ 83]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.05.00:297][ 83]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0059
+[2021.06.12-15.05.00:297][ 83]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.05.01:730][169]LogScript: Warning: Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_10
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0293
+[2021.06.12-15.05.01:730][169]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.05.01:730][169]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.05.01:730][169]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.05.02:213][198]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2021.06.12-15.05.02:213][198]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Enable Collision
+[2021.06.12-15.05.02:213][198]PIE: Error: Blueprint Runtime Error: "Attempted to access GoatCharacter_2 via property GoatCharacter_2_ExecuteUbergraph_ThirdPersonExampleMap_RefProperty, but GoatCharacter_2 is pending kill". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Actor Tick Enabled
+[2021.06.12-15.05.19:689][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.05.19:689][784]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.05.19:690][784]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-15.05.19:690][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-15.05.19:703][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.05.19:746][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-15.05.19:780][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-15.05.19:780][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-15.05.19:781][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-15.05.19:800][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.05.19:803][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.06.12-15.05.19:931][785]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.06.12-15.05.23:111][966]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.05.23:122][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.05.23:122][966]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 7:05:23 AM)
+[2021.06.12-15.05.23:123][966]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.05.23:134][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011473s)
+[2021.06.12-15.05.23:135][966]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-15.05.23:135][966]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2021.06.12-15.05.23:135][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012643s)
+[2021.06.12-15.05.23:170][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.06.12-15.05.23:171][966]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.06.12-15.05.23:171][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-15.05.23:171][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-15.05.23:171][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-15.05.23:172][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-15.05.23:172][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-15.05.23:172][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-15.05.23:172][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-15.05.23:172][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-15.05.23:172][966]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-15.05.23:172][966]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-15.05.23:180][966]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-15.05.23:180][966]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-15.05.23:212][966]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-15.05.23:212][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-15.05.23:212][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-15.05.23:212][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-15.05.23:212][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-15.05.23:212][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-15.05.23:212][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-15.05.23:228][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-15.05.23:228][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-15.05.23:228][966]LogInit: FAudioDevice initialized.
+[2021.06.12-15.05.23:228][966]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-15.05.23:238][966]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-15.05.23:240][966]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-11.05.23
+[2021.06.12-15.05.23:241][966]LogWorld: Bringing up level for play took: 0.001147
+[2021.06.12-15.05.23:241][966]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.06.12-15.05.23:243][966]PIE: Server logged in
+[2021.06.12-15.05.23:243][966]PIE: Play in editor total start time 0.124 seconds.
+[2021.06.12-15.05.23:244][966]LogInput: Error: Duplicate mapping of key None for axis MoveForwardLeftGoat
+[2021.06.12-15.05.23:244][966]LogInput: Error: Duplicate mapping of key None for axis MoveForwardRightGoat
+[2021.06.12-15.05.50:750][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.05.50:750][603]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.05.50:751][603]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-15.05.50:751][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-15.05.50:759][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.05.50:800][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-15.05.50:833][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.12-15.05.50:833][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-15.05.50:834][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-15.05.50:863][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.05.50:865][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.06.12-15.05.50:913][604]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.06.12-15.06.40:552][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MainCamera" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Blueprints/MainCamera.uasset" SILENT=true
+[2021.06.12-15.06.40:578][553]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCameraAE71515747DA9E8F3BF099BFF811B26E.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.12-15.06.40:593][553]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.12-15.06.40:593][553]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.12-15.07.06:452][ 99]Cmd: TRANSACTION UNDO
+[2021.06.12-15.07.06:452][ 99]LogEditorTransaction: Undo Remove Axis Mapping Group
+[2021.06.12-15.07.14:817][594]Cmd: TRANSACTION UNDO
+[2021.06.12-15.07.14:817][594]LogEditorTransaction: Undo Remove Axis Mapping Group
+[2021.06.12-15.07.15:870][651]Cmd: TRANSACTION UNDO
+[2021.06.12-15.07.15:870][651]LogEditorTransaction: Undo Delete current selection
+[2021.06.12-15.07.36:862][893]MapCheck: New page: Map Check
+[2021.06.12-15.07.36:894][893]Cmd: MAP REBUILD ALLVISIBLE
+[2021.06.12-15.07.36:894][893]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.06.12-15.07.36:989][893]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.06.12-15.07.37:006][893]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.06.12-15.07.37:006][893]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.06.12-15.07.37:006][893]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.06.12-15.07.37:039][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.12-15.07.37:052][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.37:059][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.37:061][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.37:062][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.37:064][893]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.12-15.07.37:064][893]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.12-15.07.37:064][893]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.12-15.07.37:064][893]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.12-15.07.37:064][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.12-15.07.37:064][893]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.06.12-15.07.37:064][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.37:065][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.37:067][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.12-15.07.38:772][893]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.06.12-15.07.38:773][893]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.06.12-15.07.38:773][893]TextureStreamingBuild: Display: Compiling optional shaders took 1.729 seconds.
+[2021.06.12-15.07.38:795][893]LogLevel: Display: Export Material TexCoord Scales took 0.023 seconds.
+[2021.06.12-15.07.38:798][893]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.06.12-15.07.38:829][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.06.12-15.07.38:834][893]LogEditorBuildUtils: Build time 0:01
+[2021.06.12-15.07.41:011][996]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.07.41:022][996]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.12-15.07.41:024][996]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2021.06.12-15.07.41:130][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.06.12-15.07.41:131][996]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (1 blueprints)
+[2021.06.12-15.07.41:131][996]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 7:07:41 AM)
+[2021.06.12-15.07.41:133][996]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.07.41:146][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013300s)
+[2021.06.12-15.07.41:147][996]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-15.07.41:148][996]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2021.06.12-15.07.41:148][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014991s)
+[2021.06.12-15.07.41:204][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.06.12-15.07.41:205][996]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-15.07.41:205][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-15.07.41:205][996]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-15.07.41:205][996]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-15.07.41:212][996]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-15.07.41:212][996]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-15.07.41:243][996]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-15.07.41:244][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-15.07.41:244][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-15.07.41:244][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-15.07.41:244][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-15.07.41:244][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-15.07.41:244][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-15.07.41:260][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-15.07.41:260][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-15.07.41:260][996]LogInit: FAudioDevice initialized.
+[2021.06.12-15.07.41:260][996]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-15.07.41:271][996]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-15.07.41:273][996]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-11.07.41
+[2021.06.12-15.07.41:273][996]LogWorld: Bringing up level for play took: 0.001194
+[2021.06.12-15.07.41:273][996]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.06.12-15.07.41:275][996]PIE: Server logged in
+[2021.06.12-15.07.41:276][996]PIE: Play in editor total start time 0.257 seconds.
+[2021.06.12-15.08.38:750][441]Set new viewmode: Unlit
+[2021.06.12-15.08.39:634][494]Set new viewmode: Unlit
+[2021.06.12-15.08.41:451][603]Set new viewmode: Unlit
+[2021.06.12-15.08.44:218][769]Set new viewmode: Unlit
+[2021.06.12-15.08.48:959][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.08.48:959][ 47]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.08.48:959][ 47]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.12-15.08.48:960][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-15.08.48:985][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.12-15.08.49:032][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.12-15.08.49:067][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.12-15.08.49:068][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-15.08.49:069][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.12-15.08.49:110][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.06.12-15.08.49:143][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.06.12-15.08.54:976][381]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.12-15.08.54:988][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.12-15.08.54:988][381]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 7:08:54 AM)
+[2021.06.12-15.08.54:988][381]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.12-15.08.55:002][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013610s)
+[2021.06.12-15.08.55:003][381]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.12-15.08.55:003][381]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2021.06.12-15.08.55:003][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015070s)
+[2021.06.12-15.08.55:051][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.06.12-15.08.55:054][381]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.12-15.08.55:054][381]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.12-15.08.55:054][381]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.12-15.08.55:055][381]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.12-15.08.55:055][381]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.12-15.08.55:062][381]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.12-15.08.55:062][381]LogAudioMixer: Display: 1: FrontRight
+[2021.06.12-15.08.55:095][381]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.12-15.08.55:095][381]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.12-15.08.55:095][381]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.12-15.08.55:095][381]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.12-15.08.55:096][381]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.12-15.08.55:096][381]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.12-15.08.55:096][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.12-15.08.55:111][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.12-15.08.55:111][381]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.12-15.08.55:111][381]LogInit: FAudioDevice initialized.
+[2021.06.12-15.08.55:111][381]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonExampleMap'.
+[2021.06.12-15.08.55:123][381]LogLoad: Game class is 'NewBlueprint_C'
+[2021.06.12-15.08.55:124][381]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.12-11.08.55
+[2021.06.12-15.08.55:125][381]LogWorld: Bringing up level for play took: 0.001152
+[2021.06.12-15.08.55:125][381]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.06.12-15.08.55:127][381]PIE: Server logged in
+[2021.06.12-15.08.55:128][381]PIE: Play in editor total start time 0.143 seconds.
+[2021.06.12-15.08.57:088][496]LogSlate: Window 'Message Log' being destroyed
+[2021.06.12-15.08.57:094][496]LogSlate: Window 'Message Log' being destroyed
