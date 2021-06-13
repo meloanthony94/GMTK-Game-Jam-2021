@@ -784,3 +784,113 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.13-04.59.09:425][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.06.13-04.59.09:667][  3]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.06.13-04.59.10:406][ 43]LogSlate: Took 0.001062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.13-05.00.11:838][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.13-05.00.12:230][990]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.13-05.00.12:230][990]Cmd: MAP LOAD FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.13-05.00.12:230][990]LightingResults: New page: Lighting Build
+[2021.06.13-05.00.12:231][990]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.06.13-05.00.12:232][990]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.06.13-05.00.12:266][990]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.00.12:266][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.00.12:266][990]MapCheck: New page: Map Check
+[2021.06.13-05.00.12:266][990]LightingResults: New page: Lighting Build
+[2021.06.13-05.00.12:277][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.13-05.00.12:278][990]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.06.13-05.00.12:375][990]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.13-05.00.12:375][990]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.13-05.00.12:385][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.13-05.00.12:396][990]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.13-05.00.12:397][990]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.35ms to complete.
+[2021.06.13-05.00.12:397][990]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.168
+[2021.06.13-05.00.20:709][481]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.00.20:721][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.00.20:722][481]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 12, 2021, 9:00:20 PM)
+[2021.06.13-05.00.20:723][481]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.13-05.00.20:725][481]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.13-05.00.20:725][481]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.13-05.00.20:748][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022744s)
+[2021.06.13-05.00.20:749][481]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.13-05.00.20:749][481]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2021.06.13-05.00.20:749][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024356s)
+[2021.06.13-05.00.20:759][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.06.13-05.00.20:761][481]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.00.20:761][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.00.20:761][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.00.20:763][481]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.00.20:763][481]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.00.20:782][481]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.00.20:782][481]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.00.20:822][481]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.00.20:822][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.00.20:822][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.00.20:822][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.00.20:823][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.00.20:823][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.00.20:823][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.00.20:840][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.00.20:840][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.00.20:840][481]LogInit: FAudioDevice initialized.
+[2021.06.13-05.00.20:840][481]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.06.13-05.00.20:853][481]LogLinker: Warning: Failed to load '/Game/NewBlueprint': Can't find file.
+[2021.06.13-05.00.20:853][481]LogLinker: Warning: Failed to load '/Game/NewBlueprint': Can't find file.
+[2021.06.13-05.00.20:853][481]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/NewBlueprint.NewBlueprint_C'
+[2021.06.13-05.00.20:853][481]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.00.20:856][481]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.06.13-01.00.20
+[2021.06.13-05.00.20:856][481]LogWorld: Bringing up level for play took: 0.002330
+[2021.06.13-05.00.20:856][481]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.06.13-05.00.20:860][481]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.06.13-05.00.20:861][481]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-05.00.20:863][481]PIE: Server logged in
+[2021.06.13-05.00.20:865][481]PIE: Play in editor total start time 0.147 seconds.
+[2021.06.13-05.00.37:800][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.00.37:800][492]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.13-05.00.37:800][492]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.00.37:800][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.00.37:811][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.00.37:813][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.00.37:818][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.00.37:818][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.00.37:819][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.00.37:852][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.00.37:854][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.13-05.00.37:875][493]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.06.13-05.00.55:062][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.13-05.00.55:554][512]LogAssetEditorSubsystem: Opening Asset editor for World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.00.55:554][512]Cmd: MAP LOAD FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.13-05.00.55:554][512]LightingResults: New page: Lighting Build
+[2021.06.13-05.00.55:554][512]LoadErrors: New page: Loading map: test_level_v001.umap
+[2021.06.13-05.00.55:557][512]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.00.55:557][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.00.55:557][512]MapCheck: New page: Map Check
+[2021.06.13-05.00.55:558][512]LightingResults: New page: Lighting Build
+[2021.06.13-05.00.55:565][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.00.55:571][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.06.13-05.00.55:572][512]LogAudio: Display: Audio Device (ID: 1) registered with world 'test_level_v001'.
+[2021.06.13-05.00.55:771][512]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.13-05.00.55:771][512]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.00.55:783][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.13-05.00.55:793][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.13-05.00.55:794][512]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2021.06.13-05.00.55:794][512]LogFileHelpers: Loading map 'test_level_v001' took 0.240
+[2021.06.13-05.01.27:311][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.01.27:608][387]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.06.13-05.01.28:685][387]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.13-05.01.28:827][388]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.13-05.01.48:563][499]LogSlate: Window 'MainCamera' being destroyed
+[2021.06.13-05.01.51:435][664]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.test_level_v001
+[2021.06.13-05.01.51:894][664]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.13-05.01.58:531][ 57]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.06.13-05.01.58:531][ 57]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2021.06.13-05.02.29:074][865]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.02.29:164][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.06.13-05.02.40:699][357]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.02.40:786][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.06.13-05.02.41:680][393]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera82948E9645337823D2BF718FB41E5C38.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.02.41:699][393]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.02.41:699][393]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
