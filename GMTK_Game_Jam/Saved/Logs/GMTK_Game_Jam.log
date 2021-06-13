@@ -18228,3 +18228,169 @@ Script call stack:
 [2021.06.13-09.55.41:018][522]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v00191693BE843C53311BE3DC98E07476B6C.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
 [2021.06.13-09.55.41:049][522]AssetCheck: New page: Asset Save: test_level_v001
 [2021.06.13-09.55.41:049][522]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.00.39:385][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.13-10.00.39:736][516]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001BE405B454E90B0E16642E9A83E8C07D4.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.00.39:781][516]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.00.39:781][516]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.01.00:291][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.03:513][896]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.12:445][425]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.01.13:575][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.15:041][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.15:747][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.23:644][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.33:186][648]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.34:561][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.01.50:810][696]Cmd: TRANSACTION UNDO
+[2021.06.13-10.01.50:810][696]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.02.05:837][575]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.02.26:497][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.02.55:099][470]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.03.30:645][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.03.40:293][145]Cmd: TRANSACTION UNDO
+[2021.06.13-10.03.40:293][145]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.03.44:840][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.03.58:887][228]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.04.16:033][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.04.43:517][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.05.04:606][110]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.06.12:669][138]Cmd: TRANSACTION UNDO
+[2021.06.13-10.06.12:669][138]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.07.58:438][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_largeRockB33)
+[2021.06.13-10.08.01:197][568]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.08.55:843][795]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.09.17:415][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.09.31:644][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.10.08:085][ 73]Cmd: TRANSACTION UNDO
+[2021.06.13-10.10.08:085][ 73]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.10.27:568][222]Cmd: TRANSACTION UNDO
+[2021.06.13-10.10.27:568][222]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.10.39:240][902]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.11.12:468][855]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.11.22:168][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.12.08:343][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_largeRockB44)
+[2021.06.13-10.12.10:405][279]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.12.12:011][372]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.12.15:557][580]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.12.18:952][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.12.24:447][100]LogEditorViewport: Clicking on Actor (double click): InstancedFoliageActor (InstancedFoliageActor)
+[2021.06.13-10.12.27:820][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_largeRockB44)
+[2021.06.13-10.12.28:847][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_largeRockB44)
+[2021.06.13-10.12.30:268][441]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.12.48:226][495]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.06.13-10.12.49:716][580]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.12.50:797][642]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.12.55:545][925]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.12.59:771][174]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.13.13:149][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_largeRockB39)
+[2021.06.13-10.13.15:551][108]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.13.31:034][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2021.06.13-10.13.32:732][122]LogEditorViewport: Clicking on Actor (LMB): Track_C (Track)
+[2021.06.13-10.13.39:510][522]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.06.13-10.13.41:455][636]LogEditorViewport: Clicking on Actor (double click): Track_C (Track)
+[2021.06.13-10.14.12:952][489]Cmd: TRANSACTION UNDO
+[2021.06.13-10.14.12:952][489]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.14.28:395][387]Cmd: TRANSACTION UNDO
+[2021.06.13-10.14.28:395][387]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.14.42:079][189]Cmd: TRANSACTION UNDO
+[2021.06.13-10.14.42:079][189]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.15.29:242][957]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.06.13-10.15.30:334][ 20]Cmd: TRANSACTION UNDO
+[2021.06.13-10.15.30:334][ 20]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.17.14:930][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.17.23:824][703]Cmd: TRANSACTION UNDO
+[2021.06.13-10.17.23:824][703]LogEditorTransaction: Undo Move Actors
+[2021.06.13-10.17.33:925][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.06.13-10.17.34:345][287]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v00110E51495479C276AC2FC11A6364C0C41.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.17.34:386][287]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.17.34:386][287]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.17.34:995][324]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-10.17.35:012][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-10.17.35:012][324]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 2:17:35 AM)
+[2021.06.13-10.17.35:012][324]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.17.35:098][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085851s)
+[2021.06.13-10.17.35:100][324]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-10.17.35:101][324]LogPlayLevel: PIE: World Init took: (0.002599s)
+[2021.06.13-10.17.35:101][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.088880s)
+[2021.06.13-10.17.35:110][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.13-10.17.35:111][324]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.13-10.17.35:111][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-10.17.35:111][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-10.17.35:111][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-10.17.35:111][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-10.17.35:111][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-10.17.35:112][324]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-10.17.35:112][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-10.17.35:112][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-10.17.35:113][324]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-10.17.35:113][324]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-10.17.35:128][324]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-10.17.35:128][324]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-10.17.35:172][324]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-10.17.35:173][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-10.17.35:173][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-10.17.35:173][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-10.17.35:174][324]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-10.17.35:174][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-10.17.35:174][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-10.17.35:176][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-10.17.35:176][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-10.17.35:176][324]LogInit: FAudioDevice initialized.
+[2021.06.13-10.17.35:176][324]LogAudio: Display: Audio Device (ID: 6) registered with world 'test_level_v001'.
+[2021.06.13-10.17.35:206][324]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.17.35:215][324]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-06.17.35
+[2021.06.13-10.17.35:217][324]LogWorld: Bringing up level for play took: 0.010095
+[2021.06.13-10.17.35:217][324]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.06.13-10.17.35:221][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-10.17.35:221][324]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/SaveGames/SaveGame.sav' error.
+[2021.06.13-10.17.35:221][324]PIE: Server logged in
+[2021.06.13-10.17.35:222][324]PIE: Play in editor total start time 0.215 seconds.
+[2021.06.13-10.17.42:931][783]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=12.15 Y=33.12 Z=0.00 Location: X=2611.23 Y=-754.06 Z=220.78 Normal: X=-0.12 Y=0.04 Z=0.99 PenetrationDepth:0.149 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-10.19.16:406][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.19.16:406][388]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.19.16:406][388]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.19.16:407][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.19.16:416][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-10.19.16:424][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.19.16:431][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.19.16:433][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.19.16:434][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.19.16:470][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.13-10.19.16:505][389]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.06.13-10.19.19:734][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.06.13-10.19.20:143][568]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0017CE0DEC7466F60939C8418911DA01DD9.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.19.20:200][568]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.19.20:200][568]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.19.26:984][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.19.39:413][693]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.19.44:303][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ProxyBabyGoat2)
+[2021.06.13-10.19.48:687][206]Cmd: DELETE
+[2021.06.13-10.19.48:688][206]Cmd: ACTOR DELETE
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: x-pressed (AutoDXT, 168X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: x-unpressed (AutoDXT, 168X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: how_to_play-pressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: quite_game-pressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: how_to_play-unpressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: quit_game-unpressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: credits-pressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: play-pressed (AutoDXT, 472X280)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: play-unpressed (AutoDXT, 472X280)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: title (BGRA8, 926X523)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: credits-unpressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: continue-unpressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: blank_-_for_how_to_play__etc_ (BGRA8, 1381X920)
+[2021.06.13-10.19.49:101][206]LogTexture: Display: Building textures: continue-pressed (AutoDXT, 472X168)
+[2021.06.13-10.19.49:101][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.13-10.19.49:108][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.13-10.19.49:109][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.13-10.19.49:120][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.06.13-10.19.49:126][206]LogEditorActor: Deleted 3 Actors (0.438 secs)
+[2021.06.13-10.19.50:201][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.06.13-10.19.50:594][268]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0013CF94EF34ACF36679222AAB8527D8F11.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.19.50:629][268]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.19.50:629][268]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.19.53:571][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.06.13-10.19.53:981][438]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0010C86C00C47BDC781622BF1877A81AC9A.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.19.54:016][438]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.19.54:016][438]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.19.55:027][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
