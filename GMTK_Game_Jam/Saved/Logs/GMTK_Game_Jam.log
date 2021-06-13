@@ -2204,3 +2204,113 @@ Script call stack:
 [2021.06.13-02.18.23:408][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.13-02.18.23:424][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
 [2021.06.13-02.18.23:444][648]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.13-02.19.16:551][519]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-02.19.16:556][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-02.19.16:556][519]PIE: New page: PIE session: MainMenuMap (Jun 12, 2021, 12:19:16 PM)
+[2021.06.13-02.19.16:556][519]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-02.19.16:558][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001374s)
+[2021.06.13-02.19.16:558][519]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-02.19.16:559][519]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2021.06.13-02.19.16:559][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.002188s)
+[2021.06.13-02.19.16:579][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.06.13-02.19.16:580][519]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-02.19.16:580][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-02.19.16:581][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-02.19.16:581][519]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-02.19.16:581][519]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-02.19.16:583][519]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-02.19.16:583][519]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-02.19.16:594][519]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-02.19.16:595][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-02.19.16:595][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-02.19.16:595][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-02.19.16:595][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-02.19.16:595][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-02.19.16:595][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-02.19.16:606][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-02.19.16:606][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-02.19.16:606][519]LogInit: FAudioDevice initialized.
+[2021.06.13-02.19.16:606][519]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuMap'.
+[2021.06.13-02.19.16:616][519]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-02.19.16:617][519]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.06.12-19.19.16
+[2021.06.13-02.19.16:617][519]LogWorld: Bringing up level for play took: 0.000207
+[2021.06.13-02.19.16:617][519]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.06.13-02.19.16:619][519]PIE: Server logged in
+[2021.06.13-02.19.16:620][519]PIE: Play in editor total start time 0.064 seconds.
+[2021.06.13-02.19.27:944][868]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.06.13-02.19.27:944][868]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.06.13-02.19.27:944][868]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-02.19.27:944][868]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-02.19.27:944][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-02.19.28:004][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-02.19.28:007][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.06.13-02.19.28:025][868]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.06.13-02.19.28:026][868]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.13-02.19.28:027][868]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-02.19.28:043][868]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.12-19.19.28
+[2021.06.13-02.19.28:044][868]LogWorld: Bringing up level for play took: 0.016443
+[2021.06.13-02.19.28:044][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-02.19.28:045][868]LogLoad: Took 0.101207 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2021.06.13-02.19.32:389][386]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.13-02.19.32:389][386]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.13-02.19.32:389][386]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.13-02.19.33:622][534]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-02.19.33:622][534]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-02.19.33:622][534]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.13-02.19.33:622][534]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-02.19.33:622][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-02.19.33:675][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-02.19.33:678][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.13-02.19.33:679][534]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-02.19.33:680][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001362s)
+[2021.06.13-02.19.33:681][534]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-02.19.33:681][534]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2021.06.13-02.19.33:681][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.002204s)
+[2021.06.13-02.19.33:681][534]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuMap'.
+[2021.06.13-02.19.33:681][534]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-02.19.33:682][534]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.06.12-19.19.33
+[2021.06.13-02.19.33:682][534]LogWorld: Bringing up level for play took: 0.000241
+[2021.06.13-02.19.33:682][534]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-02.19.33:683][534]LogLoad: Took 0.061424 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap)
+[2021.06.13-02.19.36:786][905]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.06.13-02.19.36:786][905]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.06.13-02.19.36:786][905]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-02.19.36:786][905]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-02.19.36:786][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-02.19.36:834][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-02.19.36:837][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.06.13-02.19.36:855][905]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.06.13-02.19.36:856][905]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.13-02.19.36:856][905]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-02.19.36:872][905]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.12-19.19.36
+[2021.06.13-02.19.36:872][905]LogWorld: Bringing up level for play took: 0.015139
+[2021.06.13-02.19.36:873][905]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.13-02.19.36:873][905]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.13-02.19.36:873][905]LogLoad: Took 0.087185 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2021.06.13-02.19.44:160][776]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.13-02.19.44:160][776]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.13-02.19.44:160][776]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.13-02.19.45:133][892]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-02.19.45:133][892]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-02.19.45:133][892]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.13-02.19.45:134][892]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-02.19.45:134][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-02.19.45:175][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-02.19.45:179][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.13-02.19.45:180][892]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-02.19.45:181][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001338s)
+[2021.06.13-02.19.45:182][892]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-02.19.45:182][892]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2021.06.13-02.19.45:182][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.002180s)
+[2021.06.13-02.19.45:182][892]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuMap'.
+[2021.06.13-02.19.45:182][892]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-02.19.45:183][892]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.06.12-19.19.45
+[2021.06.13-02.19.45:183][892]LogWorld: Bringing up level for play took: 0.000225
+[2021.06.13-02.19.45:183][892]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-02.19.45:184][892]LogLoad: Took 0.051020 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap)
