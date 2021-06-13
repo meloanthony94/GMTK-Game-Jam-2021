@@ -18394,3 +18394,928 @@ Script call stack:
 [2021.06.13-10.19.54:016][438]AssetCheck: New page: Asset Save: test_level_v001
 [2021.06.13-10.19.54:016][438]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
 [2021.06.13-10.19.55:027][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.06.13-10.20.50:332][773]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-10.20.50:351][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-10.20.50:351][773]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 2:20:50 AM)
+[2021.06.13-10.20.50:352][773]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.20.50:432][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079324s)
+[2021.06.13-10.20.50:433][773]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-10.20.50:433][773]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2021.06.13-10.20.50:433][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.080891s)
+[2021.06.13-10.20.50:444][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.13-10.20.50:445][773]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-10.20.50:445][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-10.20.50:445][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-10.20.50:445][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-10.20.50:457][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-10.20.50:457][773]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-10.20.50:497][773]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-10.20.50:498][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-10.20.50:498][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-10.20.50:498][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-10.20.50:499][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-10.20.50:499][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-10.20.50:499][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-10.20.50:520][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-10.20.50:521][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-10.20.50:521][773]LogInit: FAudioDevice initialized.
+[2021.06.13-10.20.50:521][773]LogAudio: Display: Audio Device (ID: 7) registered with world 'test_level_v001'.
+[2021.06.13-10.20.50:527][773]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.20.50:534][773]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-06.20.50
+[2021.06.13-10.20.50:534][773]LogWorld: Bringing up level for play took: 0.006693
+[2021.06.13-10.20.50:535][773]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.13-10.20.50:538][773]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-10.20.50:538][773]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/SaveGames/SaveGame.sav' error.
+[2021.06.13-10.20.50:538][773]PIE: Server logged in
+[2021.06.13-10.20.50:540][773]PIE: Play in editor total start time 0.192 seconds.
+[2021.06.13-10.20.52:906][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.20.52:906][911]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.20.52:906][911]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.20.52:908][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.20.52:919][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-10.20.52:921][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.20.52:926][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.20.52:927][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.20.52:928][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.20.52:956][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.20.52:964][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.06.13-10.20.52:987][912]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.13-10.21.08:183][819]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-10.21.16:389][307]Cmd: DELETE
+[2021.06.13-10.21.16:390][307]Cmd: ACTOR DELETE
+[2021.06.13-10.21.16:407][307]LogEditorActor: Deleted Actor: Track_C
+[2021.06.13-10.21.16:413][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.13-10.21.16:415][307]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.06.13-10.21.17:924][397]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-10.21.17:936][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-10.21.17:936][397]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 2:21:17 AM)
+[2021.06.13-10.21.17:936][397]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.21.18:025][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088050s)
+[2021.06.13-10.21.18:026][397]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-10.21.18:026][397]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2021.06.13-10.21.18:026][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.089734s)
+[2021.06.13-10.21.18:035][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.13-10.21.18:035][397]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-10.21.18:036][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-10.21.18:036][397]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-10.21.18:036][397]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-10.21.18:046][397]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-10.21.18:046][397]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-10.21.18:084][397]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-10.21.18:084][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-10.21.18:084][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-10.21.18:084][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-10.21.18:084][397]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-10.21.18:084][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-10.21.18:084][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-10.21.18:101][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-10.21.18:101][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-10.21.18:101][397]LogInit: FAudioDevice initialized.
+[2021.06.13-10.21.18:101][397]LogAudio: Display: Audio Device (ID: 8) registered with world 'test_level_v001'.
+[2021.06.13-10.21.18:112][397]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.21.18:118][397]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-06.21.18
+[2021.06.13-10.21.18:118][397]LogWorld: Bringing up level for play took: 0.005859
+[2021.06.13-10.21.18:118][397]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.13-10.21.18:121][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-10.21.18:121][397]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/SaveGames/SaveGame.sav' error.
+[2021.06.13-10.21.18:121][397]PIE: Server logged in
+[2021.06.13-10.21.18:122][397]PIE: Play in editor total start time 0.19 seconds.
+[2021.06.13-10.21.43:895][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.21.43:895][728]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.21.43:895][728]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.21.43:896][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.21.43:900][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-10.21.43:902][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.21.43:908][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.21.43:910][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.21.43:911][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.21.43:955][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.06.13-10.21.43:983][729]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.13-10.22.41:824][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.13-10.22.42:129][198]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v00152C7A7D0486E6BCB87697C9DAC679F5D.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.22.42:156][198]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.22.42:156][198]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.23.19:819][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.06.13-10.23.20:162][445]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001FD12245544DAB44F5DCB2C947747CF6F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.23.20:191][445]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.23.20:191][445]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.24.29:613][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.06.13-10.24.29:884][488]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0010938C5E742954EEEA79170BB7A4D4950.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.24.29:904][488]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.24.29:904][488]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.24.30:387][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.06.13-10.24.30:452][517]LogTexture: Display: Building textures: finish (BGRA8, 926X523)
+[2021.06.13-10.24.30:460][517]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NordDashContent/ThirdPersonBP/Maps/FinishMenuMap.FinishMenuMap
+[2021.06.13-10.24.30:460][517]Cmd: MAP LOAD FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Maps/FinishMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.13-10.24.30:460][517]LightingResults: New page: Lighting Build
+[2021.06.13-10.24.30:460][517]LoadErrors: New page: Loading map: FinishMenuMap.umap
+[2021.06.13-10.24.30:464][517]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.24.30:464][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.24.30:464][517]MapCheck: New page: Map Check
+[2021.06.13-10.24.30:464][517]LightingResults: New page: Lighting Build
+[2021.06.13-10.24.30:469][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.24.30:481][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.06.13-10.24.30:483][517]LogAudio: Display: Audio Device (ID: 1) registered with world 'FinishMenuMap'.
+[2021.06.13-10.24.30:537][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.13-10.24.30:537][517]LogAIModule: Creating AISystem for world FinishMenuMap
+[2021.06.13-10.24.30:544][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.13-10.24.30:552][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.13-10.24.30:553][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.06.13-10.24.30:553][517]LogFileHelpers: Loading map 'FinishMenuMap' took 0.092
+[2021.06.13-10.24.33:495][691]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-10.24.33:505][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-10.24.33:505][691]PIE: New page: PIE session: FinishMenuMap (Jun 13, 2021, 2:24:33 AM)
+[2021.06.13-10.24.33:506][691]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap
+[2021.06.13-10.24.33:507][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001174s)
+[2021.06.13-10.24.33:508][691]LogAIModule: Creating AISystem for world FinishMenuMap
+[2021.06.13-10.24.33:508][691]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2021.06.13-10.24.33:508][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/FinishMenuMap.FinishMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap.FinishMenuMap (0.002230s)
+[2021.06.13-10.24.33:513][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.13-10.24.33:513][691]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-10.24.33:514][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-10.24.33:514][691]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-10.24.33:514][691]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-10.24.33:522][691]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-10.24.33:522][691]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-10.24.33:552][691]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-10.24.33:553][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-10.24.33:553][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-10.24.33:553][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-10.24.33:553][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-10.24.33:553][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-10.24.33:553][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-10.24.33:567][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-10.24.33:567][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-10.24.33:567][691]LogInit: FAudioDevice initialized.
+[2021.06.13-10.24.33:567][691]LogAudio: Display: Audio Device (ID: 9) registered with world 'FinishMenuMap'.
+[2021.06.13-10.24.33:576][691]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.24.33:576][691]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap.FinishMenuMap up for play (max tick rate 60) at 2021.06.13-06.24.33
+[2021.06.13-10.24.33:577][691]LogWorld: Bringing up level for play took: 0.000273
+[2021.06.13-10.24.33:577][691]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.13-10.24.33:583][691]PIE: Warning: The widget 'FinishMenu_C' was already added to the screen.
+[2021.06.13-10.24.33:583][691]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/SaveGames/SaveGame.sav' error.
+[2021.06.13-10.24.33:583][691]PIE: Server logged in
+[2021.06.13-10.24.33:584][691]PIE: Play in editor total start time 0.081 seconds.
+[2021.06.13-10.24.33:587][691]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2021.06.13-10.24.35:017][777]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-10.24.35:018][777]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-10.24.35:018][777]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap
+[2021.06.13-10.24.35:018][777]LogWorld: UWorld::CleanupWorld for FinishMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.24.35:018][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.24.35:045][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.24.35:047][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.13-10.24.35:055][777]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenuMap'.
+[2021.06.13-10.24.35:055][777]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-10.24.35:056][777]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.24.35:057][777]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.06.13-06.24.35
+[2021.06.13-10.24.35:057][777]LogWorld: Bringing up level for play took: 0.000766
+[2021.06.13-10.24.35:058][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-10.24.35:059][777]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/SaveGames/SaveGame.sav' error.
+[2021.06.13-10.24.35:062][777]LogLoad: Took 0.043807 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap)
+[2021.06.13-10.24.35:070][777]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2021.06.13-10.24.40:745][118]LogNet: Browse: /Game/goatGame/maps/level/test_level_v001
+[2021.06.13-10.24.40:745][118]LogLoad: LoadMap: /Game/goatGame/maps/level/test_level_v001
+[2021.06.13-10.24.40:745][118]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-10.24.40:745][118]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.24.40:746][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.24.40:786][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.24.40:788][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.13-10.24.40:887][118]LogAudio: Display: Audio Device (ID: 9) registered with world 'test_level_v001'.
+[2021.06.13-10.24.40:888][118]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-10.24.40:889][118]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.24.40:901][118]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-06.24.40
+[2021.06.13-10.24.40:901][118]LogWorld: Bringing up level for play took: 0.012033
+[2021.06.13-10.24.40:902][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-10.24.40:903][118]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-10.24.40:903][118]LogLoad: Took 0.158077 seconds to LoadMap(/Game/goatGame/maps/level/test_level_v001)
+[2021.06.13-10.24.48:244][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.24.48:244][555]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.24.48:245][555]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.24.48:245][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.24.48:254][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-10.24.48:256][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.24.48:261][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.24.48:262][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.24.48:263][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.24.48:291][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.13-10.24.48:373][556]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.13-10.24.53:549][861]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-10.24.53:560][861]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-10.25.33:411][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.13-10.25.33:454][734]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap
+[2021.06.13-10.25.33:454][734]Cmd: MAP LOAD FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.13-10.25.33:454][734]LightingResults: New page: Lighting Build
+[2021.06.13-10.25.33:454][734]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.06.13-10.25.33:481][734]LogWorld: UWorld::CleanupWorld for FinishMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.25.33:481][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.25.33:482][734]MapCheck: New page: Map Check
+[2021.06.13-10.25.33:482][734]LightingResults: New page: Lighting Build
+[2021.06.13-10.25.33:486][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.25.33:487][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.13-10.25.33:487][734]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.06.13-10.25.33:535][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.13-10.25.33:535][734]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-10.25.33:541][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.13-10.25.33:549][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.13-10.25.33:549][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2021.06.13-10.25.33:549][734]LogFileHelpers: Loading map 'MainMenuMap' took 0.095
+[2021.06.13-10.25.34:941][816]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-10.25.34:951][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-10.25.34:951][816]PIE: New page: PIE session: MainMenuMap (Jun 13, 2021, 2:25:34 AM)
+[2021.06.13-10.25.34:951][816]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-10.25.34:952][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001426s)
+[2021.06.13-10.25.34:953][816]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-10.25.34:953][816]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2021.06.13-10.25.34:953][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.002403s)
+[2021.06.13-10.25.34:958][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.13-10.25.34:959][816]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-10.25.34:959][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-10.25.34:959][816]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-10.25.34:959][816]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-10.25.34:966][816]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-10.25.34:966][816]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-10.25.34:996][816]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-10.25.34:997][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-10.25.34:997][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-10.25.34:997][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-10.25.34:997][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-10.25.34:997][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-10.25.34:997][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-10.25.35:011][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-10.25.35:011][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-10.25.35:011][816]LogInit: FAudioDevice initialized.
+[2021.06.13-10.25.35:011][816]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenuMap'.
+[2021.06.13-10.25.35:022][816]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.25.35:023][816]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.06.13-06.25.35
+[2021.06.13-10.25.35:023][816]LogWorld: Bringing up level for play took: 0.000265
+[2021.06.13-10.25.35:023][816]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.13-10.25.35:026][816]PIE: Server logged in
+[2021.06.13-10.25.35:026][816]PIE: Play in editor total start time 0.079 seconds.
+[2021.06.13-10.25.35:029][816]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2021.06.13-10.25.42:455][262]LogNet: Browse: /Game/goatGame/maps/level/test_level_v001
+[2021.06.13-10.25.42:455][262]LogLoad: LoadMap: /Game/goatGame/maps/level/test_level_v001
+[2021.06.13-10.25.42:455][262]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-10.25.42:455][262]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.25.42:455][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.25.42:497][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.25.42:498][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.13-10.25.42:594][262]LogAudio: Display: Audio Device (ID: 10) registered with world 'test_level_v001'.
+[2021.06.13-10.25.42:595][262]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-10.25.42:595][262]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-10.25.42:609][262]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-06.25.42
+[2021.06.13-10.25.42:610][262]LogWorld: Bringing up level for play took: 0.014178
+[2021.06.13-10.25.42:610][262]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-10.25.42:611][262]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-10.25.42:612][262]LogLoad: Took 0.156999 seconds to LoadMap(/Game/goatGame/maps/level/test_level_v001)
+[2021.06.13-10.25.46:314][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.25.46:314][481]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-10.25.46:314][481]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.25.46:315][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.25.46:325][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-10.25.46:326][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.25.46:332][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-10.25.46:332][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.25.46:333][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-10.25.46:373][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.13-10.25.46:388][482]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.13-10.25.58:891][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.13-10.25.59:030][225]LogAssetEditorSubsystem: Opening Asset editor for World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.25.59:030][225]Cmd: MAP LOAD FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.13-10.25.59:030][225]LightingResults: New page: Lighting Build
+[2021.06.13-10.25.59:030][225]LoadErrors: New page: Loading map: test_level_v001.umap
+[2021.06.13-10.25.59:031][225]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-10.25.59:031][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-10.25.59:031][225]MapCheck: New page: Map Check
+[2021.06.13-10.25.59:031][225]LightingResults: New page: Lighting Build
+[2021.06.13-10.25.59:037][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-10.25.59:040][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.13-10.25.59:040][225]LogAudio: Display: Audio Device (ID: 1) registered with world 'test_level_v001'.
+[2021.06.13-10.25.59:160][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.13-10.25.59:160][225]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-10.25.59:170][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.13-10.25.59:178][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.13-10.25.59:178][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.06.13-10.25.59:178][225]LogFileHelpers: Loading map 'test_level_v001' took 0.148
+[2021.06.13-10.26.16:529][258]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/Track.Track
+[2021.06.13-10.26.17:234][258]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2021.06.13-10.26.18:181][258]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.13-10.28.29:055][945]LogSlate: Window 'Track' being destroyed
+[2021.06.13-10.28.50:415][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.06.13-10.28.50:734][129]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0015928026948B834413725F7986AFA2F19.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-10.28.50:760][129]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-10.28.50:760][129]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-10.29.45:693][424]LogRenderer: Reallocating scene render targets to support 960x500 Format 10 NumSamples 1 (Frame:1).
+[2021.06.13-10.29.52:701][733]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.13-10.29.52:799][733]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-10.29.52:799][733]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-13.01.17:585][739]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.13-13.01.18:238][739]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-13.01.18:238][739]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE97CFFF1-48D9-9E2E-91C6-C0A5D29B05CB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=690b2de441e6026dd1b89586c3d06adc%7C3e5ee694ff5743af8bf4d75a809df0ae%7Ce9809989-91eb-4f6c-b9f8-d2f310e73368&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15bd1ed3eb0 [can pipeline])
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.148.225) port 443 (#0))
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.13-13.01.18:865][740]LogHttp: Warning: 0000015C23CD1D00: libcurl info message cache 7 (Closing connection 0)
+[2021.06.13-13.01.18:866][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE97CFFF1-48D9-9E2E-91C6-C0A5D29B05CB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=690b2de441e6026dd1b89586c3d06adc%7C3e5ee694ff5743af8bf4d75a809df0ae%7Ce9809989-91eb-4f6c-b9f8-d2f310e73368&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.13-13.01.18:880][740]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.13-13.01.19:345][740]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-13.01.19:345][740]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-13.02.20:434][997]LogEditorViewport: Clicking on Actor (LMB): MainCamera_C (MainCamera)
+[2021.06.13-13.02.20:957][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-13.02.33:427][766]LogEditorViewport: Clicking on Actor (LMB): GoatCharacter_C (Right Goat)
+[2021.06.13-13.02.49:884][736]Cmd: TRANSACTION UNDO
+[2021.06.13-13.02.49:884][736]LogEditorTransaction: Undo Move Actors
+[2021.06.13-13.02.50:363][759]Cmd: TRANSACTION UNDO
+[2021.06.13-13.02.50:363][759]LogEditorTransaction: Undo Move Actors
+[2021.06.13-13.03.13:515][131]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.13:515][131]LogEditorTransaction: Undo Move Actors
+[2021.06.13-13.03.14:034][156]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.14:034][156]LogEditorTransaction: Undo Set Scale
+[2021.06.13-13.03.14:341][173]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.14:341][173]LogEditorTransaction: Undo Set Scale
+[2021.06.13-13.03.14:774][199]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.14:774][199]LogEditorTransaction: Undo Set Scale
+[2021.06.13-13.03.15:374][235]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.15:374][235]LogEditorTransaction: Undo Set Scale
+[2021.06.13-13.03.15:942][269]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.15:942][269]LogEditorTransaction: Undo Set Scale
+[2021.06.13-13.03.16:291][290]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.16:291][290]LogEditorTransaction: Undo Set Scale
+[2021.06.13-13.03.16:674][313]Cmd: TRANSACTION UNDO
+[2021.06.13-13.03.16:674][313]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.13-13.03.44:617][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.06.13-13.03.44:859][686]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_Auto15701080B48912A76CB6FB480127E0A53.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Autosaves/Game/goatGame/maps/level/test_level_v001_Auto1.umap'
+[2021.06.13-13.03.44:862][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/goatGame/maps/level/test_level_v001' took 0.267
+[2021.06.13-13.03.44:862][686]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.267
+[2021.06.13-13.04.36:678][851]LogRenderer: Reallocating scene render targets to support 960x504 Format 10 NumSamples 1 (Frame:14951).
+[2021.06.13-13.04.36:756][852]LogRenderer: Reallocating scene render targets to support 960x508 Format 10 NumSamples 1 (Frame:14955).
+[2021.06.13-13.04.36:821][853]LogRenderer: Reallocating scene render targets to support 960x512 Format 10 NumSamples 1 (Frame:14959).
+[2021.06.13-13.04.36:932][857]LogRenderer: Reallocating scene render targets to support 960x516 Format 10 NumSamples 1 (Frame:14968).
+[2021.06.13-13.04.37:047][858]LogRenderer: Reallocating scene render targets to support 960x520 Format 10 NumSamples 1 (Frame:14975).
+[2021.06.13-13.07.20:800][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.13-13.07.20:843][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.13-13.07.21:080][973]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001032758E74051E479D4B85A8371046940.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-13.07.21:092][973]LogFileHelpers: Saving map 'test_level_v001' took 0.268
+[2021.06.13-13.07.21:106][973]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-13.07.21:106][973]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-13.07.33:716][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.13-13.09.07:315][720]LogMainFrame: Project does not require temp target
+[2021.06.13-13.09.07:326][720]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2021.06.13-13.09.07:713][720]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.06.13-13.09.07:713][720]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/GMTK_Game_Jam.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/GMTK_Game_Jam.uproject" -cook -stage -archive -archivedirectory="D:/Unreal Projects/Builds" -package -ue4exe="C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2021.06.13-13.09.08:286][746]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\GMTK_Game_Jam.uproject
+[2021.06.13-13.09.08:585][764]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.06.13-13.09.08:602][765]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\GMTK_Game_Jam.uproject
+[2021.06.13-13.09.08:602][765]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.06.13-09.09.08.txt
+[2021.06.13-13.09.08:602][765]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\GMTK_Game_Jam.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.06.13-09.09.08.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.06.13-13.09.09:069][793]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: GMTK_Game_Jam
+[2021.06.13-13.09.10:430][873]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17049354240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.13-13.09.10:881][900]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.13-13.09.10:914][902]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.13-13.09.10:949][904]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.13-13.09.10:949][904]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.13-13.09.10:949][904]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.13-13.09.10:964][905]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.13-13.09.10:982][906]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.13-13.09.11:002][907]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.13-13.09.11:002][907]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.13-13.09.11:031][909]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.13-13.09.11:047][910]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.13-13.09.11:080][912]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.13-13.09.11:080][912]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.13-13.09.11:098][913]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.13-13.09.11:098][913]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.13-13.09.11:115][914]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.13-13.09.11:130][915]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.13-13.09.11:149][916]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.13-13.09.11:149][916]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.13-13.09.11:164][917]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.13-13.09.11:164][917]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.13-13.09.11:184][918]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.13-13.09.11:199][919]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.13-13.09.11:199][919]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.06.13-13.09.11:199][919]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.13-13.09.11:923][962]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.13-13.09.12:646][  3]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.13-13.09.12:729][  8]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sonyk/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.13-13.09.12:745][  9]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.13-13.09.12:779][ 11]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/sonyk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=165.37MBs, RandomWriteSpeed=59.30MBs. Assigned SpeedClass 'Local'
+[2021.06.13-13.09.14:492][ 75]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.13-13.09.14:492][ 75]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.13-13.09.15:489][ 78]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.13-13.09.15:489][ 78]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.06.13-13.09.15:489][ 78]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.06.13-13.09.21:181][397]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.06.13-13.09.21:198][398]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.06.13-13.09.21:198][398]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.06.13-13.09.21:216][399]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.028 seconds for platforms WindowsNoEditor
+[2021.06.13-13.09.23:492][535]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/NewBlueprint
+[2021.06.13-13.09.23:492][535]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 47 Total 47
+[2021.06.13-13.09.23:492][535]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=162, VirtualMemory=461MiB
+[2021.06.13-13.09.23:492][535]PackagingResults: Warning: Unable to find package for cooking /Game/NewBlueprint
+[2021.06.13-13.09.24:564][596]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_tiling, compiling.
+[2021.06.13-13.09.25:121][625]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 191 Packages Remain 131 Total 322
+[2021.06.13-13.09.25:228][630]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_tiling, compiling.
+[2021.06.13-13.09.25:354][636]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_dirtLayer, compiling.
+[2021.06.13-13.09.25:530][645]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_foliage, compiling.
+[2021.06.13-13.09.25:634][650]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_Waterfall, compiling.
+[2021.06.13-13.09.25:835][657]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_sky, compiling.
+[2021.06.13-13.09.25:852][658]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_Splash, compiling.
+[2021.06.13-13.09.25:957][662]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_Mist, compiling.
+[2021.06.13-13.09.26:078][667]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BigSplash, compiling.
+[2021.06.13-13.09.26:259][675]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BabyGoatBody_2, compiling.
+[2021.06.13-13.09.26:280][675]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Head_2, compiling.
+[2021.06.13-13.09.26:314][676]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Armor_2, compiling.
+[2021.06.13-13.09.26:347][677]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Head, compiling.
+[2021.06.13-13.09.27:563][720]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_tiling, compiling.
+[2021.06.13-13.09.27:639][723]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 299 Packages Remain 24 Total 323
+[2021.06.13-13.09.27:643][723]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Armor, compiling.
+[2021.06.13-13.09.27:681][725]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material M_BabyGoatBody, compiling.
+[2021.06.13-13.09.28:918][777]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 304 Packages Remain 19 Total 323
+[2021.06.13-13.09.30:928][858]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 308 Packages Remain 15 Total 323
+[2021.06.13-13.09.36:924][116]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 308 Packages Remain 15 Total 323
+[2021.06.13-13.09.39:522][224]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 309 Packages Remain 14 Total 323
+[2021.06.13-13.09.40:916][282]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 310 Packages Remain 13 Total 323
+[2021.06.13-13.09.46:920][540]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 310 Packages Remain 13 Total 323
+[2021.06.13-13.09.52:925][797]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 310 Packages Remain 13 Total 323
+[2021.06.13-13.09.54:920][882]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 311 Packages Remain 12 Total 323
+[2021.06.13-13.09.54:920][882]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=326, VirtualMemory=785MiB
+[2021.06.13-13.10.00:424][115]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 312 Packages Remain 11 Total 323
+[2021.06.13-13.10.04:913][305]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 312 Packages Remain 11 Total 323
+[2021.06.13-13.10.09:142][482]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 313 Packages Remain 10 Total 323
+[2021.06.13-13.10.14:928][724]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 313 Packages Remain 10 Total 323
+[2021.06.13-13.10.19:180][900]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 9 Total 323
+[2021.06.13-13.10.24:918][137]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 9 Total 323
+[2021.06.13-13.10.26:923][220]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=326, VirtualMemory=794MiB
+[2021.06.13-13.10.30:926][384]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 314 Packages Remain 9 Total 323
+[2021.06.13-13.10.33:260][479]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 315 Packages Remain 8 Total 323
+[2021.06.13-13.10.38:916][710]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 315 Packages Remain 8 Total 323
+[2021.06.13-13.10.43:562][898]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 316 Packages Remain 7 Total 323
+[2021.06.13-13.10.44:927][953]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 6 Total 323
+[2021.06.13-13.10.47:593][ 61]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 5 Total 323
+[2021.06.13-13.10.51:239][211]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 319 Packages Remain 4 Total 323
+[2021.06.13-13.10.53:869][318]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 320 Packages Remain 3 Total 323
+[2021.06.13-13.10.56:427][422]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 321 Packages Remain 2 Total 323
+[2021.06.13-13.10.57:691][473]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 322 Packages Remain 1 Total 323
+[2021.06.13-13.10.58:914][521]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=326, VirtualMemory=795MiB
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 323 Packages Remain 0 Total 323
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=326, VirtualMemory=795MiB
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.06.13-13.10.59:321][541]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.06.13-13.10.59:322][541]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.06.13-13.10.59:385][545]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.06.13-13.10.59:401][546]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 320, size is 247.47kb
+[2021.06.13-13.10.59:401][546]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 3733, Total Shaders: 4115, Unique Shadermaps: 273
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 8.70mb, Total Shader Size: 9.34mb
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 68.316548s total time 103.998924
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 817 MiB Peak Used physical 880 MiB
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.028s (1)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.006s (1)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.002s (1)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 68.251s (316968)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.042s (634349)
+[2021.06.13-13.10.59:437][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 2.065s (323)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 65.639s (315989)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.489s (47)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.866s (318)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.866s (276)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 1.881s (323)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 1.867s (323)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.005s (323)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (320)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.006s (323)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.003s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.003s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.035s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.009s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.071s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.017s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.020s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.003s (1)
+[2021.06.13-13.10.59:438][548]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.005321s to verify the EDL loading graph.
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=754.693748
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.971726
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=666
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=3.725130
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=666
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.06.13-13.10.59:455][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.06.13-13.10.59:456][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.06.13-13.10.59:456][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=137
+[2021.06.13-13.10.59:456][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=6
+[2021.06.13-13.10.59:456][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=274
+[2021.06.13-13.10.59:456][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=2.645224
+[2021.06.13-13.10.59:456][549]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2021.06.13-13.10.59:472][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=29
+[2021.06.13-13.10.59:472][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=159
+[2021.06.13-13.10.59:472][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=151
+[2021.06.13-13.10.59:472][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.06.13-13.10.59:472][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=323
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.709895
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.570691
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.082123
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000271
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.001784
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.004257
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000490
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.292548
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.401741
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.050158
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=172.228051
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.06.13-13.10.59:473][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=110.633060
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=6.611111
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=104.016056
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=8.060774
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.001752
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=68.538251
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=2.065207
+[2021.06.13-13.10.59:474][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.880793
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=1.354385
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=14.412969
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.397401
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.536455
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.074788
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       887
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       903
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.982281
+[2021.06.13-13.10.59:475][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.678848
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.303433
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.017719
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =        16
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =        16
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.52                   0.52             0          6.56
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.36                   0.36            16          6.68
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.35                   0.35             0         26.48
+[2021.06.13-13.10.59:476][550]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.31                   0.00             0         65.63
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.08                   0.08             0         29.21
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LandscapeCollision (Heightfield)                0.07                   0.07             0          8.01
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.04                   0.04             0          9.63
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.01                   0.01             0          1.00
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.05
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.00                   0.00             0          0.02
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         49.60
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.00                   0.00             0          0.00
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/NewBlueprint
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 1 warning(s)
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   
+[2021.06.13-13.10.59:487][551]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  104.05 seconds
+[2021.06.13-13.10.59:701][564]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.06.13-13.11.00:185][593]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.13-13.11.01:401][666]UATHelper: Packaging (Windows (64-bit)): Took 112.801234s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.06.13-13.11.01:436][668]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.06.13-13.11.01:436][668]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.06.13-13.11.01:538][674]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditor.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseLightmass.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Category.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Editor.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Engine.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2021.06.13-13.11.01:753][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2021.06.13-13.11.01:754][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2021.06.13-13.11.01:754][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2021.06.13-13.11.01:754][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2021.06.13-13.11.01:754][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Config\DefaultEditor.ini
+[2021.06.13-13.11.01:754][687]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.06.13-13.11.01:869][694]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Saved\StagedBuilds\WindowsNoEditor
+[2021.06.13-13.11.01:869][694]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.06.13-13.11.02:020][703]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)): Output from: "D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\GMTK_Game_Jam.uproject" "D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Saved\StagedBuilds\WindowsNoEditor\GMTK_Game_Jam\Content\Paks\GMTK_Game_Jam-WindowsNoEditor.pak" -create="C:\Users\sonyk\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\PakList_GMTK_Game_Jam-WindowsNoEditor.txt" -cryptokeys="D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Saved\Cooked\WindowsNoEditor\GMTK_Game_Jam\Metadata\Crypto.json" -order="D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\sonyk\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\UnrealPak-GMTK_Game_Jam-WindowsNoEditor-2021.06.13-09.11.02.txt"
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\sonyk\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.26\PakList_GMTK_Game_Jam-WindowsNoEditor.txt
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1779 entries to add to pak file.
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1779 files in 0.01s.
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Saved\StagedBuilds\WindowsNoEditor\GMTK_Game_Jam\Content\Paks\GMTK_Game_Jam-WindowsNoEditor.pak.
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/sonyk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1779 files, 204414907 bytes total, time 3.70s.
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 21462 bytes
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 44002 bytes
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 58391 bytes
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 3.763760 seconds
+[2021.06.13-13.11.06:897][989]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.06.13-13.11.06:913][990]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: D:\Unreal Projects\GMTK-Game-Jam-2021\GMTK_Game_Jam\Saved\StagedBuilds\WindowsNoEditor
+[2021.06.13-13.11.07:513][ 26]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.06.13-13.11.07:513][ 26]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.06.13-13.11.07:513][ 26]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.06.13-13.11.07:513][ 26]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.06.13-13.11.07:513][ 26]UATHelper: Packaging (Windows (64-bit)): Archiving to D:/Unreal Projects/Builds
+[2021.06.13-13.11.08:381][ 78]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.06.13-13.11.08:397][ 79]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.06.13-13.11.08:397][ 79]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.06.13-13.19.48:313][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable.Collectable
+[2021.06.13-13.22.06:747][518]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2021.06.13-13.22.06:748][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/goatGame/maps/level/test_level_v001' took 0.115
+[2021.06.13-13.22.06:752][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable] ([1] browsable assets)...
+[2021.06.13-13.22.06:775][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable.Collectable]
+[2021.06.13-13.22.06:775][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable]
+[2021.06.13-13.22.06:811][518]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Collectable_Auto22C8F55364E97C4B6BC422C96B675FC07.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Autosaves/Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable_Auto2.uasset'
+[2021.06.13-13.22.06:812][518]LogFileHelpers: Auto-saving content packages took 0.064
+[2021.06.13-13.22.24:863][830]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/CollectableBBC1146C40419B62AA81218410AA7951.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/Collectable.uasset'
+[2021.06.13-13.22.24:886][830]AssetCheck: New page: Asset Save: Collectable
+[2021.06.13-13.22.24:886][830]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable.Collectable
+[2021.06.13-13.25.04:864][313]LogEditorViewport: Clicking on Actor (LMB): MainCamera_C (MainCamera)
+[2021.06.13-13.25.22:119][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-13.27.16:410][112]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.27.16:512][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.06.13-13.27.21:382][384]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-13.27.21:392][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-13.27.21:392][384]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 5:27:21 AM)
+[2021.06.13-13.27.21:392][384]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-13.27.21:447][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055278s)
+[2021.06.13-13.27.21:448][384]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-13.27.21:449][384]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2021.06.13-13.27.21:449][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.056729s)
+[2021.06.13-13.27.21:481][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.06.13-13.27.21:482][384]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-13.27.21:482][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-13.27.21:482][384]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-13.27.21:482][384]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-13.27.21:491][384]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-13.27.21:491][384]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-13.27.21:523][384]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-13.27.21:524][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-13.27.21:524][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-13.27.21:524][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-13.27.21:524][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-13.27.21:524][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-13.27.21:524][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-13.27.21:540][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-13.27.21:540][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-13.27.21:540][384]LogInit: FAudioDevice initialized.
+[2021.06.13-13.27.21:540][384]LogAudio: Display: Audio Device (ID: 11) registered with world 'test_level_v001'.
+[2021.06.13-13.27.21:547][384]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-13.27.21:553][384]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-09.27.21
+[2021.06.13-13.27.21:554][384]LogWorld: Bringing up level for play took: 0.006175
+[2021.06.13-13.27.21:554][384]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.13-13.27.21:556][384]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-13.27.21:557][384]PIE: Server logged in
+[2021.06.13-13.27.21:558][384]PIE: Play in editor total start time 0.17 seconds.
+[2021.06.13-13.28.38:528][998]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=59.55 Y=83.89 Z=0.00 Location: X=30202.27 Y=-1515.70 Z=1701.02 Normal: X=0.17 Y=0.02 Z=0.98 PenetrationDepth:0.388 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_94 BoneName:None (0 other events since notify)
+[2021.06.13-13.28.39:129][ 34]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=-77.48 Y=-226.40 Z=0.00 Location: X=30739.12 Y=-1487.23 Z=1549.57 Normal: X=0.31 Y=-0.15 Z=0.94 PenetrationDepth:1.091 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_94 BoneName:None (0 other events since notify)
+[2021.06.13-13.28.58:796][887]LogBlueprintUserMessages: [MainCamera_2] END
+[2021.06.13-13.29.01:845][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-13.29.01:845][ 67]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-13.29.01:846][ 67]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-13.29.01:846][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-13.29.01:874][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-13.29.01:884][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-13.29.01:913][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-13.29.01:913][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-13.29.01:914][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-13.29.01:934][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-13.29.01:939][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.06.13-13.29.01:972][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.13-13.34.04:890][579]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.13-13.36.22:874][814]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.36.22:981][814]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.06.13-13.36.43:686][ 43]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.36.43:770][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.06.13-13.39.48:687][ 37]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.39.48:773][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.06.13-13.40.48:168][480]LogSlate: Window 'Delete Variable' being destroyed
+[2021.06.13-13.40.55:708][918]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.40.55:792][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.06.13-13.40.56:332][936]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera90EF50444A2F8B1BEA0C959AC210674F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-13.40.56:358][936]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-13.40.56:358][936]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-13.41.04:673][434]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.41.04:755][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.13-13.41.52:073][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.06.13-13.41.52:317][983]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_Auto37652C6FC42E7BA475E4354A085F05002.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Autosaves/Game/goatGame/maps/level/test_level_v001_Auto3.umap'
+[2021.06.13-13.41.52:320][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/goatGame/maps/level/test_level_v001' took 0.281
+[2021.06.13-13.41.52:320][983]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.281
+[2021.06.13-13.41.52:320][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera] ([1] browsable assets)...
+[2021.06.13-13.41.52:338][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera]
+[2021.06.13-13.41.52:338][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera]
+[2021.06.13-13.41.52:419][983]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera_Auto39E0FD024435D4ED1678685AF5C920E61.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Autosaves/Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera_Auto3.uasset'
+[2021.06.13-13.41.52:420][983]LogFileHelpers: Auto-saving content packages took 0.099
+[2021.06.13-13.42.56:614][  9]LogContentBrowser: Attempting asset rename: FinishMenuMap -> FinishMenuMap
+[2021.06.13-13.43.02:578][365]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-13.43.02:662][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.13-13.43.03:241][387]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera22B0769849C30D942C9982A44517DF99.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-13.43.03:254][387]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-13.43.03:254][387]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-13.43.05:397][515]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-13.43.05:407][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-13.43.05:407][515]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 5:43:05 AM)
+[2021.06.13-13.43.05:407][515]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-13.43.05:462][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054726s)
+[2021.06.13-13.43.05:463][515]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-13.43.05:463][515]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2021.06.13-13.43.05:463][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.056116s)
+[2021.06.13-13.43.05:496][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.06.13-13.43.05:497][515]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-13.43.05:497][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-13.43.05:497][515]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-13.43.05:497][515]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-13.43.05:505][515]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-13.43.05:505][515]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-13.43.05:536][515]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-13.43.05:536][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-13.43.05:536][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-13.43.05:536][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-13.43.05:536][515]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-13.43.05:536][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-13.43.05:536][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-13.43.05:537][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-13.43.05:537][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-13.43.05:537][515]LogInit: FAudioDevice initialized.
+[2021.06.13-13.43.05:537][515]LogAudio: Display: Audio Device (ID: 12) registered with world 'test_level_v001'.
+[2021.06.13-13.43.05:557][515]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-13.43.05:565][515]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-09.43.05
+[2021.06.13-13.43.05:566][515]LogWorld: Bringing up level for play took: 0.007558
+[2021.06.13-13.43.05:566][515]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.13-13.43.05:568][515]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-13.43.05:569][515]PIE: Server logged in
+[2021.06.13-13.43.05:570][515]PIE: Play in editor total start time 0.166 seconds.
+[2021.06.13-13.43.13:470][987]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=15.67 Y=30.39 Z=0.00 Location: X=2954.62 Y=-367.80 Z=236.43 Normal: X=-0.12 Y=0.10 Z=0.99 PenetrationDepth:1.072 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-13.43.15:853][130]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=3.42 Y=-34.20 Z=0.00 Location: X=4785.13 Y=-1339.02 Z=536.21 Normal: X=0.01 Y=-0.50 Z=0.87 PenetrationDepth:0.937 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-13.43.16:854][190]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=120.64 Y=-291.19 Z=0.00 Location: X=5643.53 Y=-866.99 Z=597.24 Normal: X=0.11 Y=-0.60 Z=0.79 PenetrationDepth:15.433 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (34 other events since notify)
+[2021.06.13-13.43.18:054][262]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=-11.55 Y=32.17 Z=0.00 Location: X=6288.84 Y=357.16 Z=653.61 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.019 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_100 BoneName:None (46 other events since notify)
+[2021.06.13-13.43.19:404][343]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=-12.57 Y=31.74 Z=0.00 Location: X=7358.66 Y=771.27 Z=653.58 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.042 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_100 BoneName:None (3 other events since notify)
+[2021.06.13-13.43.45:408][902]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=-15.38 Y=-30.66 Z=0.00 Location: X=18892.62 Y=9681.62 Z=964.57 Normal: X=-0.41 Y=-0.08 Z=0.91 PenetrationDepth:0.578 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_101 BoneName:None (29 other events since notify)
+[2021.06.13-13.44.22:493][127]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=80.23 Y=110.88 Z=0.00 Location: X=30189.53 Y=-1522.86 Z=1703.37 Normal: X=0.15 Y=0.04 Z=0.99 PenetrationDepth:0.314 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_94 BoneName:None (40 other events since notify)
+[2021.06.13-13.44.47:814][645]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/FinishMenuMap
+[2021.06.13-13.44.47:814][645]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/FinishMenuMap
+[2021.06.13-13.44.47:814][645]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-13.44.47:814][645]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-13.44.47:815][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-13.44.47:844][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-13.44.47:849][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.06.13-13.44.47:853][645]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap
+[2021.06.13-13.44.47:855][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001400s)
+[2021.06.13-13.44.47:856][645]LogAIModule: Creating AISystem for world FinishMenuMap
+[2021.06.13-13.44.47:856][645]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2021.06.13-13.44.47:856][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/FinishMenuMap.FinishMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap.FinishMenuMap (0.002414s)
+[2021.06.13-13.44.47:856][645]LogAudio: Display: Audio Device (ID: 12) registered with world 'FinishMenuMap'.
+[2021.06.13-13.44.47:856][645]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-13.44.47:857][645]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap.FinishMenuMap up for play (max tick rate 60) at 2021.06.13-09.44.47
+[2021.06.13-13.44.47:857][645]LogWorld: Bringing up level for play took: 0.000223
+[2021.06.13-13.44.47:857][645]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-13.44.47:858][645]PIE: Warning: The widget 'FinishMenu_C' was already added to the screen.
+[2021.06.13-13.44.47:858][645]LogLoad: Took 0.044402 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap)
+[2021.06.13-13.44.47:870][645]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2021.06.13-13.45.00:597][409]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-13.45.00:597][409]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap
+[2021.06.13-13.45.00:597][409]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_FinishMenuMap
+[2021.06.13-13.45.00:597][409]LogWorld: UWorld::CleanupWorld for FinishMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-13.45.00:597][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-13.45.00:657][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-13.45.00:661][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.06.13-13.45.00:669][409]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenuMap'.
+[2021.06.13-13.45.00:670][409]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-13.45.00:671][409]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-13.45.00:672][409]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.06.13-09.45.00
+[2021.06.13-13.45.00:672][409]LogWorld: Bringing up level for play took: 0.000435
+[2021.06.13-13.45.00:672][409]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-13.45.00:673][409]LogLoad: Took 0.076419 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap)
+[2021.06.13-13.45.00:686][409]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2021.06.13-13.45.02:425][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-13.45.02:425][510]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-13.45.02:425][510]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-13.45.02:425][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-13.45.02:434][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-13.45.02:444][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-13.45.02:471][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-13.45.02:471][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-13.45.02:472][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-13.45.02:491][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-13.45.02:495][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.06.13-13.45.02:597][511]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.13-13.45.03:660][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.06.13-13.45.03:917][564]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0016549590D4075D903410F49820DBF7699.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-13.45.03:940][564]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-13.45.03:940][564]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-13.45.09:284][882]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-13.45.09:289][882]LogSlate: Window 'Message Log' being destroyed
