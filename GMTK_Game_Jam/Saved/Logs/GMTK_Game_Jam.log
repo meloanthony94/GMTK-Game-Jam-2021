@@ -4967,3 +4967,1503 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.06.13-14.34.42:218][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.13-14.34.42:259][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
 [2021.06.13-14.34.42:300][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.06.13-14.40.19:624][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.06.13-14.40.19:951][995]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0018CC25DF245C002C3EB067591E5AF312E.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-14.40.20:091][995]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataF18F3632479BFE76DFAEBBACDDB8DD77.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-14.40.20:118][995]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-14.40.20:118][995]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-14.40.20:118][995]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-14.41.13:424][376]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.13-14.41.13:452][376]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.13-14.41.16:167][485]LogContentBrowser: Attempting asset rename: NewFolder -> SFX
+[2021.06.13-14.41.16:169][485]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.13-14.41.31:634][786]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\sonyk\Downloads\Transform_MegaGoatSFX.wav)
+[2021.06.13-14.41.31:663][786]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\sonyk\Downloads\Separate_MegaGoatSFX.wav)
+[2021.06.13-14.41.36:340][893]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Transform_MegaGoatSFX...
+[2021.06.13-14.41.36:340][893]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/NordDashContent/SFX/Transform_MegaGoatSFX.Transform_MegaGoatSFX will be modified from 40 to 40.
+[2021.06.13-14.41.36:404][893]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 529200 while cooking SoundWave /Game/NordDashContent/SFX/Transform_MegaGoatSFX.Transform_MegaGoatSFX.
+[2021.06.13-14.41.36:646][905]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Separate_MegaGoatSFX...
+[2021.06.13-14.41.36:646][905]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/NordDashContent/SFX/Separate_MegaGoatSFX.Separate_MegaGoatSFX will be modified from 40 to 40.
+[2021.06.13-14.41.36:683][905]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 352800 while cooking SoundWave /Game/NordDashContent/SFX/Separate_MegaGoatSFX.Separate_MegaGoatSFX.
+[2021.06.13-14.43.46:964][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\sonyk\Downloads\Speed3_MaxSFX.wav)
+[2021.06.13-14.43.46:980][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\sonyk\Downloads\Speed2_FasterSFX.wav)
+[2021.06.13-14.43.46:999][ 89]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\sonyk\Downloads\Speed1_DefaultSFX.wav)
+[2021.06.13-14.43.49:865][107]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\sonyk\Downloads\Speed4_MegaGoatSFX.wav)
+[2021.06.13-14.44.27:021][851]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.44.27:032][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.44.27:032][851]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:44:27 AM)
+[2021.06.13-14.44.27:033][851]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.44.27:106][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073278s)
+[2021.06.13-14.44.27:107][851]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.44.27:108][851]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2021.06.13-14.44.27:108][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.074854s)
+[2021.06.13-14.44.27:140][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.06.13-14.44.27:148][851]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.44.27:148][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.44.27:148][851]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.44.27:148][851]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.44.27:157][851]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.44.27:157][851]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.44.27:187][851]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.44.27:188][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.44.27:188][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.44.27:188][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.44.27:188][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.44.27:188][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.44.27:188][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.44.27:204][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.44.27:204][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.44.27:204][851]LogInit: FAudioDevice initialized.
+[2021.06.13-14.44.27:204][851]LogAudio: Display: Audio Device (ID: 16) registered with world 'test_level_v001'.
+[2021.06.13-14.44.27:211][851]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.44.27:219][851]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.44.27
+[2021.06.13-14.44.27:220][851]LogWorld: Bringing up level for play took: 0.007554
+[2021.06.13-14.44.27:220][851]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.06.13-14.44.27:222][851]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.44.27:223][851]PIE: Server logged in
+[2021.06.13-14.44.27:223][851]PIE: Play in editor total start time 0.194 seconds.
+[2021.06.13-14.44.43:253][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.44.43:253][806]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.44.43:254][806]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.44.43:256][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.44.43:270][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.44.43:287][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.44.43:325][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-14.44.43:326][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.44.43:327][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.44.43:356][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.44.43:367][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.06.13-14.44.43:406][807]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.06.13-14.45.25:874][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-14.46.54:098][429]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-14.46.54:191][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.06.13-14.46.54:855][450]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCameraB9110BA848F806A203898AB5B24C5BDC.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-14.46.54:879][450]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-14.46.54:880][450]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-14.47.00:783][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.47.00:793][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.47.00:793][780]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:47:00 AM)
+[2021.06.13-14.47.00:793][780]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.47.00:855][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061838s)
+[2021.06.13-14.47.00:856][780]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.47.00:856][780]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2021.06.13-14.47.00:856][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.063280s)
+[2021.06.13-14.47.00:891][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.06.13-14.47.00:892][780]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.47.00:892][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.47.00:892][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.47.00:893][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.47.00:893][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.47.00:901][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.47.00:901][780]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.47.00:930][780]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.47.00:930][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.47.00:930][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.47.00:930][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.47.00:931][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.47.00:931][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.47.00:931][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.47.00:946][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.47.00:946][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.47.00:946][780]LogInit: FAudioDevice initialized.
+[2021.06.13-14.47.00:946][780]LogAudio: Display: Audio Device (ID: 17) registered with world 'test_level_v001'.
+[2021.06.13-14.47.00:957][780]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.47.00:964][780]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.47.00
+[2021.06.13-14.47.00:964][780]LogWorld: Bringing up level for play took: 0.007713
+[2021.06.13-14.47.00:965][780]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.06.13-14.47.00:967][780]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.47.00:968][780]PIE: Server logged in
+[2021.06.13-14.47.00:968][780]PIE: Play in editor total start time 0.18 seconds.
+[2021.06.13-14.47.27:108][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.47.27:108][345]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.47.27:108][345]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.47.27:109][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.47.27:136][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.47.27:147][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.47.27:173][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-14.47.27:174][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.47.27:175][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.47.27:212][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.47.27:221][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.06.13-14.47.27:255][346]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.06.13-14.47.40:935][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.06.13-14.47.41:277][106]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001D3A877AE472A17783AF7D18CE918F437.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-14.47.41:387][106]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataB9CCED5640AB602C0DF8E58C39DB5E88.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-14.47.41:399][106]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-14.47.41:399][106]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-14.47.41:399][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-14.48.02:268][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.06.13-14.48.02:601][156]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001C5D3CFA04CAFCFE939ED3BB24D198D44.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-14.48.02:719][156]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataF4CDFAB3403DCB5B327A2FBFAB4000ED.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-14.48.02:733][156]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-14.48.02:733][156]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-14.48.02:734][156]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-14.52.26:682][463]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-14.52.26:773][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.06.13-14.52.27:573][493]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCameraE365BBBC483B383BB011809F867E7998.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-14.52.27:593][493]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-14.52.27:593][493]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-14.52.29:306][594]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.52.29:314][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.52.29:314][594]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:52:29 AM)
+[2021.06.13-14.52.29:314][594]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.52.29:396][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081826s)
+[2021.06.13-14.52.29:397][594]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.52.29:398][594]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2021.06.13-14.52.29:398][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.083468s)
+[2021.06.13-14.52.29:430][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.13-14.52.29:430][594]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.52.29:431][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.52.29:431][594]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.52.29:431][594]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.52.29:440][594]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.52.29:440][594]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.52.29:469][594]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.52.29:470][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.52.29:470][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.52.29:470][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.52.29:470][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.52.29:470][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.52.29:470][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.52.29:486][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.52.29:486][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.52.29:486][594]LogInit: FAudioDevice initialized.
+[2021.06.13-14.52.29:487][594]LogAudio: Display: Audio Device (ID: 18) registered with world 'test_level_v001'.
+[2021.06.13-14.52.29:516][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.52.29:516][594]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.52.29:525][594]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.52.29
+[2021.06.13-14.52.29:526][594]LogWorld: Bringing up level for play took: 0.008788
+[2021.06.13-14.52.29:526][594]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.06.13-14.52.29:528][594]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-14.52.29:529][594]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.52.29:542][594]PIE: Server logged in
+[2021.06.13-14.52.29:548][594]PIE: Play in editor total start time 0.237 seconds.
+[2021.06.13-14.52.29:626][596]LogRenderer: Reallocating scene render targets to support 1532x852 Format 10 NumSamples 1 (Frame:1).
+[2021.06.13-14.52.35:058][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.52.35:058][850]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.52.35:059][850]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.13-14.52.35:108][850]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.52.35:109][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.52.35:148][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.52.35:166][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.52.35:200][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-14.52.35:201][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.52.35:202][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.52.35:250][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.06.13-14.52.35:413][851]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.06.13-14.53.00:739][871]LogEditorTransaction: Undo Break Pin Links
+[2021.06.13-14.53.01:540][905]LogEditorTransaction: Undo Create Pin Link
+[2021.06.13-14.53.10:395][426]LogEditorTransaction: Undo Delete current selection
+[2021.06.13-14.53.10:731][434]LogEditorTransaction: Undo Create Pin Link
+[2021.06.13-14.53.11:239][454]LogEditorTransaction: Undo Create Pin Link
+[2021.06.13-14.53.11:629][468]LogEditorTransaction: Undo Move Nodes
+[2021.06.13-14.53.13:722][584]LogEditorTransaction: Undo Move Nodes
+[2021.06.13-14.53.14:477][620]LogEditorTransaction: Undo Break Pin Links
+[2021.06.13-14.57.42:917][326]LogEditorTransaction: Undo Rename Variable
+[2021.06.13-14.57.44:373][400]LogEditorTransaction: Undo Add Variable
+[2021.06.13-14.57.44:645][408]LogEditorTransaction: Undo Move Nodes
+[2021.06.13-14.57.44:879][415]LogEditorTransaction: Undo Change Bool Pin Value
+[2021.06.13-14.57.45:178][425]LogEditorTransaction: Undo Change Bool Pin Value
+[2021.06.13-14.57.45:428][433]LogEditorTransaction: Undo Move Node
+[2021.06.13-14.57.45:665][440]LogEditorTransaction: Undo Delete current selection
+[2021.06.13-14.57.45:956][449]LogEditorTransaction: Undo Break Pin Links
+[2021.06.13-14.57.46:197][456]LogEditorTransaction: Undo Move Node
+[2021.06.13-14.57.46:723][480]LogEditorTransaction: Undo Create Pin Link
+[2021.06.13-14.57.47:383][512]LogEditorTransaction: Undo Paste clipboard contents
+[2021.06.13-14.58.02:496][375]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-14.58.02:604][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.06.13-15.00.05:503][684]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-15.00.05:585][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.13-15.00.06:514][723]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera623457F947D1491E8E1B2A932BCD7146.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-15.00.06:536][723]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-15.00.06:536][723]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-15.00.15:416][255]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-15.00.15:425][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-15.00.15:425][255]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 7:00:15 AM)
+[2021.06.13-15.00.15:425][255]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-15.00.15:486][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060520s)
+[2021.06.13-15.00.15:487][255]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-15.00.15:487][255]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.06.13-15.00.15:487][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.062019s)
+[2021.06.13-15.00.15:518][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.06.13-15.00.15:519][255]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-15.00.15:519][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-15.00.15:519][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-15.00.15:520][255]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-15.00.15:520][255]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-15.00.15:528][255]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-15.00.15:528][255]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-15.00.15:558][255]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-15.00.15:558][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-15.00.15:558][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-15.00.15:558][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-15.00.15:559][255]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-15.00.15:559][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-15.00.15:559][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-15.00.15:575][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-15.00.15:575][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-15.00.15:575][255]LogInit: FAudioDevice initialized.
+[2021.06.13-15.00.15:575][255]LogAudio: Display: Audio Device (ID: 19) registered with world 'test_level_v001'.
+[2021.06.13-15.00.15:606][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-15.00.15:607][255]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-15.00.15:615][255]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-11.00.15
+[2021.06.13-15.00.15:616][255]LogWorld: Bringing up level for play took: 0.008760
+[2021.06.13-15.00.15:616][255]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.06.13-15.00.15:618][255]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-15.00.15:619][255]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-15.00.15:625][255]PIE: Server logged in
+[2021.06.13-15.00.15:631][255]PIE: Play in editor total start time 0.209 seconds.
+[2021.06.13-15.00.15:708][257]LogRenderer: Reallocating scene render targets to support 1536x856 Format 10 NumSamples 1 (Frame:1).
+[2021.06.13-15.00.23:654][631]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=36.25 Y=67.87 Z=0.00 Location: X=2842.90 Y=-869.52 Z=257.82 Normal: X=-0.19 Y=0.07 Z=0.98 PenetrationDepth:2.388 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-15.00.29:167][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-15.00.29:167][931]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-15.00.29:168][931]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.13-15.00.29:194][931]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.00.29:196][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.00.29:233][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-15.00.29:252][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.00.29:287][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-15.00.29:287][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.00.29:289][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.00.29:342][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.06.13-15.00.29:458][932]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.06.13-15.00.49:461][112]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-15.00.49:540][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.06.13-15.00.55:045][421]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-15.00.55:126][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.06.13-15.00.55:947][461]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-15.00.55:955][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-15.00.55:955][461]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 7:00:55 AM)
+[2021.06.13-15.00.55:955][461]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-15.00.56:015][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059523s)
+[2021.06.13-15.00.56:016][461]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-15.00.56:016][461]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2021.06.13-15.00.56:016][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.060893s)
+[2021.06.13-15.00.56:048][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.06.13-15.00.56:048][461]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-15.00.56:048][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-15.00.56:048][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-15.00.56:049][461]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-15.00.56:049][461]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-15.00.56:056][461]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-15.00.56:056][461]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-15.00.56:088][461]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-15.00.56:089][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-15.00.56:089][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-15.00.56:089][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-15.00.56:089][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-15.00.56:089][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-15.00.56:089][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-15.00.56:105][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-15.00.56:105][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-15.00.56:105][461]LogInit: FAudioDevice initialized.
+[2021.06.13-15.00.56:105][461]LogAudio: Display: Audio Device (ID: 20) registered with world 'test_level_v001'.
+[2021.06.13-15.00.56:131][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-15.00.56:131][461]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-15.00.56:140][461]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-11.00.56
+[2021.06.13-15.00.56:140][461]LogWorld: Bringing up level for play took: 0.008581
+[2021.06.13-15.00.56:141][461]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.06.13-15.00.56:144][461]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-15.00.56:145][461]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-15.00.56:150][461]PIE: Server logged in
+[2021.06.13-15.00.56:155][461]PIE: Play in editor total start time 0.204 seconds.
+[2021.06.13-15.00.56:226][463]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2021.06.13-15.01.24:617][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-15.01.24:617][995]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-15.01.24:617][995]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.13-15.01.24:632][995]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.01.24:635][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.01.24:672][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-15.01.24:686][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.01.24:721][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-15.01.24:721][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.01.24:722][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.01.24:779][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.06.13-15.01.24:913][996]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.06.13-15.01.25:996][ 61]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-15.01.26:074][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.13-15.01.26:670][ 80]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera669D27A74188D02C5297019F99D414EA.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-15.01.26:692][ 80]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-15.01.26:692][ 80]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-15.01.30:988][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.06.13-15.01.31:317][308]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001E627F6584C9F29151B55379FFADFF720.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-15.01.31:429][308]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataF5FFBB4E476D8D4C7AEFE4AA5FD44EEA.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-15.01.31:444][308]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.01.31:444][308]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-15.01.31:444][308]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-15.01.33:327][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.06.13-15.01.33:400][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.13-15.01.33:669][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0078DD6F2FA49586C5CEB548BA75306413A.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/test_level_v007.umap'
+[2021.06.13-15.01.33:683][409]LogFileHelpers: Saving map 'test_level_v007' took 0.335
+[2021.06.13-15.01.33:688][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/FbxScene_gigaGoat_Rig_(1)7EDD77C54E24E36CDD2637AE441BF87B.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/FbxScene_gigaGoat_Rig_(1).uasset'
+[2021.06.13-15.01.33:688][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/hooves_1_Skeleton" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/hooves_1_Skeleton.uasset" SILENT=true
+[2021.06.13-15.01.33:690][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/hooves_1_Skeleton20AFB1634AFE7EF79A80A0A7D66644BB.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/hooves_1_Skeleton.uasset'
+[2021.06.13-15.01.33:691][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/GigaGoatRunCycle" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoatRunCycle.uasset" SILENT=true
+[2021.06.13-15.01.33:692][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/GigaGoatRunCycle596EF5EE453188C2C3E40E94CD5C5D88.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoatRunCycle.uasset'
+[2021.06.13-15.01.33:706][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/hooves_1" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/hooves_1.uasset" SILENT=true
+[2021.06.13-15.01.34:072][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/hooves_190D455BF4B8504FEFEC29D8881800EB0.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/hooves_1.uasset'
+[2021.06.13-15.01.34:082][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/hooves_Anim" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/hooves_Anim.uasset" SILENT=true
+[2021.06.13-15.01.34:090][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/hooves_AnimE25A6A744AF98AE62760A5A3CD96397C.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/hooves_Anim.uasset'
+[2021.06.13-15.01.34:108][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/FbxScene_GigaGoatRunCycle692CFECF4B0DA598FA497E8F3A088259.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/FbxScene_GigaGoatRunCycle.uasset'
+[2021.06.13-15.01.34:115][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Transform_MegaGoatSFXCFBE4FDD4F6A5405357F0BA940E33420.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Transform_MegaGoatSFX.uasset'
+[2021.06.13-15.01.34:119][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/SFX/Separate_MegaGoatSFX" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Separate_MegaGoatSFX.uasset" SILENT=true
+[2021.06.13-15.01.34:122][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Separate_MegaGoatSFX65B20A5444CCD4BB0578ABA3D77F1DD6.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Separate_MegaGoatSFX.uasset'
+[2021.06.13-15.01.34:126][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/SFX/Speed3_MaxSFX" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed3_MaxSFX.uasset" SILENT=true
+[2021.06.13-15.01.34:129][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Speed3_MaxSFX9349448140937B416C0B3DAABD14BE98.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed3_MaxSFX.uasset'
+[2021.06.13-15.01.34:132][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/SFX/Speed2_FasterSFX" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed2_FasterSFX.uasset" SILENT=true
+[2021.06.13-15.01.34:134][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Speed2_FasterSFX4F98758D4B57D297395DE8987FDBB2FC.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed2_FasterSFX.uasset'
+[2021.06.13-15.01.34:138][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/SFX/Speed1_DefaultSFX" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed1_DefaultSFX.uasset" SILENT=true
+[2021.06.13-15.01.34:140][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Speed1_DefaultSFXC60411A3482BADB35A343C8C0D5CC3E7.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed1_DefaultSFX.uasset'
+[2021.06.13-15.01.34:144][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/SFX/Speed4_MegaGoatSFX" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed4_MegaGoatSFX.uasset" SILENT=true
+[2021.06.13-15.01.34:147][409]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Speed4_MegaGoatSFX66924010451B7E11A64CCF8354AEF7E8.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/SFX/Speed4_MegaGoatSFX.uasset'
+[2021.06.13-15.01.34:175][409]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating World /Game/NordDashContent/test_level_v007.test_level_v007
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/FbxScene_GigaGoatRunCycle.FbxScene_GigaGoatRunCycle
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating AnimSequence /Game/NordDashContent/hooves_Anim.hooves_Anim
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/FbxScene_gigaGoat_Rig_(1).FbxScene_gigaGoat_Rig_(1)
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SkeletalMesh /Game/NordDashContent/hooves_1.hooves_1
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating FbxSceneImportData /Game/NordDashContent/GigaGoatRunCycle.GigaGoatRunCycle
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating Skeleton /Game/NordDashContent/hooves_1_Skeleton.hooves_1_Skeleton
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SoundWave /Game/NordDashContent/SFX/Speed4_MegaGoatSFX.Speed4_MegaGoatSFX
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SoundWave /Game/NordDashContent/SFX/Speed1_DefaultSFX.Speed1_DefaultSFX
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SoundWave /Game/NordDashContent/SFX/Speed2_FasterSFX.Speed2_FasterSFX
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SoundWave /Game/NordDashContent/SFX/Speed3_MaxSFX.Speed3_MaxSFX
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SoundWave /Game/NordDashContent/SFX/Separate_MegaGoatSFX.Separate_MegaGoatSFX
+[2021.06.13-15.01.34:175][409]LogContentValidation: Display: Validating SoundWave /Game/NordDashContent/SFX/Transform_MegaGoatSFX.Transform_MegaGoatSFX
+[2021.06.13-15.01.39:368][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.06.13-15.01.39:718][689]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0014EEB1BBA4A45BAB55128FAA39A9D488F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-15.01.39:829][689]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData2547BC2C4E4FADEB5FF347BAD01DBFF2.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-15.01.39:846][689]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.01.39:846][689]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-15.01.39:846][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-15.01.41:125][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.06.13-15.02.37:396][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_BabyGoat_Armor_BC.png)
+[2021.06.13-15.02.37:509][276]LogTexture: Display: Building textures: M_BabyGoat_Armor_BC (AutoDXT, 2048X2048)
+[2021.06.13-15.02.38:135][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_BabyGoat_Armor_N.png)
+[2021.06.13-15.02.38:246][276]LogTexture: Display: Building textures: M_BabyGoat_Armor_N (BC5, 2048X2048)
+[2021.06.13-15.02.38:424][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_BabyGoat_Armor_ORM.png)
+[2021.06.13-15.02.38:505][276]LogTexture: Display: Building textures: M_BabyGoat_Armor_ORM (AutoDXT, 2048X2048)
+[2021.06.13-15.02.38:892][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_GigaGoat_Body_BC.png)
+[2021.06.13-15.02.38:987][276]LogTexture: Display: Building textures: M_GigaGoat_Body_BC (AutoDXT, 2048X2048)
+[2021.06.13-15.02.39:374][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_GigaGoat_Body_N.png)
+[2021.06.13-15.02.39:513][276]LogTexture: Display: Building textures: M_GigaGoat_Body_N (BC5, 2048X2048)
+[2021.06.13-15.02.39:700][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_GigaGoat_Body_ORM.png)
+[2021.06.13-15.02.39:777][276]LogTexture: Display: Building textures: M_GigaGoat_Body_ORM (AutoDXT, 2048X2048)
+[2021.06.13-15.02.40:228][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_gigaGoat_Head_BC.png)
+[2021.06.13-15.02.40:324][276]LogTexture: Display: Building textures: M_gigaGoat_Head_BC (AutoDXT, 2048X2048)
+[2021.06.13-15.02.40:836][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_gigaGoat_Head_E.png)
+[2021.06.13-15.02.40:894][276]LogTexture: Display: Building textures: M_gigaGoat_Head_E (AutoDXT, 2048X2048)
+[2021.06.13-15.02.41:016][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_gigaGoat_Head_N.png)
+[2021.06.13-15.02.41:136][276]LogTexture: Display: Building textures: M_gigaGoat_Head_N (BC5, 2048X2048)
+[2021.06.13-15.02.41:324][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\sonyk\Downloads\GigaGoat Textures-20210613T150213Z-001\GigaGoat Textures/M_gigaGoat_Head_ORM.png)
+[2021.06.13-15.02.41:412][276]LogTexture: Display: Building textures: M_gigaGoat_Head_ORM (AutoDXT, 2048X2048)
+[2021.06.13-15.02.56:161][857]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NordDashContent/M_gigaGoat_Head.M_gigaGoat_Head
+[2021.06.13-15.02.56:162][857]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.02.56:239][857]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.02.56:250][857]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.02.56:264][857]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.02.56:265][857]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.02.56:269][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.13-15.02.57:541][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.06.13-15.02.57:541][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.13-15.02.58:004][936]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.06.13-15.02.58:073][939]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.02.58:142][940]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.06.13-15.02.58:142][940]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.13-15.02.58:176][943]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.13-15.02.58:208][945]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.13-15.02.58:259][948]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.13-15.02.58:753][975]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.13-15.02.58:819][979]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.13-15.02.58:920][985]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.13-15.02.59:069][994]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.06.13-15.02.59:370][ 12]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.13-15.02.59:527][ 21]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.06.13-15.02.59:527][ 21]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.06.13-15.02.59:527][ 21]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.13-15.02.59:527][ 21]MaterialEditorStats: Base pass vertex shader: 90 instructions
+[2021.06.13-15.02.59:527][ 21]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.13-15.03.22:615][187]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.03.22:625][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.03.22:635][187]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.03.22:639][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.13-15.03.22:643][187]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.03.23:638][215]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.06.13-15.03.23:638][215]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.06.13-15.03.23:844][220]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.06.13-15.03.24:038][225]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.06.13-15.03.24:038][225]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.13-15.03.24:038][225]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.06.13-15.03.24:087][226]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.13-15.03.24:087][226]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.06.13-15.03.24:234][230]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.06.13-15.03.24:796][244]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.13-15.03.24:865][246]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.13-15.03.24:873][246]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.13-15.03.24:906][247]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.13-15.03.25:273][256]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.13-15.03.25:338][258]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.13-15.03.25:377][259]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.13-15.03.25:379][259]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.06.13-15.03.25:564][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.13-15.03.25:662][266]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.06.13-15.03.25:663][266]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.06.13-15.03.25:663][266]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.13-15.03.25:663][266]MaterialEditorStats: Base pass vertex shader: 90 instructions
+[2021.06.13-15.03.25:663][266]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.13-15.03.28:576][410]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.03.28:641][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.03.29:187][426]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.06.13-15.03.29:250][426]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.13-15.03.29:503][434]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.13-15.03.29:703][439]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.06.13-15.03.29:746][440]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.06.13-15.03.29:780][441]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.13-15.03.29:780][441]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.06.13-15.03.29:796][441]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.13-15.03.29:912][444]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.13-15.03.30:406][455]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.03.30:443][455]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.03.30:487][456]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.06.13-15.03.30:577][459]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.06.13-15.03.30:577][459]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.06.13-15.03.30:577][459]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.06.13-15.03.31:022][471]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.13-15.03.31:024][471]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.13-15.03.31:058][472]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.03.31:113][473]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.06.13-15.03.31:218][476]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.06.13-15.03.31:399][481]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.06.13-15.03.31:598][486]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.06.13-15.03.31:598][486]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.03.31:676][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.06.13-15.03.31:855][493]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.13-15.03.32:077][498]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.13-15.03.32:103][499]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.06.13-15.03.32:138][500]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.13-15.03.32:396][505]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.13-15.03.32:723][514]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.06.13-15.03.32:764][515]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.13-15.03.32:847][517]LogMaterialEditor: Saving and Compiling material M_gigaGoat_Head
+[2021.06.13-15.03.36:846][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.13-15.03.36:847][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.13-15.03.36:856][517]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.03.36:897][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.03.36:924][517]LogMaterial: Display: Missing cached shader map for material M_gigaGoat_Head, compiling. 
+[2021.06.13-15.03.37:043][517]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.06.13-15.03.37:070][517]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.13-15.03.37:637][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2021.06.13-15.03.37:637][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.06.13-15.03.37:637][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.06.13-15.03.38:195][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 33
+[2021.06.13-15.03.38:195][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2021.06.13-15.03.38:195][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2021.06.13-15.03.38:195][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.06.13-15.03.38:195][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2021.06.13-15.03.38:195][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.06.13-15.03.38:750][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.06.13-15.03.38:896][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.06.13-15.03.38:896][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.06.13-15.03.38:896][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.13-15.03.38:910][517]TextureStreamingBuild: Display: Compiling optional shaders took 1.851 seconds.
+[2021.06.13-15.03.38:966][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.06.13-15.03.39:585][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.13-15.03.40:143][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.13-15.03.40:143][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.13-15.03.40:701][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.13-15.03.40:701][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.13-15.03.40:991][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/M_gigaGoat_Head" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_gigaGoat_Head.uasset" SILENT=true
+[2021.06.13-15.03.40:999][517]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_Head2C66435144AF2CC3F7C516B7E5531646.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_gigaGoat_Head.uasset'
+[2021.06.13-15.03.41:023][517]AssetCheck: New page: Asset Save: M_gigaGoat_Head
+[2021.06.13-15.03.41:023][517]LogContentValidation: Display: Validating Material /Game/NordDashContent/M_gigaGoat_Head.M_gigaGoat_Head
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.13-15.03.41:024][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.13-15.03.52:631][166]LogMaterialEditor: Saving and Compiling material M_gigaGoat_Head
+[2021.06.13-15.03.52:670][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/M_gigaGoat_Head" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_gigaGoat_Head.uasset" SILENT=true
+[2021.06.13-15.03.52:672][166]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_Head56033D7E44F4301B1947FEAE330EF73F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_gigaGoat_Head.uasset'
+[2021.06.13-15.03.52:686][166]AssetCheck: New page: Asset Save: M_gigaGoat_Head
+[2021.06.13-15.03.52:686][166]LogContentValidation: Display: Validating Material /Game/NordDashContent/M_gigaGoat_Head.M_gigaGoat_Head
+[2021.06.13-15.04.19:021][571]LogMaterialEditor: Saving and Compiling material M_gigaGoat_Head
+[2021.06.13-15.04.19:060][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/M_gigaGoat_Head" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_gigaGoat_Head.uasset" SILENT=true
+[2021.06.13-15.04.19:062][571]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_HeadCE15959447C2516843E883A968ABB2D6.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_gigaGoat_Head.uasset'
+[2021.06.13-15.04.19:083][571]AssetCheck: New page: Asset Save: M_gigaGoat_Head
+[2021.06.13-15.04.19:083][571]LogContentValidation: Display: Validating Material /Game/NordDashContent/M_gigaGoat_Head.M_gigaGoat_Head
+[2021.06.13-15.04.19:962][621]LogSlate: Window 'M_gigaGoat_Head' being destroyed
+[2021.06.13-15.04.19:991][621]LogSlate: Window 'M_gigaGoat_Head' being destroyed
+[2021.06.13-15.04.20:011][621]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.04.20:011][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.04.23:282][798]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-15.04.53:019][ 38]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NordDashContent/M_GigaGoat_Body.M_GigaGoat_Body
+[2021.06.13-15.04.53:020][ 38]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.04.53:113][ 38]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.04.53:125][ 38]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.04.53:142][ 38]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.04.53:146][ 38]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.13-15.04.54:068][ 74]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.06.13-15.04.54:151][ 79]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.04.54:412][ 82]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.06.13-15.04.54:537][ 88]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.04.54:626][ 90]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.06.13-15.04.54:661][ 91]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.06.13-15.04.54:661][ 91]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.13-15.04.54:681][ 93]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.13-15.04.54:715][ 95]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.13-15.04.55:349][128]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.13-15.04.55:501][137]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.13-15.04.55:533][139]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.06.13-15.04.55:567][141]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.06.13-15.04.55:949][164]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.13-15.04.56:123][174]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.06.13-15.04.56:123][174]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.06.13-15.04.56:123][174]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.13-15.04.56:123][174]MaterialEditorStats: Base pass vertex shader: 90 instructions
+[2021.06.13-15.04.56:123][174]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.13-15.05.10:104][765]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.05.10:115][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.05.10:123][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.05.10:123][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.06.13-15.05.10:126][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.05.10:861][782]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.06.13-15.05.10:967][784]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.06.13-15.05.11:183][789]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2021.06.13-15.05.11:275][791]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.06.13-15.05.11:322][792]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.06.13-15.05.11:369][793]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.06.13-15.05.11:424][794]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.06.13-15.05.11:424][794]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.06.13-15.05.11:505][796]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.06.13-15.05.12:021][799]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.06.13-15.05.12:250][804]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.06.13-15.05.12:255][804]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.13-15.05.12:322][805]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.13-15.05.12:647][812]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.06.13-15.05.12:720][814]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.13-15.05.12:744][814]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.06.13-15.05.12:775][815]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.13-15.05.12:811][816]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.13-15.05.12:969][819]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.06.13-15.05.12:969][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.06.13-15.05.12:969][819]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.13-15.05.12:969][819]MaterialEditorStats: Base pass vertex shader: 90 instructions
+[2021.06.13-15.05.12:969][819]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.13-15.05.18:930][ 62]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.05.18:975][ 63]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.05.19:603][ 78]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.06.13-15.05.19:644][ 79]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.13-15.05.19:879][ 83]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.13-15.05.20:003][ 86]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.06.13-15.05.20:026][ 87]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.06.13-15.05.20:038][ 87]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.06.13-15.05.20:084][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.13-15.05.20:113][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.13-15.05.20:247][ 92]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.06.13-15.05.20:352][ 93]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.05.20:389][ 93]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.05.20:770][101]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.06.13-15.05.20:887][104]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.06.13-15.05.20:959][105]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.06.13-15.05.20:990][106]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.06.13-15.05.21:346][113]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.13-15.05.21:416][115]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.13-15.05.21:461][116]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.06.13-15.05.21:467][116]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.06.13-15.05.21:663][120]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.06.13-15.05.21:783][123]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.06.13-15.05.21:903][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.06.13-15.05.22:001][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.13-15.05.22:123][130]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.06.13-15.05.22:321][134]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.13-15.05.22:468][137]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.06.13-15.05.22:475][137]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.06.13-15.05.22:516][138]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.13-15.05.22:858][144]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.13-15.05.23:054][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.13-15.05.23:210][151]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.06.13-15.05.23:415][155]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.13-15.05.23:520][157]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.13-15.05.24:052][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.13-15.05.24:193][172]LogMaterialEditor: Saving and Compiling material M_GigaGoat_Body
+[2021.06.13-15.05.24:873][172]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.05.24:904][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.05.24:945][172]LogMaterial: Display: Missing cached shader map for material M_GigaGoat_Body, compiling. 
+[2021.06.13-15.05.25:096][172]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2021.06.13-15.05.25:114][172]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.13-15.05.25:683][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2021.06.13-15.05.25:683][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2021.06.13-15.05.26:239][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.06.13-15.05.26:790][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.06.13-15.05.26:790][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.06.13-15.05.26:790][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.06.13-15.05.26:790][172]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.06.13-15.05.27:209][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.06.13-15.05.27:209][172]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.13-15.05.27:209][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.05.27:209][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.06.13-15.05.27:209][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.13-15.05.27:209][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.06.13-15.05.27:216][172]TextureStreamingBuild: Display: Compiling optional shaders took 2.114 seconds.
+[2021.06.13-15.05.27:268][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.06.13-15.05.27:276][172]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2021.06.13-15.05.28:453][172]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.06.13-15.05.28:453][172]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.06.13-15.05.29:009][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.06.13-15.05.29:009][172]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.13-15.05.29:009][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.13-15.05.29:476][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/M_GigaGoat_Body" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_GigaGoat_Body.uasset" SILENT=true
+[2021.06.13-15.05.29:482][172]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_GigaGoat_Body0238180F473020A831279A84DD5C382E.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_GigaGoat_Body.uasset'
+[2021.06.13-15.05.29:509][172]AssetCheck: New page: Asset Save: M_GigaGoat_Body
+[2021.06.13-15.05.29:509][172]LogContentValidation: Display: Validating Material /Game/NordDashContent/M_GigaGoat_Body.M_GigaGoat_Body
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.13-15.05.29:510][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.13-15.05.35:007][417]LogMaterialEditor: Saving and Compiling material M_GigaGoat_Body
+[2021.06.13-15.05.35:052][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/M_GigaGoat_Body" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_GigaGoat_Body.uasset" SILENT=true
+[2021.06.13-15.05.35:055][417]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_GigaGoat_BodyD24B4B9F478220ECA15DDA86D842A3A6.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/M_GigaGoat_Body.uasset'
+[2021.06.13-15.05.35:073][417]AssetCheck: New page: Asset Save: M_GigaGoat_Body
+[2021.06.13-15.05.35:073][417]LogContentValidation: Display: Validating Material /Game/NordDashContent/M_GigaGoat_Body.M_GigaGoat_Body
+[2021.06.13-15.05.39:833][628]LogSlate: Window 'M_GigaGoat_Body' being destroyed
+[2021.06.13-15.05.39:874][628]LogSlate: Window 'M_GigaGoat_Body' being destroyed
+[2021.06.13-15.05.39:899][628]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.05.39:899][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.05.41:050][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2021.06.13-15.05.41:438][670]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001B505109C4EC854A797A18B81EE8542CA.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-15.05.41:560][670]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataF8EDC69B4130DB02BC583FBFD10FA93D.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-15.05.41:575][670]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.05.41:575][670]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-15.05.41:575][670]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-15.07.01:164][740]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/NordDashContent/hooves_1.hooves_1
+[2021.06.13-15.07.01:169][740]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-15.07.35:978][150]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NordDashContent/M_GigaGoat_Body.M_GigaGoat_Body
+[2021.06.13-15.07.35:979][150]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.13-15.07.36:066][150]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.13-15.07.36:077][150]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.13-15.07.36:089][150]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.07.36:094][150]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.13-15.07.37:105][190]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.06.13-15.07.37:121][191]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.06.13-15.07.37:430][209]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.06.13-15.07.37:476][212]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.13-15.07.37:524][215]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.06.13-15.07.37:560][217]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.06.13-15.07.37:593][219]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.13-15.07.37:593][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.06.13-15.07.37:725][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.13-15.07.38:279][260]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.13-15.07.38:408][268]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.13-15.07.38:441][270]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.06.13-15.07.38:560][277]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.06.13-15.07.38:831][292]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: Texture samplers: 3/16
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.13-15.07.39:060][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.13-15.08.10:474][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.06.13-15.08.10:863][624]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0012FD3BEC4401F52EDE3D292B52BBCA4BF.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-15.08.10:980][624]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataFB3514A7466F72A73E20AE80EED5D38F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-15.08.10:997][624]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.08.10:997][624]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-15.08.10:997][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-15.08.13:100][708]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-15.08.13:110][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-15.08.13:110][708]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 7:08:13 AM)
+[2021.06.13-15.08.13:110][708]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-15.08.13:181][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071010s)
+[2021.06.13-15.08.13:182][708]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-15.08.13:183][708]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2021.06.13-15.08.13:183][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.072778s)
+[2021.06.13-15.08.13:218][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.06.13-15.08.13:219][708]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-15.08.13:219][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-15.08.13:219][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-15.08.13:220][708]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-15.08.13:220][708]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-15.08.13:228][708]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-15.08.13:228][708]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-15.08.13:264][708]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-15.08.13:264][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-15.08.13:265][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-15.08.13:265][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-15.08.13:265][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-15.08.13:265][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-15.08.13:265][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-15.08.13:281][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-15.08.13:282][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-15.08.13:282][708]LogInit: FAudioDevice initialized.
+[2021.06.13-15.08.13:282][708]LogAudio: Display: Audio Device (ID: 21) registered with world 'test_level_v001'.
+[2021.06.13-15.08.13:291][708]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-15.08.13:299][708]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-11.08.13
+[2021.06.13-15.08.13:300][708]LogWorld: Bringing up level for play took: 0.007893
+[2021.06.13-15.08.13:300][708]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.06.13-15.08.13:303][708]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-15.08.13:303][708]PIE: Server logged in
+[2021.06.13-15.08.13:304][708]PIE: Play in editor total start time 0.198 seconds.
+[2021.06.13-15.08.46:667][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-15.08.46:667][706]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-15.08.46:668][706]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.46:669][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.08.46:697][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-15.08.46:708][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.08.46:738][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-15.08.46:739][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.08.46:740][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.08.46:781][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.13-15.08.46:822][707]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.06.13-15.08.47:943][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.06.13-15.08.48:344][751]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0011EEB61B147C5F9F34E9A37AC93C7CC8A.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-15.08.48:464][751]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData341819404A335A5446BE059D4EC55F77.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-15.08.48:477][751]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.08.48:477][751]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-15.08.48:477][751]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-15.08.50:113][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.06.13-15.08.50:478][820]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001EA7FBAA34A30F67590C437931245558B.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-15.08.50:598][820]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData3AB401354B4340E92F2B1A85C33038D3.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-15.08.50:615][820]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.08.50:615][820]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-15.08.50:615][820]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-15.08.51:780][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.06.13-15.08.52:061][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_BabyGoat_Armor_BC7F0FDAB64E767A2F888044AAC592472E.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_BabyGoat_Armor_BC.uasset'
+[2021.06.13-15.08.52:249][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_BabyGoat_Armor_N462CE34F434E68376E67DEAA610ABE26.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_BabyGoat_Armor_N.uasset'
+[2021.06.13-15.08.52:447][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_BabyGoat_Armor_ORMABB78192477A53A75F86D5B486366601.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_BabyGoat_Armor_ORM.uasset'
+[2021.06.13-15.08.52:676][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_GigaGoat_Body_BC1B17105546A91587E22D438F255087A5.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_GigaGoat_Body_BC.uasset'
+[2021.06.13-15.08.53:018][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_GigaGoat_Body_NF55E2DBA428DB59E8AF32D84AA28B66F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_GigaGoat_Body_N.uasset'
+[2021.06.13-15.08.53:238][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_GigaGoat_Body_ORMDAEC45CA42FE1465BCF10F96036E12CC.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_GigaGoat_Body_ORM.uasset'
+[2021.06.13-15.08.53:486][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_Head_BC3490A9C54A82FB87838E8F8A822F342C.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_BC.uasset'
+[2021.06.13-15.08.53:555][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_Head_EA9904A934E4B76A30D5D90A13A51150C.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_E.uasset'
+[2021.06.13-15.08.53:860][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_Head_N6C62592B41546AABA4ED8B98C8E89760.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_N.uasset'
+[2021.06.13-15.08.54:082][870]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/M_gigaGoat_Head_ORM8874427544530EBA94ED0CB1C73BDBF4.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_ORM.uasset'
+[2021.06.13-15.08.54:098][870]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_BabyGoat_Armor_BC.M_BabyGoat_Armor_BC
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_ORM.M_gigaGoat_Head_ORM
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_N.M_gigaGoat_Head_N
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_E.M_gigaGoat_Head_E
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_gigaGoat_Head_BC.M_gigaGoat_Head_BC
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_GigaGoat_Body_ORM.M_GigaGoat_Body_ORM
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_GigaGoat_Body_N.M_GigaGoat_Body_N
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_GigaGoat_Body_BC.M_GigaGoat_Body_BC
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_BabyGoat_Armor_ORM.M_BabyGoat_Armor_ORM
+[2021.06.13-15.08.54:098][870]LogContentValidation: Display: Validating Texture2D /Game/NordDashContent/GigaGoat_Textures/M_BabyGoat_Armor_N.M_BabyGoat_Armor_N
+[2021.06.13-15.08.55:140][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.06.13-15.08.55:169][916]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.55:169][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.08.55:240][916]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.13-15.08.55:240][916]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.55:240][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.08.55:414][916]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.55:414][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.08.55:456][916]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.55:456][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-15.08.55:490][916]LogSlate: Window 'GMTK_Game_Jam - Unreal Editor' being destroyed
+[2021.06.13-15.08.55:953][917]Cmd: QUIT_EDITOR
+[2021.06.13-15.08.55:953][917]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.13-15.08.55:961][917]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.13-15.08.56:340][917]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.13-15.08.56:340][917]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.13-15.08.56:340][917]LogAudio: Display: Audio Device unregistered from world 'test_level_v001'.
+[2021.06.13-15.08.56:340][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.08.56:341][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-15.08.56:406][917]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.13-15.08.56:408][917]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.13-15.08.56:416][917]LogExit: Preparing to exit.
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695B00] Windows
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695A00] Default__DeviceProfile
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67EC00] WindowsNoEditor
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695C00] WindowsServer
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67ED00] WindowsClient
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B694E00] IOS
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67FC00] iPadAir
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B697000] iPadAir2
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B63AB00] IPadPro
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B63AC00] iPadAir3
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695200] iPadAir4
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B63A800] iPadMini2
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B697100] iPadMini3
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B639800] iPadMini4
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B696A00] iPadMini5
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B646400] iPhone6
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B646500] iPodTouch6
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67C200] iPhone7
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67C500] iPodTouch7
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B647C00] iPhone5S
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67E300] iPhone6Plus
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B645600] iPhone6S
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67DE00] iPhone6SPlus
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B644700] iPhone7Plus
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67D100] iPhoneSE
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B647400] iPhone8
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67E200] iPhone8Plus
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B644400] iPhoneX
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F100] iPhoneXS
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B647000] iPhoneXSMax
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67D500] iPhoneXR
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B644D00] iPhone11
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67CC00] iPhone11Pro
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B647200] iPhone11ProMax
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67FF00] iPhoneSE2
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B645F00] iPhone12Mini
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67C100] iPhone12
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B646C00] iPhone12Pro
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67E900] iPhone12ProMax
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B694A00] iPadPro105
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B645900] iPadPro129
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B696D00] iPadPro97
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B644E00] iPadPro2_129
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695900] iPad5
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B646E00] iPad6
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B697300] iPad7
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67D800] iPad8
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B694700] iPadPro11
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67CB00] iPadPro2_11
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B697200] iPadPro3_129
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67C300] iPadPro4_129
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B694400] AppleTV
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F000] AppleTV4K
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B696500] TVOS
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67E700] Mac
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B694B00] MacClient
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F500] MacNoEditor
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695D00] MacServer
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67DB00] Linux
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B697400] LinuxAArch64
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F600] LinuxNoEditor
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B694900] LinuxAArch64NoEditor
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B67C900] LinuxClient
+[2021.06.13-15.08.57:355][917]LogDeviceProfile: Device profile begin destroy: [000002022B695000] LinuxAArch64Client
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67DA00] LinuxServer
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B695400] LinuxAArch64Server
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F200] Android
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B695500] Android_Low
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67C800] Android_Mid
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B696100] Android_High
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67CA00] Android_Default
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B695F00] Android_Adreno4xx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F900] Android_Adreno5xx_Low
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B696400] Android_Adreno5xx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67DC00] Android_Adreno6xx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B697B00] Android_Adreno6xx_Vulkan
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67CF00] Android_Mali_T6xx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B697500] Android_Mali_T7xx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67E100] Android_Mali_T8xx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B696B00] Android_Mali_G71
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67E600] Android_Mali_G72
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B694300] Android_Mali_G72_Vulkan
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67F300] Android_Mali_G76
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B694D00] Android_Mali_G76_Vulkan
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67EB00] Android_Mali_G77
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B696E00] Android_Mali_G77_Vulkan
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67DD00] Android_Vulkan_SM5
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B696300] Android_PowerVR_G6xxx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B67D400] Android_PowerVR_GT7xxx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B639E00] Android_PowerVR_GE8xxx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B644F00] Android_PowerVR_GM9xxx
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B638800] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B644800] Android_TegraK1
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B638100] Android_Unknown_Vulkan
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B645300] Lumin
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B63B200] Lumin_Desktop
+[2021.06.13-15.08.57:356][917]LogDeviceProfile: Device profile begin destroy: [000002022B644300] HoloLens
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:378][917]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:382][917]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:386][917]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:389][917]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:392][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:392][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:392][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:392][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:392][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:392][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:393][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:393][917]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:396][917]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:400][917]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:404][917]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.06.13-15.08.57:407][917]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-15.08.57:490][917]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.13-15.08.57:529][917]LogExit: Editor shut down
+[2021.06.13-15.08.57:532][917]LogExit: Transaction tracking system shut down
+[2021.06.13-15.08.58:384][917]LogExit: Object subsystem successfully closed.
+[2021.06.13-15.08.58:431][917]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.13-15.08.58:484][917]LogModuleManager: Shutting down and abandoning module SequencerWidgets (832)
+[2021.06.13-15.08.58:484][917]LogModuleManager: Shutting down and abandoning module AnimationEditor (830)
+[2021.06.13-15.08.58:484][917]LogModuleManager: Shutting down and abandoning module PinnedCommandList (828)
+[2021.06.13-15.08.58:484][917]LogModuleManager: Shutting down and abandoning module SkeletonEditor (826)
+[2021.06.13-15.08.58:484][917]LogModuleManager: Shutting down and abandoning module BlueprintGraph (824)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module StatsViewer (818)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (814)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module SceneOutliner (812)
+[2021.06.13-15.08.58:485][917]LogModuleManager: Shutting down and abandoning module AddContentDialog (810)
+[2021.06.13-15.08.58:487][917]LogModuleManager: Shutting down and abandoning module WidgetCarousel (809)
+[2021.06.13-15.08.58:487][917]LogModuleManager: Shutting down and abandoning module EditorWidgets (806)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (788)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (784)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (782)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module WebMMedia (780)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (778)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (776)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (774)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (772)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2021.06.13-15.08.58:488][917]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2021.06.13-15.08.58:489][917]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2021.06.13-15.08.58:490][917]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2021.06.13-15.08.59:797][917]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2021.06.13-15.08.59:798][917]MemoryProfiler: Shutdown
+[2021.06.13-15.08.59:798][917]NetworkingProfiler: Shutdown
+[2021.06.13-15.08.59:798][917]LoadingProfiler: Shutdown
+[2021.06.13-15.08.59:798][917]TimingProfiler: Shutdown
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2021.06.13-15.08.59:798][917]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2021.06.13-15.08.59:799][917]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2021.06.13-15.08.59:831][917]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2021.06.13-15.08.59:846][917]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2021.06.13-15.08.59:846][917]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2021.06.13-15.08.59:846][917]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2021.06.13-15.08.59:846][917]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2021.06.13-15.08.59:847][917]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2021.06.13-15.08.59:847][917]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2021.06.13-15.08.59:847][917]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2021.06.13-15.08.59:853][917]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2021.06.13-15.08.59:853][917]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2021.06.13-15.08.59:854][917]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2021.06.13-15.08.59:859][917]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2021.06.13-15.08.59:886][917]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (548)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (536)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module GooglePAD (534)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module EditableMesh (532)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AudioCapture (522)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (521)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module TemplateSequence (508)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MediaCompositing (506)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module ImgMedia (504)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (502)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (500)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (498)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (496)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (494)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (492)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (490)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (488)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module MotoSynth (486)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (484)
+[2021.06.13-15.08.59:887][917]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (483)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (480)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module MeshConversion (478)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module DynamicMesh (476)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (474)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometricObjects (472)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (470)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (468)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (466)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (464)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module ChaosNiagara (462)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module FractureEditor (460)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (459)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (456)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module BackChannel (454)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module AlembicImporter (452)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module AlembicLibrary (451)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryCache (450)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (449)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (444)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module AutomationUtils (442)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (440)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (438)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (436)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (434)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module PluginBrowser (432)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (430)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (428)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module CryptoKeys (426)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module CurveEditorTools (424)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module UObjectPlugin (422)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module PluginUtils (420)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (414)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (412)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2021.06.13-15.08.59:888][917]LogModuleManager: Shutting down and abandoning module SourceControl (409)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (390)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module Niagara (388)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module SignalProcessing (387)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module NiagaraEditor (385)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module NiagaraCore (382)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module SoundFields (380)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module SignificanceManager (378)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (376)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (374)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (372)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (368)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (366)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2021.06.13-15.08.59:889][917]LogModuleManager: Shutting down and abandoning module UdpMessaging (362)
+[2021.06.13-15.08.59:990][917]LogModuleManager: Shutting down and abandoning module TcpMessaging (360)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module ActorSequence (358)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (356)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (354)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (352)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (350)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (348)
+[2021.06.13-15.09.00:091][917]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (346)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (344)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (342)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (340)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapController (338)
+[2021.06.13-15.09.00:091][917]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (336)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module MagicLeapAR (334)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module AugmentedReality (333)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module DataValidation (324)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (322)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (320)
+[2021.06.13-15.09.00:091][917]LogModuleManager: Shutting down and abandoning module LevelEditor (319)
+[2021.06.13-15.09.00:092][917]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (318)
+[2021.06.13-15.09.00:092][917]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (316)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module MainFrame (314)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module HotReload (313)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module TreeMap (303)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2021.06.13-15.09.00:093][917]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2021.06.13-15.09.00:094][917]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module Core (232)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.06.13-15.09.00:095][917]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.06.13-15.09.00:097][917]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.06.13-15.09.00:098][917]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.06.13-15.09.00:105][917]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.06.13-15.09.00:105][917]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.06.13-15.09.00:105][917]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.06.13-15.09.00:105][917]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.06.13-15.09.00:105][917]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.06.13-15.09.00:117][917]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.06.13-15.09.00:123][917]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.06.13-15.09.00:141][917]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.06.13-15.09.00:141][917]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.06.13-15.09.00:141][917]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.06.13-15.09.00:141][917]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.06.13-15.09.00:142][917]LogHMD: Freeing OpenVRDLLHandle.
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (90)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module ChunkDownloader (88)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2021.06.13-15.09.00:142][917]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2021.06.13-15.09.00:143][917]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2021.06.13-15.09.00:143][917]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2021.06.13-15.09.00:165][917]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2021.06.13-15.09.00:165][917]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.13-15.09.00:165][917]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEFA6ABED-428E-751D-E6D5-9A922A1171A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=690b2de441e6026dd1b89586c3d06adc%7C3e5ee694ff5743af8bf4d75a809df0ae%7Ce9809989-91eb-4f6c-b9f8-d2f310e73368&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.13-15.09.00:165][917]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.06.13-15.09.00:189][917]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2021.06.13-15.09.00:191][917]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2021.06.13-15.09.00:193][917]LogModuleManager: Shutting down and abandoning module Media (67)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module MLSDK (60)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module ChaosCloth (52)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.06.13-15.09.00:194][917]LogXGEController: Cleaning working directory: C:/Users/sonyk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.13-15.09.00:194][917]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.06.13-15.09.00:195][917]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.13-15.09.00:195][917]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.13-15.09.00:195][917]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.13-15.09.00:195][917]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.13-15.09.00:195][917]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.13-15.09.00:198][917]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.13-15.09.00:198][917]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.13-15.09.00:212][917]LogD3D11RHI: Shutdown
+[2021.06.13-15.09.00:212][917]LogD3D11RHI: CleanupD3DDevice
+[2021.06.13-15.09.00:235][917]LogExit: Exiting.
+[2021.06.13-15.09.00:247][917]Log file closed, 06/13/21 11:09:00
