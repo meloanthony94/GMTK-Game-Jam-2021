@@ -1565,3 +1565,76 @@ Make sure 'MainCamera' has been compiled for  Get Spline
 [2021.06.13-00.54.14:866][643]LogSavePackage: Moving '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainMenuMap6F9725694B7FA09F784A639750281497.tmp' to '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.umap'
 [2021.06.13-00.54.14:887][643]AssetCheck: New page: Asset Save: MainMenuMap
 [2021.06.13-00.54.14:887][643]LogContentValidation: Display: Validating World /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap
+[2021.06.13-00.54.56:448][897]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-00.54.56:454][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-00.54.56:454][897]PIE: New page: PIE session: MainMenuMap (Jun 12, 2021, 10:54:56 AM)
+[2021.06.13-00.54.56:454][897]LogPlayLevel: Creating play world package: /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-00.54.56:455][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000885s)
+[2021.06.13-00.54.56:455][897]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.06.13-00.54.56:456][897]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2021.06.13-00.54.56:456][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap to /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001790s)
+[2021.06.13-00.54.56:477][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.13-00.54.56:478][897]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-00.54.56:478][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-00.54.56:478][897]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-00.54.56:478][897]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-00.54.56:481][897]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-00.54.56:481][897]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-00.54.56:493][897]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-00.54.56:494][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-00.54.56:494][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-00.54.56:494][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-00.54.56:494][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-00.54.56:494][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-00.54.56:494][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-00.54.56:505][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-00.54.56:505][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-00.54.56:505][897]LogInit: FAudioDevice initialized.
+[2021.06.13-00.54.56:505][897]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenuMap'.
+[2021.06.13-00.54.56:509][897]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-00.54.56:510][897]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2021.06.12-17.54.56
+[2021.06.13-00.54.56:510][897]LogWorld: Bringing up level for play took: 0.000208
+[2021.06.13-00.54.56:510][897]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.13-00.54.56:512][897]PIE: Server logged in
+[2021.06.13-00.54.56:512][897]PIE: Play in editor total start time 0.059 seconds.
+[2021.06.13-00.54.59:031][177]LogNet: Browse: /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.06.13-00.54.59:031][177]LogLoad: LoadMap: /Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.06.13-00.54.59:031][177]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_MainMenuMap
+[2021.06.13-00.54.59:031][177]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-00.54.59:032][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-00.54.59:074][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-00.54.59:077][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.06.13-00.54.59:096][177]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.06.13-00.54.59:096][177]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.13-00.54.59:097][177]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-00.54.59:110][177]LogWorld: Bringing World /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.12-17.54.59
+[2021.06.13-00.54.59:110][177]LogWorld: Bringing up level for play took: 0.012692
+[2021.06.13-00.54.59:111][177]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-00.54.59:111][177]LogLoad: Took 0.080288 seconds to LoadMap(/Game/NordDashContent/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2021.06.13-00.55.24:388][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-00.55.24:388][822]LogWorld: BeginTearingDown for /Game/NordDashContent/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.13-00.55.24:388][822]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-00.55.24:389][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-00.55.24:393][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-00.55.24:398][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-00.55.24:415][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-00.55.24:415][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-00.55.24:416][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-00.55.24:433][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.06.13-00.55.24:459][823]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.13-00.55.27:131][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.06.13-00.55.27:136][106]LogSavePackage: Moving '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainMenuMap6FF31DE44D652D0A87161BA1AFD4C23C.tmp' to '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.umap'
+[2021.06.13-00.55.27:155][106]AssetCheck: New page: Asset Save: MainMenuMap
+[2021.06.13-00.55.27:155][106]LogContentValidation: Display: Validating World /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap
+[2021.06.13-00.55.30:856][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.13-00.55.30:860][523]LogSavePackage: Moving '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainMenuMapCC381B2F45B0752D70B1A19D32E0F32E.tmp' to '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.umap'
+[2021.06.13-00.55.30:880][523]AssetCheck: New page: Asset Save: MainMenuMap
+[2021.06.13-00.55.30:880][523]LogContentValidation: Display: Validating World /Game/NordDashContent/ThirdPersonBP/Maps/MainMenuMap.MainMenuMap
+[2021.06.13-00.55.33:085][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
