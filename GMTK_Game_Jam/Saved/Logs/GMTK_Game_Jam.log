@@ -4289,3 +4289,681 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.06.13-14.22.36:166][678]LogContentValidation: Display: Validating Material /Game/NordDashContent/M_GigaGoat_Body.M_GigaGoat_Body
 [2021.06.13-14.22.36:166][678]LogContentValidation: Display: Validating SkeletalMesh /Game/NordDashContent/hooves.hooves
 [2021.06.13-14.22.36:166][678]LogContentValidation: Display: Validating FbxSceneImportData /Game/NordDashContent/gigaGoat_Rig.gigaGoat_Rig
+[2021.06.13-14.25.25:614][823]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2021.06.13-14.25.25:753][823]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/sonyk/Downloads/gigaGoat_Rig (1).fbx)
+[2021.06.13-14.25.26:631][823]LogFbx: Loading FBX Scene from ../../../../../../Users/sonyk/Downloads/gigaGoat_Rig (1).fbx
+[2021.06.13-14.25.28:460][823]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.13-14.25.30:217][823]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2021.06.13-14.25.30:238][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:239][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:239][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:239][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:239][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:239][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:239][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:240][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:240][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:240][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:240][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:240][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:240][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:241][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:242][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:243][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:244][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Valid bind pose for Pose (skinCluster7) - hooves
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node hooves : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node head : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node tail : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node body : The relative matrices do not match
+[2021.06.13-14.25.30:245][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.25.30:246][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.25.30:246][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.25.30:246][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.25.30:246][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.25.30:246][823]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.25.30:246][823]LogFbx: Valid bind pose for Pose (skinCluster9) - hooves
+[2021.06.13-14.25.30:246][823]LogFbx: Valid bind pose for Pose (skinCluster10) - hooves
+[2021.06.13-14.25.30:274][823]LogFbx: Triangulating skeletal mesh hooves
+[2021.06.13-14.25.30:636][823]LogFbx: Triangulating skeletal mesh head
+[2021.06.13-14.25.31:150][823]LogFbx: Triangulating skeletal mesh tail
+[2021.06.13-14.25.31:207][823]LogFbx: Triangulating skeletal mesh body
+[2021.06.13-14.25.31:324][823]LogFbx: Triangulating skeletal mesh eye_l
+[2021.06.13-14.25.31:345][823]LogFbx: Triangulating skeletal mesh eye_r
+[2021.06.13-14.25.31:386][823]LogFbx: Triangulating skeletal mesh back_legs
+[2021.06.13-14.25.31:563][823]LogFbx: Triangulating skeletal mesh front_legs
+[2021.06.13-14.25.31:841][823]LogFbx: Triangulating skeletal mesh saddle1
+[2021.06.13-14.25.31:909][823]LogFbx: Warning: Bones digested - 61  Depth of hierarchy - 13
+[2021.06.13-14.25.32:357][823]LogSkeletalMesh: Display: /Game/NordDashContent/hooves_1.hooves_1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.06.13-14.25.33:545][823]LogSkeletalMesh: Section 0: Material=0, 26485 triangles
+[2021.06.13-14.25.33:545][823]LogSkeletalMesh: Section 1: Material=1, 24346 triangles
+[2021.06.13-14.25.33:545][823]LogSkeletalMesh: Section 2: Material=2, 12734 triangles
+[2021.06.13-14.25.33:640][823]LogSkeletalMesh: Building Skeletal Mesh hooves_1...
+[2021.06.13-14.25.33:932][823]LogSkeletalMesh: Display: /Game/NordDashContent/hooves_1.hooves_1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.06.13-14.25.35:096][823]LogSkeletalMesh: Section 0: Material=0, 26485 triangles
+[2021.06.13-14.25.35:096][823]LogSkeletalMesh: Section 1: Material=1, 24346 triangles
+[2021.06.13-14.25.35:096][823]LogSkeletalMesh: Section 2: Material=2, 12734 triangles
+[2021.06.13-14.25.35:444][823]LogSkeletalMesh: Built Skeletal Mesh [1.80s] /Game/NordDashContent/hooves_1.hooves_1
+[2021.06.13-14.25.35:762][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.06.13-14.25.35:776][823]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.25.35:776][823]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.25.35:782][823]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.25.35:782][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/FbxScene_gigaGoat_Rig_(1).FbxScene_gigaGoat_Rig_(1)
+[2021.06.13-14.25.36:123][823]FBXImport: FBX File Loading: Found name clash, node 'eye_r' was renamed to 'eye_r1' 
+[2021.06.13-14.25.36:123][823]FBXImport: FBX File Loading: Found name clash, node 'eye_l' was renamed to 'eye_l2' 
+[2021.06.13-14.25.36:123][823]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2021.06.13-14.25.36:123][823]FBXImport: Warning: The following bones are missing from the bind pose:
+hooves  
+head  
+tail  
+body  
+back_legs  
+front_legs  
+armor1  
+head_top_jnt  
+ear_base_jnt_l  
+ear1_jnt_l  
+ear2_jnt_l  
+ear_end_jnt_l  
+ear_base_jnt_r  
+ear1_jnt_r  
+ear2_jnt_r  
+ear_end_jnt_r  
+jaw_jnt  
+jaw_end_jnt  
+clav_jnt_l  
+shoulder_jnt_l  
+front_knee_jnt_l  
+front_ankle_jnt_l  
+front_ball_jnt_l  
+front_toe_jnt_l  
+clav_jnt_r  
+shoulder_jnt_r  
+front_knee_jnt_r  
+front_ankle_jnt_r  
+front_ball_jnt_r  
+front_toe_jnt_r  
+tail_base_jnt  
+tail1_jnt  
+tail2_jnt  
+tail3_jnt  
+tail4_jnt  
+hip_jnt_l  
+back_knee_jnt_l  
+back_ankle_jnt_l  
+back_ball_jnt_l  
+back_toe_jnt_l  
+hip_jnt_r  
+back_knee_jnt_r  
+back_ankle_jnt_r  
+back_ball_jnt_r  
+back_toe_jnt_r  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.06.13-14.25.36:210][823]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Engine/Transient.World_8:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.25.36:284][824]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.25.42:909][202]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-14.25.42:916][202]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-14.25.53:673][823]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/NordDashContent/hooves_1.hooves_1
+[2021.06.13-14.25.53:686][823]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.13-14.25.53:874][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-14.25.53:878][823]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.06.13-14.26.00:079][160]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.26.00:079][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.26.00:155][160]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Engine/Transient.World_8:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.26.10:473][766]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.26.10:473][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.26.27:991][798]PIE: Warning: AttachTo: '/Engine/Transient.World_5:PersistentLevel.FbxScene_gigaGoat_Rig_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig"), cannot attach '/Engine/Transient.World_5:PersistentLevel.FbxScene_gigaGoat_Rig_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.26.32:389][ 61]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.13-14.26.32:389][ 61]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.26.32:389][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.26.59:179][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.06.13-14.27.00:128][586]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.13-14.27.00:225][586]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/NordDashContent/hooves_1.hooves_1
+[2021.06.13-14.27.00:245][586]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.01:115][586]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_gigaGoat_Rig_(1)_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.01:116][586]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_gigaGoat_Rig_(1)"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_gigaGoat_Rig_1.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.01:262][586]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.06.13-14.27.01:423][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.06.13-14.27.06:947][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.06.13-14.27.08:065][906]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.13-14.27.08:143][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.13-14.27.37:014][655]LogSlate: Window 'Message' being destroyed
+[2021.06.13-14.27.37:020][655]Message dialog closed, result: Ok, title: Message, text: You must select a path.
+[2021.06.13-14.27.39:225][655]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2021.06.13-14.27.39:326][655]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 ../../../../../../Users/sonyk/Downloads/GigaGoatRunCycle.fbx)
+[2021.06.13-14.27.39:856][655]LogFbx: Loading FBX Scene from ../../../../../../Users/sonyk/Downloads/GigaGoatRunCycle.fbx
+[2021.06.13-14.27.40:774][655]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.13-14.27.42:390][655]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2021.06.13-14.27.42:412][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:413][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:413][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:413][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:413][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:413][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:413][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:414][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:415][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:416][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:417][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:418][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Valid bind pose for Pose (skinCluster7) - hooves
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node hooves : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node head : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node tail : The relative matrices do not match
+[2021.06.13-14.27.42:419][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node body : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node eye_l : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node eye_r : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node back_legs : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node front_legs : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node armor1 : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Warning: Not valid bind pose for Pose (skinCluster8) - Node saddle1 : The relative matrices do not match
+[2021.06.13-14.27.42:420][655]LogFbx: Valid bind pose for Pose (skinCluster9) - hooves
+[2021.06.13-14.27.42:420][655]LogFbx: Valid bind pose for Pose (skinCluster10) - hooves
+[2021.06.13-14.27.42:448][655]LogFbx: Triangulating skeletal mesh hooves
+[2021.06.13-14.27.42:805][655]LogFbx: Triangulating skeletal mesh head
+[2021.06.13-14.27.43:311][655]LogFbx: Triangulating skeletal mesh tail
+[2021.06.13-14.27.43:375][655]LogFbx: Triangulating skeletal mesh body
+[2021.06.13-14.27.43:495][655]LogFbx: Triangulating skeletal mesh eye_l
+[2021.06.13-14.27.43:517][655]LogFbx: Triangulating skeletal mesh eye_r
+[2021.06.13-14.27.43:562][655]LogFbx: Triangulating skeletal mesh back_legs
+[2021.06.13-14.27.43:745][655]LogFbx: Triangulating skeletal mesh front_legs
+[2021.06.13-14.27.44:028][655]LogFbx: Triangulating skeletal mesh saddle1
+[2021.06.13-14.27.44:103][655]LogFbx: Warning: Bones digested - 61  Depth of hierarchy - 13
+[2021.06.13-14.27.44:554][655]LogSkeletalMesh: Display: /Game/NordDashContent/hooves_1.hooves_1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.06.13-14.27.45:768][655]LogSkeletalMesh: Section 0: Material=0, 26485 triangles
+[2021.06.13-14.27.45:768][655]LogSkeletalMesh: Section 1: Material=1, 24346 triangles
+[2021.06.13-14.27.45:768][655]LogSkeletalMesh: Section 2: Material=2, 12734 triangles
+[2021.06.13-14.27.45:816][655]LogFbx: SortedLinks :(0) Char_gigaGoat
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(1) gigaGoatGeo
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(2) hooves
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(3) head
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(4) tail
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(5) body
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(6) eye_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(7) eye_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(8) back_legs
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(9) front_legs
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(10) armor1
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(11) saddle1
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(12) root_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(13) pelvis_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(14) spine_1_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(15) spine2_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(16) spine_end_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(17) neck_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(18) head_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(19) head_top_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(20) ear_base_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(21) ear1_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(22) ear2_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(23) ear_end_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(24) ear_base_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(25) ear1_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(26) ear2_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(27) ear_end_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(28) jaw_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(29) jaw_end_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(30) eye_r1
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(31) pupil_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(32) eye_l2
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(33) pupil_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(34) clav_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(35) shoulder_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(36) front_knee_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(37) front_ankle_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(38) front_ball_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(39) front_toe_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(40) clav_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(41) shoulder_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(42) front_knee_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(43) front_ankle_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(44) front_ball_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(45) front_toe_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(46) tail_base_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(47) tail1_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(48) tail2_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(49) tail3_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(50) tail4_jnt
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(51) hip_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(52) back_knee_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(53) back_ankle_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(54) back_ball_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(55) back_toe_jnt_l
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(56) hip_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(57) back_knee_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(58) back_ankle_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(59) back_ball_jnt_r
+[2021.06.13-14.27.45:817][655]LogFbx: SortedLinks :(60) back_toe_jnt_r
+[2021.06.13-14.27.45:820][655]LogFbx: Parsing AnimStack RunCycle
+[2021.06.13-14.27.45:881][655]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Char_gigaGoat:0) 
+Source Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000)
+[2021.06.13-14.27.45:887][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NordDashContent/hooves_Anim.hooves_Anim
+[2021.06.13-14.27.45:887][655]LogSkeletalMesh: Building Skeletal Mesh hooves_1...
+[2021.06.13-14.27.46:179][655]LogSkeletalMesh: Display: /Game/NordDashContent/hooves_1.hooves_1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2021.06.13-14.27.47:351][655]LogSkeletalMesh: Section 0: Material=0, 26485 triangles
+[2021.06.13-14.27.47:351][655]LogSkeletalMesh: Section 1: Material=1, 24346 triangles
+[2021.06.13-14.27.47:351][655]LogSkeletalMesh: Section 2: Material=2, 12734 triangles
+[2021.06.13-14.27.47:708][655]LogSkeletalMesh: Built Skeletal Mesh [1.82s] /Game/NordDashContent/hooves_1.hooves_1
+[2021.06.13-14.27.48:014][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.06.13-14.27.48:036][655]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.48:037][655]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.48:042][655]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.48:043][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/FbxScene_GigaGoatRunCycle.FbxScene_GigaGoatRunCycle
+[2021.06.13-14.27.48:436][655]FBXImport: FBX File Loading: Found name clash, node 'eye_r' was renamed to 'eye_r1' 
+[2021.06.13-14.27.48:436][655]FBXImport: FBX File Loading: Found name clash, node 'eye_l' was renamed to 'eye_l2' 
+[2021.06.13-14.27.48:436][655]FBXImport: Warning: The following bones are missing from the bind pose:
+hooves  
+head  
+tail  
+body  
+back_legs  
+front_legs  
+armor1  
+head_top_jnt  
+ear_base_jnt_l  
+ear1_jnt_l  
+ear2_jnt_l  
+ear_end_jnt_l  
+ear_base_jnt_r  
+ear1_jnt_r  
+ear2_jnt_r  
+ear_end_jnt_r  
+jaw_jnt  
+jaw_end_jnt  
+clav_jnt_l  
+shoulder_jnt_l  
+front_knee_jnt_l  
+front_ankle_jnt_l  
+front_ball_jnt_l  
+front_toe_jnt_l  
+clav_jnt_r  
+shoulder_jnt_r  
+front_knee_jnt_r  
+front_ankle_jnt_r  
+front_ball_jnt_r  
+front_toe_jnt_r  
+tail_base_jnt  
+tail1_jnt  
+tail2_jnt  
+tail3_jnt  
+tail4_jnt  
+hip_jnt_l  
+back_knee_jnt_l  
+back_ankle_jnt_l  
+back_ball_jnt_l  
+back_toe_jnt_l  
+hip_jnt_r  
+back_knee_jnt_r  
+back_ankle_jnt_r  
+back_ball_jnt_r  
+back_toe_jnt_r  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.06.13-14.27.48:436][655]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.06.13-14.27.48:516][655]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.48:598][656]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.27.50:926][787]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-14.27.50:932][787]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-14.28.06:483][316]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.28.12:839][693]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.28.12:839][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.28.33:209][886]LogAssetEditorSubsystem: Opening Asset editor for FbxSceneImportData /Game/NordDashContent/GigaGoatRunCycle.GigaGoatRunCycle
+[2021.06.13-14.28.43:129][471]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NordDashContent/hooves_Anim.hooves_Anim
+[2021.06.13-14.28.43:140][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-14.28.43:688][471]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.13-14.28.54:223][101]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.28.54:223][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.28.54:238][101]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.28.54:238][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.28.54:286][101]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.28.54:286][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.29.40:808][856]Cmd: TRANSACTION UNDO
+[2021.06.13-14.29.40:808][856]LogEditorTransaction: Undo Create Actors
+[2021.06.13-14.29.40:813][856]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.29.40:813][856]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.29.42:320][933]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/NordDashContent/hooves_Anim.hooves_Anim
+[2021.06.13-14.29.42:324][933]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-14.29.42:642][933]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.13-14.29.47:239][197]LogSlate: Window 'hooves_Anim' being destroyed
+[2021.06.13-14.29.47:253][197]LogSlate: Window 'hooves_Anim' being destroyed
+[2021.06.13-14.29.47:254][197]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.29.47:254][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.29.47:281][197]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.29.47:281][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.29.47:341][197]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.29.47:341][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.30.14:327][703]BlueprintLog: New page: Compile GigaGoatCharacter
+[2021.06.13-14.30.14:460][703]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.06.13-14.30.35:954][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NordDashContent/FbxScene_GigaGoatRunCycle.FbxScene_GigaGoatRunCycle
+[2021.06.13-14.30.36:357][919]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Engine/Transient.World_19:PersistentLevel.FbxScene_GigaGoatRunCycle_C_0.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.30.38:646][ 51]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.30.38:647][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.31.06:896][656]Cmd: TRANSACTION UNDO
+[2021.06.13-14.31.06:897][656]LogEditorTransaction: Undo Set Node Enabled State
+[2021.06.13-14.31.06:906][656]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.31.06:912][656]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.31.14:228][ 28]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.13-14.31.22:513][502]LogSlate: Window 'GigaGoatCharacter' being destroyed
+[2021.06.13-14.31.51:039][192]BlueprintLog: New page: Compile GigaGoatCharacter
+[2021.06.13-14.31.51:143][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.06.13-14.31.51:690][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/GigaGoatCharacter" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoatCharacter.uasset" SILENT=true
+[2021.06.13-14.31.51:709][221]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/GigaGoatCharacter6239BC2B4483201D0FED6AB221113890.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/GigaGoatCharacter.uasset'
+[2021.06.13-14.31.51:723][221]AssetCheck: New page: Asset Save: GigaGoatCharacter
+[2021.06.13-14.31.51:723][221]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/GigaGoatCharacter.GigaGoatCharacter
+[2021.06.13-14.31.57:708][577]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.06.13-14.32.01:210][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.06.13-14.32.01:559][753]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001B1E384BA4B091085FEDA789B4E05BFF9.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-14.32.01:673][753]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData6AC617894DB4D95C2553ADB0ABE564B3.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-14.32.01:688][753]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-14.32.01:688][753]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-14.32.01:688][753]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-14.32.02:012][773]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.32.02:021][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.32.02:021][773]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:32:02 AM)
+[2021.06.13-14.32.02:021][773]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.32.02:087][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064908s)
+[2021.06.13-14.32.02:088][773]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.32.02:088][773]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2021.06.13-14.32.02:088][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.066521s)
+[2021.06.13-14.32.02:116][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.06.13-14.32.02:117][773]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.32.02:117][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.32.02:117][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.32.02:117][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.32.02:125][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.32.02:125][773]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.32.02:156][773]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.32.02:156][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.32.02:156][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.32.02:156][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.32.02:156][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.32.02:156][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.32.02:156][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.32.02:173][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.32.02:173][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.32.02:173][773]LogInit: FAudioDevice initialized.
+[2021.06.13-14.32.02:173][773]LogAudio: Display: Audio Device (ID: 12) registered with world 'test_level_v001'.
+[2021.06.13-14.32.02:184][773]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.32.02:191][773]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.32.02
+[2021.06.13-14.32.02:192][773]LogWorld: Bringing up level for play took: 0.007567
+[2021.06.13-14.32.02:192][773]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.06.13-14.32.02:194][773]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.32.02:195][773]PIE: Server logged in
+[2021.06.13-14.32.02:196][773]PIE: Play in editor total start time 0.178 seconds.
+[2021.06.13-14.32.06:229][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.32.06:229][ 12]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.32.06:230][ 12]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.32.06:231][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.32.06:242][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.32.06:255][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.32.06:284][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.32.06:284][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.32.06:285][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.32.06:313][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.13-14.32.06:348][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.06.13-14.32.07:765][ 95]LogEditorViewport: Clicking on Actor (LMB): FbxScene_GigaGoatRunCycle_C (FbxScene_GigaGoatRunCycle)
+[2021.06.13-14.32.07:770][ 95]PIE: Warning: AttachTo: '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.DefaultSceneRoot' is not static  (in blueprint "FbxScene_GigaGoatRunCycle"), cannot attach '/Game/goatGame/maps/level/test_level_v001.test_level_v001:PersistentLevel.FbxScene_GigaGoatRunCycle.Char_gigaGoat' which is static to it. Aborting.
+[2021.06.13-14.32.08:779][154]Cmd: DELETE
+[2021.06.13-14.32.08:779][154]Cmd: ACTOR DELETE
+[2021.06.13-14.32.08:811][154]LogEditorActor: Deleted Actor: FbxScene_GigaGoatRunCycle_C
+[2021.06.13-14.32.08:837][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.13-14.32.08:838][154]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.06.13-14.32.10:383][245]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.32.10:391][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.32.10:391][245]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:32:10 AM)
+[2021.06.13-14.32.10:391][245]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.32.10:462][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070621s)
+[2021.06.13-14.32.10:464][245]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.32.10:464][245]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2021.06.13-14.32.10:464][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.072393s)
+[2021.06.13-14.32.10:497][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.06.13-14.32.10:498][245]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.32.10:498][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.32.10:498][245]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.32.10:498][245]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.32.10:506][245]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.32.10:506][245]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.32.10:539][245]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.32.10:539][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.32.10:540][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.32.10:540][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.32.10:540][245]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.32.10:540][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.32.10:540][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.32.10:556][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.32.10:556][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.32.10:556][245]LogInit: FAudioDevice initialized.
+[2021.06.13-14.32.10:556][245]LogAudio: Display: Audio Device (ID: 13) registered with world 'test_level_v001'.
+[2021.06.13-14.32.10:569][245]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.32.10:577][245]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.32.10
+[2021.06.13-14.32.10:577][245]LogWorld: Bringing up level for play took: 0.007646
+[2021.06.13-14.32.10:578][245]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.06.13-14.32.10:580][245]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.32.10:580][245]PIE: Server logged in
+[2021.06.13-14.32.10:581][245]PIE: Play in editor total start time 0.192 seconds.
+[2021.06.13-14.33.06:048][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.33.06:048][569]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.33.06:049][569]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.33.06:050][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.33.06:060][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.33.06:066][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.33.06:093][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-14.33.06:093][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.33.06:094][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.33.06:140][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.33.06:149][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.06.13-14.33.06:173][570]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.06.13-14.33.18:659][290]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-14.34.18:497][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.34.18:505][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.34.18:505][780]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:34:18 AM)
+[2021.06.13-14.34.18:505][780]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.34.18:572][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065909s)
+[2021.06.13-14.34.18:573][780]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.34.18:573][780]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2021.06.13-14.34.18:573][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.067372s)
+[2021.06.13-14.34.18:601][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.06.13-14.34.18:604][780]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.34.18:604][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.34.18:604][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.34.18:604][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.34.18:613][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.34.18:613][780]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.34.18:643][780]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.34.18:643][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.34.18:643][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.34.18:643][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.34.18:644][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.34.18:644][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.34.18:644][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.34.18:662][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.34.18:662][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.34.18:662][780]LogInit: FAudioDevice initialized.
+[2021.06.13-14.34.18:662][780]LogAudio: Display: Audio Device (ID: 14) registered with world 'test_level_v001'.
+[2021.06.13-14.34.18:670][780]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.34.18:677][780]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.34.18
+[2021.06.13-14.34.18:678][780]LogWorld: Bringing up level for play took: 0.007753
+[2021.06.13-14.34.18:678][780]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.06.13-14.34.18:682][780]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.34.18:682][780]PIE: Server logged in
+[2021.06.13-14.34.18:683][780]PIE: Play in editor total start time 0.181 seconds.
+[2021.06.13-14.34.20:409][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.34.20:409][879]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.34.20:409][879]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.34.20:411][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.34.20:419][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.34.20:430][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.34.20:456][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.34.20:457][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.34.20:458][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.34.20:504][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.13-14.34.20:543][880]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.06.13-14.34.22:786][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-14.34.24:848][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-14.34.24:859][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-14.34.24:860][ 61]PIE: New page: PIE session: test_level_v001 (Jun 13, 2021, 6:34:24 AM)
+[2021.06.13-14.34.24:860][ 61]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.34.24:932][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072583s)
+[2021.06.13-14.34.24:933][ 61]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-14.34.24:933][ 61]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2021.06.13-14.34.24:933][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.074092s)
+[2021.06.13-14.34.24:965][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.06.13-14.34.24:966][ 61]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-14.34.24:966][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-14.34.24:966][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-14.34.24:967][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-14.34.24:967][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-14.34.24:974][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-14.34.24:974][ 61]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-14.34.25:005][ 61]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-14.34.25:005][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-14.34.25:005][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-14.34.25:005][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-14.34.25:006][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-14.34.25:006][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-14.34.25:006][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-14.34.25:025][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-14.34.25:026][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-14.34.25:026][ 61]LogInit: FAudioDevice initialized.
+[2021.06.13-14.34.25:026][ 61]LogAudio: Display: Audio Device (ID: 15) registered with world 'test_level_v001'.
+[2021.06.13-14.34.25:033][ 61]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-14.34.25:041][ 61]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-10.34.25
+[2021.06.13-14.34.25:042][ 61]LogWorld: Bringing up level for play took: 0.007812
+[2021.06.13-14.34.25:042][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.06.13-14.34.25:044][ 61]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.13-14.34.25:045][ 61]PIE: Server logged in
+[2021.06.13-14.34.25:046][ 61]PIE: Play in editor total start time 0.191 seconds.
+[2021.06.13-14.34.42:169][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.34.42:169][ 25]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-14.34.42:169][ 25]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-14.34.42:170][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.34.42:177][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-14.34.42:189][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-14.34.42:216][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-14.34.42:217][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.34.42:218][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-14.34.42:259][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.06.13-14.34.42:300][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_34
