@@ -894,3 +894,877 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.13-05.02.41:680][393]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera82948E9645337823D2BF718FB41E5C38.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
 [2021.06.13-05.02.41:699][393]AssetCheck: New page: Asset Save: MainCamera
 [2021.06.13-05.02.41:699][393]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.03.57:919][848]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.13-05.04.45:058][489]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.06.13-05.04.58:372][178]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.06.13-05.05.24:676][671]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.05.24:777][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.06.13-05.05.53:249][294]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.05.53:340][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.13-05.08.27:560][215]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.08.27:651][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.06.13-05.08.28:263][233]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera2C30C06A45382D9495FDE7903DEFC16C.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.08.28:285][233]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.08.28:285][233]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.08.33:937][558]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera445F623249ABBC8D3ECC93834CF41385.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.08.33:977][558]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.08.33:977][558]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.08.56:174][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.13-05.08.56:600][826]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001017FF78145B07CCFC6D5EE981869922D.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.08.56:788][826]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData83CB38AB48CFED3C7F24579207C18246.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.08.56:824][826]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.08.56:825][826]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.08.56:825][826]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.09.02:767][175]LogRenderer: Reallocating scene render targets to support 780x488 Format 10 NumSamples 1 (Frame:7433).
+[2021.06.13-05.09.02:849][175]LogRenderer: Reallocating scene render targets to support 792x488 Format 10 NumSamples 1 (Frame:7436).
+[2021.06.13-05.09.02:944][176]LogRenderer: Reallocating scene render targets to support 836x488 Format 10 NumSamples 1 (Frame:7440).
+[2021.06.13-05.09.03:030][177]LogRenderer: Reallocating scene render targets to support 848x488 Format 10 NumSamples 1 (Frame:7444).
+[2021.06.13-05.09.03:116][178]LogRenderer: Reallocating scene render targets to support 860x488 Format 10 NumSamples 1 (Frame:7448).
+[2021.06.13-05.09.03:199][179]LogRenderer: Reallocating scene render targets to support 868x488 Format 10 NumSamples 1 (Frame:7452).
+[2021.06.13-05.09.04:979][272]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.09.04:994][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.09.04:994][272]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:09:04 PM)
+[2021.06.13-05.09.04:995][272]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.09.05:074][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078882s)
+[2021.06.13-05.09.05:076][272]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.09.05:076][272]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2021.06.13-05.09.05:076][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.081134s)
+[2021.06.13-05.09.05:108][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.06.13-05.09.05:112][272]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.09.05:112][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.09.05:112][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.09.05:113][272]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.09.05:113][272]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.09.05:125][272]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.09.05:125][272]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.09.05:167][272]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.09.05:167][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.09.05:167][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.09.05:167][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.09.05:168][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.09.05:168][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.09.05:168][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.09.05:186][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.09.05:186][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.09.05:187][272]LogInit: FAudioDevice initialized.
+[2021.06.13-05.09.05:187][272]LogAudio: Display: Audio Device (ID: 3) registered with world 'test_level_v001'.
+[2021.06.13-05.09.05:194][272]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.09.05:202][272]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.09.05
+[2021.06.13-05.09.05:203][272]LogWorld: Bringing up level for play took: 0.008047
+[2021.06.13-05.09.05:204][272]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.06.13-05.09.05:206][272]PIE: Server logged in
+[2021.06.13-05.09.05:208][272]PIE: Play in editor total start time 0.217 seconds.
+[2021.06.13-05.09.22:128][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.09.22:128][281]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.09.22:129][281]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.09.22:129][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.09.22:156][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.09.22:164][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.09.22:189][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.09.22:189][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.09.22:190][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.09.22:235][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.09.22:239][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.06.13-05.09.22:288][282]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.06.13-05.09.36:529][984]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.06.13-05.09.36:558][984]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.06.13-05.09.58:026][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.09.58:040][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.09.58:040][198]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:09:58 PM)
+[2021.06.13-05.09.58:040][198]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.09.58:118][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077990s)
+[2021.06.13-05.09.58:119][198]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.09.58:120][198]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2021.06.13-05.09.58:120][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.079790s)
+[2021.06.13-05.09.58:151][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.13-05.09.58:154][198]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.09.58:154][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.09.58:154][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.09.58:155][198]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.09.58:155][198]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.09.58:166][198]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.09.58:166][198]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.09.58:203][198]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.09.58:203][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.09.58:203][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.09.58:203][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.09.58:203][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.09.58:203][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.09.58:203][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.09.58:223][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.09.58:224][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.09.58:224][198]LogInit: FAudioDevice initialized.
+[2021.06.13-05.09.58:224][198]LogAudio: Display: Audio Device (ID: 4) registered with world 'test_level_v001'.
+[2021.06.13-05.09.58:236][198]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.09.58:243][198]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.09.58
+[2021.06.13-05.09.58:243][198]LogWorld: Bringing up level for play took: 0.006485
+[2021.06.13-05.09.58:243][198]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.06.13-05.09.58:246][198]PIE: Server logged in
+[2021.06.13-05.09.58:247][198]PIE: Play in editor total start time 0.212 seconds.
+[2021.06.13-05.10.09:043][842]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=15.27 Y=-68.40 Z=0.00 Location: X=5163.80 Y=-481.52 Z=651.36 Normal: X=0.00 Y=-0.00 Z=1.00 PenetrationDepth:2.203 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-05.10.44:237][952]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=5.90 Y=-117.64 Z=0.00 Location: X=24015.19 Y=11882.65 Z=1933.71 Normal: X=0.15 Y=0.01 Z=0.99 PenetrationDepth:1.735 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_101 BoneName:None (4 other events since notify)
+[2021.06.13-05.11.08:048][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.11.08:048][379]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.11.08:049][379]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.11.08:050][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.11.08:058][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.11.08:068][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.11.08:094][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.11.08:094][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.11.08:095][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.11.08:125][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.11.08:129][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.06.13-05.11.08:184][380]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.06.13-05.14.48:219][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.06.13-05.14.48:587][356]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v0014F2F0140423CBFFEE342B2B1F42D78A4.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.14.48:757][356]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataE4E3464B43F24860B9C1358080B1B0E9.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.14.48:778][356]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.14.48:779][356]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.14.48:779][356]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.14.50:139][436]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.14.50:153][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.14.50:153][436]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:14:50 PM)
+[2021.06.13-05.14.50:153][436]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.14.50:228][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074535s)
+[2021.06.13-05.14.50:229][436]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.14.50:230][436]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2021.06.13-05.14.50:230][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.076305s)
+[2021.06.13-05.14.50:261][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.06.13-05.14.50:262][436]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.14.50:262][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.14.50:262][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.14.50:263][436]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.14.50:263][436]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.14.50:275][436]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.14.50:275][436]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.14.50:318][436]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.14.50:318][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.14.50:318][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.14.50:318][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.14.50:319][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.14.50:319][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.14.50:319][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.14.50:336][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.14.50:336][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.14.50:336][436]LogInit: FAudioDevice initialized.
+[2021.06.13-05.14.50:336][436]LogAudio: Display: Audio Device (ID: 5) registered with world 'test_level_v001'.
+[2021.06.13-05.14.50:346][436]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.14.50:355][436]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.14.50
+[2021.06.13-05.14.50:356][436]LogWorld: Bringing up level for play took: 0.008987
+[2021.06.13-05.14.50:356][436]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.13-05.14.50:360][436]PIE: Server logged in
+[2021.06.13-05.14.50:361][436]PIE: Play in editor total start time 0.211 seconds.
+[2021.06.13-05.16.23:656][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-05.17.24:058][433]LogRenderer: Reallocating scene render targets to support 868x500 Format 10 NumSamples 1 (Frame:434).
+[2021.06.13-05.17.33:838][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.17.33:838][ 15]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.17.33:839][ 15]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.17.33:840][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.17.33:872][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.17.33:923][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.17.33:954][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.17.33:954][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.17.33:955][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.17.33:992][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.17.33:997][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.06.13-05.17.34:055][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.13-05.17.41:400][447]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.17.41:507][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.06.13-05.17.42:288][482]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCameraD8150F51402B6F9F29A99A803D81C016.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.17.42:310][482]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.17.42:310][482]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.17.45:542][673]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.17.45:554][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.17.45:554][673]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:17:45 PM)
+[2021.06.13-05.17.45:554][673]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.17.45:633][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078240s)
+[2021.06.13-05.17.45:634][673]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.17.45:634][673]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2021.06.13-05.17.45:634][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.080043s)
+[2021.06.13-05.17.45:665][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.06.13-05.17.45:666][673]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.17.45:666][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.17.45:666][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.17.45:667][673]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.17.45:667][673]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.17.45:677][673]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.17.45:677][673]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.17.45:719][673]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.17.45:719][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.17.45:719][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.17.45:719][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.17.45:720][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.17.45:720][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.17.45:720][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.17.45:743][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.17.45:743][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.17.45:743][673]LogInit: FAudioDevice initialized.
+[2021.06.13-05.17.45:743][673]LogAudio: Display: Audio Device (ID: 6) registered with world 'test_level_v001'.
+[2021.06.13-05.17.45:772][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.17.45:773][673]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.17.45:785][673]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.17.45
+[2021.06.13-05.17.45:786][673]LogWorld: Bringing up level for play took: 0.012561
+[2021.06.13-05.17.45:786][673]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.13-05.17.45:788][673]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-05.17.45:791][673]PIE: Server logged in
+[2021.06.13-05.17.45:792][673]PIE: Play in editor total start time 0.242 seconds.
+[2021.06.13-05.17.45:905][674]LogRenderer: Reallocating scene render targets to support 1112x928 Format 10 NumSamples 1 (Frame:1).
+[2021.06.13-05.17.51:662][906]LogRenderer: Reallocating scene render targets to support 1536x928 Format 10 NumSamples 1 (Frame:234).
+[2021.06.13-05.19.00:493][ 29]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=68.83 Y=-2.73 Z=0.00 Location: X=28545.42 Y=1033.89 Z=1932.75 Normal: X=0.09 Y=0.12 Z=0.99 PenetrationDepth:0.243 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_102 BoneName:None (0 other events since notify)
+[2021.06.13-05.19.34:568][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.19.34:568][ 70]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.19.34:568][ 70]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.13-05.19.34:591][ 70]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.19.34:593][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.19.34:612][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.19.34:701][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.19.34:740][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.19.34:740][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.19.34:741][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.19.34:800][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.06.13-05.19.34:875][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.13-05.19.37:498][227]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.19.37:511][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.19.37:511][227]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:19:37 PM)
+[2021.06.13-05.19.37:511][227]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.19.37:589][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077695s)
+[2021.06.13-05.19.37:590][227]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.19.37:591][227]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2021.06.13-05.19.37:591][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.078979s)
+[2021.06.13-05.19.37:620][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.06.13-05.19.37:620][227]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.19.37:620][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.19.37:620][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.19.37:621][227]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.19.37:621][227]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.19.37:629][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.19.37:629][227]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.19.37:667][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.19.37:667][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.19.37:667][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.19.37:667][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.19.37:668][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.19.37:668][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.19.37:668][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.19.37:686][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.19.37:686][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.19.37:686][227]LogInit: FAudioDevice initialized.
+[2021.06.13-05.19.37:686][227]LogAudio: Display: Audio Device (ID: 7) registered with world 'test_level_v001'.
+[2021.06.13-05.19.37:712][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.19.37:712][227]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.19.37:724][227]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.19.37
+[2021.06.13-05.19.37:725][227]LogWorld: Bringing up level for play took: 0.011771
+[2021.06.13-05.19.37:725][227]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.13-05.19.37:727][227]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.13-05.19.37:729][227]PIE: Server logged in
+[2021.06.13-05.19.37:730][227]PIE: Play in editor total start time 0.224 seconds.
+[2021.06.13-05.19.45:751][698]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=14.50 Y=31.26 Z=0.00 Location: X=2896.26 Y=-757.94 Z=262.20 Normal: X=-0.18 Y=0.08 Z=0.98 PenetrationDepth:0.677 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-05.19.48:901][887]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=10.26 Y=-33.21 Z=0.00 Location: X=5445.27 Y=-323.17 Z=653.23 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.388 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-05.20.35:718][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.20.35:718][694]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.20.35:719][694]LogSlate: Window 'GMTK_Game_Jam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.13-05.20.35:746][694]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.20.35:749][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.20.35:762][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.20.35:853][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.20.35:892][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.20.35:893][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.20.35:937][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.06.13-05.20.36:011][695]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.13-05.21.03:848][152]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera32173029400C9761E06C539B5A855781.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.21.03:866][152]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.21.03:866][152]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.21.07:264][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.06.13-05.21.07:318][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.13-05.21.07:656][344]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001691614ED40CEE8A02CDC0EAE6DD7A406.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.21.07:673][344]LogFileHelpers: Saving map 'test_level_v001' took 0.385
+[2021.06.13-05.21.07:699][344]AssetCheck: New page: Asset Save: test_level_v001
+[2021.06.13-05.21.07:699][344]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.22.42:350][908]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.22.42:425][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.13-05.22.42:973][927]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCameraDDB2231D4D3B69048001FC8B13CF97C5.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.22.42:996][927]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.22.42:996][927]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.24.32:335][541]LogEditorTransaction: Undo Modify Component(s)
+[2021.06.13-05.24.47:735][437]LogEditorTransaction: Undo Modify Component(s)
+[2021.06.13-05.25.19:770][332]LogEditorTransaction: Undo Modify Component(s)
+[2021.06.13-05.26.04:014][954]LogEditorTransaction: Undo Modify Component(s)
+[2021.06.13-05.26.55:006][970]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.26.55:171][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.06.13-05.26.55:721][991]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera3368F5FE44388312655477B305380697.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.26.55:739][991]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.26.55:739][991]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.27.00:255][252]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-05.27.07:629][687]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.27.07:645][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.27.07:645][687]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:27:07 PM)
+[2021.06.13-05.27.07:645][687]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.27.07:721][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075841s)
+[2021.06.13-05.27.07:722][687]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.27.07:723][687]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2021.06.13-05.27.07:723][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.078066s)
+[2021.06.13-05.27.07:757][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.13-05.27.07:760][687]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.27.07:760][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.27.07:760][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.27.07:761][687]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.27.07:761][687]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.27.07:772][687]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.27.07:772][687]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.27.07:809][687]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.27.07:809][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.27.07:809][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.27.07:810][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.27.07:810][687]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.27.07:810][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.27.07:810][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.27.07:830][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.27.07:831][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.27.07:831][687]LogInit: FAudioDevice initialized.
+[2021.06.13-05.27.07:831][687]LogAudio: Display: Audio Device (ID: 8) registered with world 'test_level_v001'.
+[2021.06.13-05.27.07:839][687]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.27.07:846][687]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.27.07
+[2021.06.13-05.27.07:846][687]LogWorld: Bringing up level for play took: 0.006383
+[2021.06.13-05.27.07:847][687]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.06.13-05.27.07:849][687]PIE: Server logged in
+[2021.06.13-05.27.07:850][687]PIE: Play in editor total start time 0.209 seconds.
+[2021.06.13-05.27.24:197][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.27.24:197][661]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.27.24:197][661]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.27.24:198][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.27.24:209][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.27.24:219][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.27.24:244][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.27.24:245][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.27.24:246][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.27.24:285][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.06.13-05.27.24:327][662]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.06.13-05.28.30:341][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.06.13-05.28.30:664][569]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001A0E0229F45A332A190E10BAF1808C07A.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.28.30:815][569]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData3E30C2AB49A2EB018F00EF9971ED4458.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.28.30:840][569]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.28.30:840][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.28.30:840][569]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.28.32:525][667]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.28.32:539][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.28.32:539][667]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:28:32 PM)
+[2021.06.13-05.28.32:539][667]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.28.32:611][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072244s)
+[2021.06.13-05.28.32:612][667]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.28.32:613][667]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2021.06.13-05.28.32:613][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.073814s)
+[2021.06.13-05.28.32:646][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.06.13-05.28.32:647][667]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.28.32:647][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.28.32:647][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.28.32:648][667]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.28.32:648][667]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.28.32:656][667]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.28.32:656][667]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.28.32:697][667]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.28.32:697][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.28.32:697][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.28.32:698][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.28.32:698][667]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.28.32:698][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.28.32:698][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.28.32:715][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.28.32:715][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.28.32:715][667]LogInit: FAudioDevice initialized.
+[2021.06.13-05.28.32:715][667]LogAudio: Display: Audio Device (ID: 9) registered with world 'test_level_v001'.
+[2021.06.13-05.28.32:725][667]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.28.32:732][667]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.28.32
+[2021.06.13-05.28.32:732][667]LogWorld: Bringing up level for play took: 0.006331
+[2021.06.13-05.28.32:732][667]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.13-05.28.32:735][667]PIE: Server logged in
+[2021.06.13-05.28.32:737][667]PIE: Play in editor total start time 0.203 seconds.
+[2021.06.13-05.28.50:793][748]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=102.63 Y=2.40 Z=0.00 Location: X=9320.05 Y=3570.14 Z=452.16 Normal: X=0.52 Y=0.06 Z=0.85 PenetrationDepth:0.951 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_100 BoneName:None (0 other events since notify)
+[2021.06.13-05.28.52:928][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.28.52:928][873]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.28.52:928][873]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.28.52:929][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.28.52:939][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.28.52:951][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.28.52:978][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.28.52:978][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.28.52:979][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.28.53:021][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.06.13-05.28.53:067][874]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.13-05.28.58:252][167]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.13-05.29.27:803][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.06.13-05.29.28:135][864]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001C46A6FAA4F9ECD0046FB5DABB337C1D1.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.29.28:286][864]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataFEE6FFEA42561FFBE23A2CAA1CEB8C29.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.29.28:308][864]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.29.28:308][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.29.28:308][864]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.29.30:030][960]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.29.30:047][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.29.30:047][960]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:29:30 PM)
+[2021.06.13-05.29.30:047][960]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.29.30:126][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079197s)
+[2021.06.13-05.29.30:128][960]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.29.30:128][960]LogPlayLevel: PIE: World Init took: (0.001762s)
+[2021.06.13-05.29.30:128][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.081213s)
+[2021.06.13-05.29.30:157][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.06.13-05.29.30:158][960]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.29.30:158][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.29.30:158][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.29.30:159][960]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.29.30:159][960]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.29.30:170][960]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.29.30:170][960]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.29.30:216][960]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.29.30:216][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.29.30:216][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.29.30:216][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.29.30:216][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.29.30:216][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.29.30:217][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.29.30:238][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.29.30:238][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.29.30:238][960]LogInit: FAudioDevice initialized.
+[2021.06.13-05.29.30:238][960]LogAudio: Display: Audio Device (ID: 10) registered with world 'test_level_v001'.
+[2021.06.13-05.29.30:251][960]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.29.30:258][960]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.29.30
+[2021.06.13-05.29.30:259][960]LogWorld: Bringing up level for play took: 0.006521
+[2021.06.13-05.29.30:259][960]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.13-05.29.30:261][960]PIE: Server logged in
+[2021.06.13-05.29.30:262][960]PIE: Play in editor total start time 0.22 seconds.
+[2021.06.13-05.29.38:301][440]LogCharacterMovement: GigaGoatCharacter_4 is stuck and failed to move! Velocity: X=15.87 Y=30.23 Z=0.00 Location: X=3134.64 Y=-317.60 Z=258.50 Normal: X=-0.15 Y=0.11 Z=0.98 PenetrationDepth:0.277 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-05.29.40:734][586]LogCharacterMovement: GigaGoatCharacter_4 is stuck and failed to move! Velocity: X=120.12 Y=-587.85 Z=0.00 Location: X=4987.96 Y=-1136.96 Z=644.19 Normal: X=-0.14 Y=-0.14 Z=0.98 PenetrationDepth:0.557 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (44 other events since notify)
+[2021.06.13-05.30.14:984][639]LogCharacterMovement: RightGoat is stuck and failed to move! Velocity: X=-50.33 Y=89.26 Z=0.00 Location: X=22790.23 Y=12266.79 Z=1899.60 Normal: X=-0.31 Y=0.09 Z=0.95 PenetrationDepth:0.162 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_101 BoneName:None (0 other events since notify)
+[2021.06.13-05.30.56:497][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.30.56:497][127]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.30.56:497][127]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.30.56:498][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.30.56:508][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.30.56:517][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.30.56:542][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.30.56:542][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.30.56:543][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.30.56:588][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.30.56:593][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.06.13-05.30.56:637][128]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.13-05.31.04:348][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.13-05.31.04:677][584]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001CEB7BC3B48C742F3EA0DE4BB3F0C42AE.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.31.04:826][584]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataBFCF4DE04F0C0C3E4F9B2F8C865CD1BB.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.31.04:847][584]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.31.04:847][584]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.31.04:848][584]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.33.05:357][788]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.33.05:459][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.13-05.33.08:427][950]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.33.08:441][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.33.08:441][950]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:33:08 PM)
+[2021.06.13-05.33.08:441][950]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.33.08:523][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081993s)
+[2021.06.13-05.33.08:524][950]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.33.08:525][950]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.06.13-05.33.08:525][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.083529s)
+[2021.06.13-05.33.08:554][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.06.13-05.33.08:555][950]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.06.13-05.33.08:555][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.33.08:555][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.33.08:555][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.33.08:555][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.33.08:556][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.33.08:556][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.33.08:556][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.33.08:556][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.33.08:556][950]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.33.08:556][950]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.33.08:566][950]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.33.08:566][950]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.33.08:606][950]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.33.08:607][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.33.08:607][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.33.08:607][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.33.08:607][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.33.08:607][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.33.08:607][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.33.08:627][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.33.08:627][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.33.08:627][950]LogInit: FAudioDevice initialized.
+[2021.06.13-05.33.08:627][950]LogAudio: Display: Audio Device (ID: 11) registered with world 'test_level_v001'.
+[2021.06.13-05.33.08:639][950]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.33.08:646][950]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.33.08
+[2021.06.13-05.33.08:647][950]LogWorld: Bringing up level for play took: 0.007092
+[2021.06.13-05.33.08:647][950]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.13-05.33.08:649][950]PIE: Server logged in
+[2021.06.13-05.33.08:650][950]PIE: Play in editor total start time 0.215 seconds.
+[2021.06.13-05.34.22:420][370]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=34.68 Y=-3.54 Z=0.00 Location: X=28538.56 Y=1016.46 Z=1935.59 Normal: X=0.09 Y=0.12 Z=0.99 PenetrationDepth:0.241 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_102 BoneName:None (0 other events since notify)
+[2021.06.13-05.34.41:896][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.34.41:896][537]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.34.41:896][537]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.34.41:897][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.34.41:908][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.34.41:918][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.34.41:943][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.34.41:944][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.34.41:945][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.34.41:987][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.34.41:994][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.06.13-05.34.42:027][538]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.13-05.34.43:632][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.06.13-05.34.43:954][626]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v00110E424504597F1232ACE4993C20142FE.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.34.44:107][626]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataF303C36B409F75EB87A995BE43D3C510.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.34.44:128][626]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.34.44:128][626]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.34.44:128][626]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.35.21:258][822]BlueprintLog: New page: Compile MainCamera
+[2021.06.13-05.35.21:353][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.13-05.35.21:861][834]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/MainCamera6B59910947718EFF9C62CDA83E0724C4.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.uasset'
+[2021.06.13-05.35.21:878][834]AssetCheck: New page: Asset Save: MainCamera
+[2021.06.13-05.35.21:878][834]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/MainCamera.MainCamera
+[2021.06.13-05.35.24:422][981]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.35.24:441][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.35.24:441][981]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:35:24 PM)
+[2021.06.13-05.35.24:441][981]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.35.24:514][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072127s)
+[2021.06.13-05.35.24:515][981]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.35.24:515][981]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2021.06.13-05.35.24:515][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.073994s)
+[2021.06.13-05.35.24:546][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.13-05.35.24:547][981]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.35.24:547][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.35.24:547][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.35.24:548][981]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.35.24:548][981]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.35.24:558][981]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.35.24:558][981]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.35.24:604][981]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.35.24:604][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.35.24:604][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.35.24:604][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.35.24:605][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.35.24:605][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.35.24:605][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.35.24:625][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.35.24:625][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.35.24:625][981]LogInit: FAudioDevice initialized.
+[2021.06.13-05.35.24:625][981]LogAudio: Display: Audio Device (ID: 12) registered with world 'test_level_v001'.
+[2021.06.13-05.35.24:635][981]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.35.24:641][981]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.35.24
+[2021.06.13-05.35.24:642][981]LogWorld: Bringing up level for play took: 0.006310
+[2021.06.13-05.35.24:642][981]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.13-05.35.24:645][981]PIE: Server logged in
+[2021.06.13-05.35.24:646][981]PIE: Play in editor total start time 0.21 seconds.
+[2021.06.13-05.35.32:696][461]LogCharacterMovement: LeftGoat is stuck and failed to move! Velocity: X=14.50 Y=31.26 Z=0.00 Location: X=2902.27 Y=-760.85 Z=263.40 Normal: X=-0.18 Y=0.08 Z=0.98 PenetrationDepth:0.841 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_92 BoneName:None (0 other events since notify)
+[2021.06.13-05.36.38:903][432]LogCharacterMovement: GigaGoatCharacter_4 is stuck and failed to move! Velocity: X=43.53 Y=-12.16 Z=0.00 Location: X=29313.75 Y=773.20 Z=1927.00 Normal: X=-0.01 Y=0.09 Z=1.00 PenetrationDepth:1.451 Actor:Landscape_0 Component:LandscapeHeightfieldCollisionComponent_102 BoneName:None (0 other events since notify)
+[2021.06.13-05.37.14:456][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.37.14:456][562]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.37.14:456][562]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.37.14:457][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.37.14:480][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.37.14:490][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.37.14:514][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-05.37.14:516][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.37.14:518][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.37.14:553][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.37.14:561][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.13-05.37.14:597][563]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.13-05.37.16:891][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.13-05.37.17:209][694]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v00130E7D002478897229D43F7AC3DC4E448.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.37.17:353][694]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltDataB4ED31094EAE8B5704A41F82AA045BB8.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.37.17:367][694]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.37.17:367][694]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.37.17:368][694]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
+[2021.06.13-05.38.41:010][271]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\sonyk\Downloads\char_BabyGoatRun.fbx)
+[2021.06.13-05.38.41:579][271]LogFbx: Loading FBX Scene from C:\Users\sonyk\Downloads\char_BabyGoatRun.fbx
+[2021.06.13-05.38.42:427][271]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.13-05.38.47:937][271]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.13-05.38.47:967][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node saddle : The relative matrices do not match
+[2021.06.13-05.38.47:967][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node hooves : The relative matrices do not match
+[2021.06.13-05.38.47:967][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node armor : The relative matrices do not match
+[2021.06.13-05.38.47:967][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node head : The relative matrices do not match
+[2021.06.13-05.38.47:968][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node body : The relative matrices do not match
+[2021.06.13-05.38.47:968][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node tongue : The relative matrices do not match
+[2021.06.13-05.38.47:968][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node eye_r1 : The relative matrices do not match
+[2021.06.13-05.38.47:968][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node eye_l2 : The relative matrices do not match
+[2021.06.13-05.38.47:968][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node saddle : The relative matrices do not match
+[2021.06.13-05.38.47:968][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node hooves : The relative matrices do not match
+[2021.06.13-05.38.47:969][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node armor : The relative matrices do not match
+[2021.06.13-05.38.47:969][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node head : The relative matrices do not match
+[2021.06.13-05.38.47:969][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node body : The relative matrices do not match
+[2021.06.13-05.38.47:969][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node tongue : The relative matrices do not match
+[2021.06.13-05.38.47:969][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node eye_r1 : The relative matrices do not match
+[2021.06.13-05.38.47:970][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node eye_l2 : The relative matrices do not match
+[2021.06.13-05.38.47:970][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node saddle : The relative matrices do not match
+[2021.06.13-05.38.47:970][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node hooves : The relative matrices do not match
+[2021.06.13-05.38.47:970][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node armor : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node head : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node body : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node tongue : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node eye_r1 : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node eye_l2 : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node saddle : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node hooves : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node armor : The relative matrices do not match
+[2021.06.13-05.38.47:971][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node head : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node body : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node tongue : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node eye_r1 : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node eye_l2 : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node saddle : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node hooves : The relative matrices do not match
+[2021.06.13-05.38.47:972][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node armor : The relative matrices do not match
+[2021.06.13-05.38.47:973][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node head : The relative matrices do not match
+[2021.06.13-05.38.47:973][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node body : The relative matrices do not match
+[2021.06.13-05.38.47:973][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node tongue : The relative matrices do not match
+[2021.06.13-05.38.47:973][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node eye_r1 : The relative matrices do not match
+[2021.06.13-05.38.47:973][271]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node eye_l2 : The relative matrices do not match
+[2021.06.13-05.38.47:974][271]LogFbx: Valid bind pose for Pose (skinCluster6) - saddle
+[2021.06.13-05.38.47:974][271]LogFbx: Valid bind pose for Pose (skinCluster7) - saddle
+[2021.06.13-05.38.47:974][271]LogFbx: Valid bind pose for Pose (skinCluster8) - saddle
+[2021.06.13-05.38.48:023][271]LogMaterial: Display: Material /Game/NordDashContent/M_BabyGoat_Armor.M_BabyGoat_Armor needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.13-05.38.48:025][271]LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Armor, compiling. 
+[2021.06.13-05.38.48:271][271]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.06.13-05.38.48:271][271]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.06.13-05.38.48:271][271]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.06.13-05.38.48:271][271]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.13-05.38.48:271][271]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.13-05.38.48:271][271]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.13-05.38.48:271][271]LogTexture: Display: Building textures: M_BabyGoat_Armor_BC (AutoDXT, 2048X2048)
+[2021.06.13-05.38.49:084][271]LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Armor, compiling. 
+[2021.06.13-05.38.49:118][271]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.06.13-05.38.49:118][271]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.06.13-05.38.49:137][271]LogFbx: Triangulating skeletal mesh saddle
+[2021.06.13-05.38.49:345][271]LogMaterial: Display: Material /Game/NordDashContent/M_BabyGoatBody.M_BabyGoatBody needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.13-05.38.49:357][271]LogMaterial: Display: Missing cached shader map for material M_BabyGoatBody, compiling. 
+[2021.06.13-05.38.49:608][271]LogTexture: Display: Building textures: M_BabyGoatBody_BC (AutoDXT, 2048X2048)
+[2021.06.13-05.38.49:984][271]LogMaterial: Display: Missing cached shader map for material M_BabyGoatBody, compiling. 
+[2021.06.13-05.38.50:036][271]LogFbx: Triangulating skeletal mesh hooves
+[2021.06.13-05.38.50:284][271]LogMaterial: Display: Material /Game/NordDashContent/M_BabyGoat_Head.M_BabyGoat_Head needed to have new flag set bUsedWithSkeletalMesh !
+[2021.06.13-05.38.50:289][271]LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Head, compiling. 
+[2021.06.13-05.38.50:544][271]LogTexture: Display: Building textures: M_BabyGoat_Head_BC (AutoDXT, 2048X2048)
+[2021.06.13-05.38.51:067][271]LogMaterial: Display: Missing cached shader map for material M_BabyGoat_Head, compiling. 
+[2021.06.13-05.38.51:157][271]LogFbx: Triangulating skeletal mesh head
+[2021.06.13-05.38.52:165][271]LogFbx: Triangulating skeletal mesh body
+[2021.06.13-05.38.52:818][271]LogFbx: Triangulating skeletal mesh tongue
+[2021.06.13-05.38.52:910][271]LogFbx: Triangulating skeletal mesh eye_r1
+[2021.06.13-05.38.52:962][271]LogFbx: Triangulating skeletal mesh eye_l2
+[2021.06.13-05.38.53:129][271]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 64
+[2021.06.13-05.38.53:135][271]LogFbx: Warning: Bones digested - 59  Depth of hierarchy - 13
+[2021.06.13-05.38.53:571][271]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 55
+[2021.06.13-05.38.53:571][271]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2021.06.13-05.38.55:587][271]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.06.13-05.38.55:587][271]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.06.13-05.38.55:587][271]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.06.13-05.38.55:588][271]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.13-05.38.55:588][271]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.06.13-05.38.56:196][271]LogSkeletalMesh: Section 0: Material=0, 12734 triangles
+[2021.06.13-05.38.56:196][271]LogSkeletalMesh: Section 1: Material=1, 11868 triangles
+[2021.06.13-05.38.56:196][271]LogSkeletalMesh: Section 2: Material=2, 17134 triangles
+[2021.06.13-05.38.56:284][271]LogSkeletalMesh: Building Skeletal Mesh char_BabyGoatRun...
+[2021.06.13-05.38.58:402][271]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.06.13-05.38.59:186][271]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2021.06.13-05.38.59:240][271]LogSkeletalMesh: Section 0: Material=0, 12734 triangles
+[2021.06.13-05.38.59:240][271]LogSkeletalMesh: Section 1: Material=1, 11868 triangles
+[2021.06.13-05.38.59:241][271]LogSkeletalMesh: Section 2: Material=2, 17134 triangles
+[2021.06.13-05.38.59:646][271]LogSkeletalMesh: Built Skeletal Mesh [3.36s] /Game/NordDashContent/char_BabyGoatRun.char_BabyGoatRun
+[2021.06.13-05.38.59:710][271]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.38.59:711][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.38.59:927][271]FBXImport: FBX File Loading: Found name clash, node 'eye_r' was renamed to 'eye_r1' 
+[2021.06.13-05.38.59:927][271]FBXImport: FBX File Loading: Found name clash, node 'eye_l' was renamed to 'eye_l2' 
+[2021.06.13-05.38.59:927][271]FBXImport: Warning: The following bones are missing from the bind pose:
+head_top_jnt  
+ear_base_jnt_r  
+ear1_jnt_r  
+ear2_jnt_r  
+ear_end_jnt_r  
+ear_base_jnt_l  
+ear1_jnt_l  
+ear2_jnt_l  
+ear_end_jnt_l  
+jaw_jnt  
+jaw_end_jnt  
+clav_jnt_l  
+shoulder_jnt_l  
+front_knee_jnt_l  
+front_ankle_jnt_l  
+front_ball_jnt_l  
+front_toe_jnt_l  
+clav_jnt_r  
+shoulder_jnt_r  
+front_knee_jnt_r  
+front_ankle_jnt_r  
+front_ball_jnt_r  
+front_toe_jnt_r  
+tail_base_jnt  
+tail1_jnt  
+tail2_jnt  
+tail3_jnt  
+tail4_jnt  
+hip_jnt_l  
+back_knee_jnt_l  
+back_ankle_jnt_l  
+back_ball_jnt_l  
+back_toe_jnt_l  
+hip_jnt_r  
+back_knee_jnt_r  
+back_ankle_jnt_r  
+back_ball_jnt_r  
+back_toe_jnt_r  
+saddle  
+hooves  
+armor  
+head  
+body  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.06.13-05.39.00:767][282]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.06.13-05.39.00:891][286]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.06.13-05.39.01:338][297]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.13-05.39.01:700][306]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.06.13-05.39.01:700][306]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.13-05.39.03:302][338]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.13-05.39.03:516][342]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.13-05.39.03:808][350]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.13-05.39.04:017][356]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.06.13-05.39.04:021][356]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.06.13-05.39.23:176][260]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/NordDashContent/char_BabyGoatRun.char_BabyGoatRun
+[2021.06.13-05.39.23:260][260]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2021.06.13-05.39.23:522][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-05.39.23:534][260]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2021.06.13-05.39.41:659][272]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.13-05.39.46:481][520]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-05.39.46:487][520]LogSlate: Window 'Message Log' being destroyed
+[2021.06.13-05.39.58:248][994]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.13-05.40.19:247][245]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/NordDashContent/BabyGoat_PROXYTest_Skeleton.BabyGoat_PROXYTest_Skeleton
+[2021.06.13-05.40.19:251][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-05.40.26:787][678]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/NordDashContent/char_BabyGoatRun_PhysicsAsset.char_BabyGoatRun_PhysicsAsset
+[2021.06.13-05.40.26:831][678]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.06.13-05.40.26:841][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.06.13-05.43.09:923][727]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-05.43.09:934][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-05.43.09:934][727]PIE: New page: PIE session: test_level_v001 (Jun 12, 2021, 9:43:09 PM)
+[2021.06.13-05.43.09:934][727]LogPlayLevel: Creating play world package: /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.43.09:994][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059638s)
+[2021.06.13-05.43.09:995][727]LogAIModule: Creating AISystem for world test_level_v001
+[2021.06.13-05.43.09:996][727]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2021.06.13-05.43.09:996][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/goatGame/maps/level/test_level_v001.test_level_v001 to /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 (0.061661s)
+[2021.06.13-05.43.10:127][727]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.06.13-05.43.10:129][727]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.06.13-05.43.10:129][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-05.43.10:129][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-05.43.10:129][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-05.43.10:130][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-05.43.10:130][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-05.43.10:130][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-05.43.10:130][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-05.43.10:130][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-05.43.10:130][727]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-05.43.10:130][727]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-05.43.10:138][727]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-05.43.10:138][727]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-05.43.10:169][727]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.13-05.43.10:169][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-05.43.10:169][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-05.43.10:169][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-05.43.10:169][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-05.43.10:169][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-05.43.10:169][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-05.43.10:183][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-05.43.10:183][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-05.43.10:183][727]LogInit: FAudioDevice initialized.
+[2021.06.13-05.43.10:183][727]LogAudio: Display: Audio Device (ID: 13) registered with world 'test_level_v001'.
+[2021.06.13-05.43.10:190][727]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-05.43.10:195][727]LogWorld: Bringing World /Game/goatGame/maps/level/UEDPIE_0_test_level_v001.test_level_v001 up for play (max tick rate 60) at 2021.06.13-01.43.10
+[2021.06.13-05.43.10:196][727]LogWorld: Bringing up level for play took: 0.005610
+[2021.06.13-05.43.10:196][727]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.06.13-05.43.10:198][727]PIE: Server logged in
+[2021.06.13-05.43.10:199][727]PIE: Play in editor total start time 0.268 seconds.
+[2021.06.13-05.44.39:025][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.44.39:025][ 50]LogWorld: BeginTearingDown for /Game/goatGame/maps/level/UEDPIE_0_test_level_v001
+[2021.06.13-05.44.39:026][ 50]LogWorld: UWorld::CleanupWorld for test_level_v001, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.44.39:026][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.44.39:040][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-05.44.39:049][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.44.39:073][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-05.44.39:073][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.44.39:074][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-05.44.39:120][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.06.13-05.44.39:154][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.06.13-05.44.42:862][267]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.44.42:862][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.44.43:927][327]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.44.43:927][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.44.57:299][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/char_BabyGoatRun" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/char_BabyGoatRun.uasset" SILENT=true
+[2021.06.13-05.44.57:431][117]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/char_BabyGoatRunDEAADD4A48AFCB6BCFEE5FB6D94F963A.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/char_BabyGoatRun.uasset'
+[2021.06.13-05.44.57:449][117]AssetCheck: New page: Asset Save: char_BabyGoatRun
+[2021.06.13-05.44.57:449][117]LogContentValidation: Display: Validating SkeletalMesh /Game/NordDashContent/char_BabyGoatRun.char_BabyGoatRun
+[2021.06.13-05.45.16:018][231]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.13-05.45.20:970][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NordDashContent/char_BabyGoatRun" FILE="D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/char_BabyGoatRun.uasset" SILENT=true
+[2021.06.13-05.45.21:083][525]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/char_BabyGoatRunCDCA1764421DB6FC0EDCA9A1B5531E36.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/char_BabyGoatRun.uasset'
+[2021.06.13-05.45.21:099][525]AssetCheck: New page: Asset Save: char_BabyGoatRun
+[2021.06.13-05.45.21:099][525]LogContentValidation: Display: Validating SkeletalMesh /Game/NordDashContent/char_BabyGoatRun.char_BabyGoatRun
+[2021.06.13-05.45.38:882][585]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/NordDashContent/BabyGoat_PROXYTest_Skeleton.BabyGoat_PROXYTest_Skeleton
+[2021.06.13-05.45.38:885][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-05.45.47:119][ 63]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.45.47:119][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.45.52:269][369]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.06.13-05.46.57:053][236]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/NordDashContent/BabyGoat_PROXYTest.BabyGoat_PROXYTest
+[2021.06.13-05.46.57:056][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.13-05.47.00:833][443]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-05.47.00:833][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-05.47.53:916][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.13-05.47.54:176][264]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001734D36194D51C335D4A3FEBE80E6ED40.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001.umap'
+[2021.06.13-05.47.54:295][264]LogSavePackage: Moving 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/test_level_v001_BuiltData7E19838C4EF55E56DC0107B6FCFB2E8F.tmp' to 'D:/Unreal Projects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/goatGame/maps/level/test_level_v001_BuiltData.uasset'
+[2021.06.13-05.47.54:308][264]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.47.54:308][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/goatGame/maps/level/test_level_v001_BuiltData.test_level_v001_BuiltData
+[2021.06.13-05.47.54:308][264]LogContentValidation: Display: Validating World /Game/goatGame/maps/level/test_level_v001.test_level_v001
