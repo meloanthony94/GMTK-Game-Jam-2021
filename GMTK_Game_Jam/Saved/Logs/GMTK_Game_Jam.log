@@ -938,6 +938,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.13-05.29.20:358][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.13-05.29.20:374][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
 [2021.06.13-05.29.20:392][933]LogPlayLevel: Display: Destroying online subsystem :Context_4
+<<<<<<< HEAD
 [2021.06.13-05.34.09:470][266]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/NordDashContent/StarterContent/Audio/Starter_Music01.Starter_Music01
 [2021.06.13-05.34.22:014][759]LogTemp: Repeating last play command: Selected Viewport
 [2021.06.13-05.34.22:020][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
@@ -1308,3 +1309,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.13-05.45.00:082][515]LogSavePackage: Moving '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Saved/Collectable80003F34493605CB578C0681E6ADE871.tmp' to '../../../../../dev/unrealprojects/GMTK-Game-Jam-2021/GMTK_Game_Jam/Content/NordDashContent/ThirdPersonBP/Blueprints/Collectable.uasset'
 [2021.06.13-05.45.00:091][515]AssetCheck: New page: Asset Save: Collectable
 [2021.06.13-05.45.00:091][515]LogContentValidation: Display: Validating Blueprint /Game/NordDashContent/ThirdPersonBP/Blueprints/Collectable.Collectable
+=======
+>>>>>>> 2b1d53a (add bgm)
